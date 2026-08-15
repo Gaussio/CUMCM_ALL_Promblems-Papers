@@ -1,0 +1,4556 @@
+[
+    [
+        {
+            "type": "page_number",
+            "bbox": [
+                0.293,
+                0.086,
+                0.351,
+                0.104
+            ],
+            "angle": 0,
+            "content": "2014"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.194,
+                0.197,
+                0.321,
+                0.219
+            ],
+            "angle": 0,
+            "content": "( “",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.321,
+                0.254,
+                0.468,
+                0.276
+            ],
+            "angle": 0,
+            "content": "( )",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.255,
+                0.309,
+                0.462,
+                0.332
+            ],
+            "angle": 0,
+            "content": "( )",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.133,
+                0.447,
+                0.787,
+                0.47
+            ],
+            "angle": 0,
+            "content": "( 体 ).",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.348,
+                0.501,
+                0.885,
+                0.521
+            ],
+            "angle": 0,
+            "content": "( A/B/C/D ) B",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.349,
+                0.528,
+                0.884,
+                0.549
+            ],
+            "angle": 0,
+            "content": "(8 字) 16046004",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.227,
+                0.556,
+                0.885,
+                0.577
+            ],
+            "angle": 0,
+            "content": "( ) ____",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.237,
+                0.584,
+                0.884,
+                0.605
+            ],
+            "angle": 0,
+            "content": "( ) 1._",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.378,
+                0.611,
+                0.884,
+                0.631
+            ],
+            "angle": 0,
+            "content": "2.____",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.379,
+                0.639,
+                0.884,
+                0.659
+            ],
+            "angle": 0,
+            "content": "3.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.427,
+                0.667,
+                0.884,
+                0.687
+            ],
+            "angle": 0,
+            "content": "( ) ____",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.698,
+                0.884,
+                0.766
+            ],
+            "angle": 0,
+            "content": "(论文纸质版与电子版中的以上信息必须一致，只是电子版中无需签名。以上内容请仔细核对，提交后将不再允许做任何修改。如填写错误，论文可能被取消评奖资格。)",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.763,
+                0.864,
+                0.805
+            ],
+            "angle": 0,
+            "content": "2014 9 14",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.289,
+                0.812,
+                0.623,
+                0.834
+            ],
+            "angle": 0,
+            "content": "( )",
+            "merge_prev": false
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.192,
+                0.201,
+                0.216,
+                0.219
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.306,
+                0.203,
+                0.317,
+                0.211
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.32,
+                0.255,
+                0.348,
+                0.28
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.44,
+                0.258,
+                0.469,
+                0.28
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.252,
+                0.313,
+                0.278,
+                0.335
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.435,
+                0.313,
+                0.464,
+                0.336
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.13,
+                0.451,
+                0.157,
+                0.47
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.525,
+                0.45,
+                0.552,
+                0.47
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.761,
+                0.452,
+                0.783,
+                0.472
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.35,
+                0.502,
+                0.462,
+                0.519
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.6,
+                0.503,
+                0.62,
+                0.52
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.716,
+                0.504,
+                0.733,
+                0.518
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.352,
+                0.531,
+                0.377,
+                0.548
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.413,
+                0.531,
+                0.441,
+                0.547
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.529,
+                0.531,
+                0.557,
+                0.548
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.687,
+                0.532,
+                0.768,
+                0.545
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.226,
+                0.558,
+                0.251,
+                0.579
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.395,
+                0.559,
+                0.417,
+                0.578
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.238,
+                0.587,
+                0.26,
+                0.605
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.341,
+                0.586,
+                0.41,
+                0.606
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.381,
+                0.614,
+                0.405,
+                0.632
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.381,
+                0.642,
+                0.407,
+                0.658
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.429,
+                0.67,
+                0.454,
+                0.688
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.534,
+                0.67,
+                0.562,
+                0.687
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.155,
+                0.701,
+                0.88,
+                0.714
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.119,
+                0.726,
+                0.857,
+                0.74
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.656,
+                0.764,
+                0.702,
+                0.779
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.757,
+                0.763,
+                0.773,
+                0.778
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.815,
+                0.763,
+                0.845,
+                0.779
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.286,
+                0.814,
+                0.316,
+                0.837
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.595,
+                0.814,
+                0.625,
+                0.837
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "bbox": [
+                0.324,
+                0.201,
+                0.659,
+                0.227
+            ],
+            "angle": 0,
+            "content": "( )",
+            "merge_prev": false
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.106,
+                0.293,
+                0.89,
+                0.548
+            ],
+            "angle": 0,
+            "content": "<table><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.323,
+                0.622,
+                0.659,
+                0.648
+            ],
+            "angle": 0,
+            "content": "( )",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.324,
+                0.736,
+                0.658,
+                0.762
+            ],
+            "angle": 0,
+            "content": "( )",
+            "merge_prev": false
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.322,
+                0.206,
+                0.351,
+                0.229
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.63,
+                0.206,
+                0.659,
+                0.23
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.321,
+                0.626,
+                0.351,
+                0.649
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.63,
+                0.626,
+                0.66,
+                0.651
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.322,
+                0.74,
+                0.351,
+                0.764
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.631,
+                0.74,
+                0.659,
+                0.764
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "equation",
+            "bbox": [
+                0.315,
+                0.349,
+                0.722,
+                0.38
+            ],
+            "angle": 0,
+            "content": "\\[\nd \\left(y - \\sqrt {r ^ {2} - x ^ {2}}\\right) \\sin \\theta = z \\left(d \\cos \\theta + w - \\sqrt {r ^ {2} - x ^ {2}}\\right).\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.466,
+                0.386,
+                0.601,
+                0.405
+            ],
+            "angle": 0,
+            "content": "(5-12) (5-13).",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.461,
+                0.409,
+                0.876,
+                0.426
+            ],
+            "angle": 0,
+            "content": "20.09 19.60 18.77 17.59 16.06 14.14 11.81 9.00",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.116,
+                0.429,
+                0.189,
+                0.445
+            ],
+            "angle": 0,
+            "content": "5.53(cm).",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.379,
+                0.447,
+                0.484,
+                0.468
+            ],
+            "angle": 0,
+            "content": "( )",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.577,
+                0.445,
+                0.743,
+                0.468
+            ],
+            "angle": 0,
+            "content": "( )",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.218,
+                0.513,
+                0.451,
+                0.555
+            ],
+            "angle": 0,
+            "content": "\\(\\theta\\) 1.0605( ) \\(L\\) 158.56cm.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.663,
+                0.492,
+                0.73,
+                0.51
+            ],
+            "angle": 0,
+            "content": "Matlab",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.76,
+                0.514,
+                0.874,
+                0.531
+            ],
+            "angle": 0,
+            "content": "s 43.80cm",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.341,
+                0.603,
+                0.386,
+                0.621
+            ],
+            "angle": 0,
+            "content": "8字",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.478,
+                0.625,
+                0.505,
+                0.643
+            ],
+            "angle": 0,
+            "content": "体",
+            "merge_prev": false
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.494,
+                0.92,
+                0.506,
+                0.932
+            ],
+            "angle": 0,
+            "content": "1"
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.469,
+                0.387,
+                0.6,
+                0.406
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.466,
+                0.411,
+                0.873,
+                0.424
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.117,
+                0.429,
+                0.189,
+                0.447
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.376,
+                0.448,
+                0.404,
+                0.473
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.459,
+                0.45,
+                0.486,
+                0.472
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.574,
+                0.447,
+                0.602,
+                0.473
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.717,
+                0.449,
+                0.746,
+                0.472
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.292,
+                0.514,
+                0.451,
+                0.533
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.218,
+                0.537,
+                0.349,
+                0.553
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.666,
+                0.493,
+                0.727,
+                0.51
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.762,
+                0.519,
+                0.776,
+                0.529
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.797,
+                0.516,
+                0.872,
+                0.531
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.341,
+                0.603,
+                0.387,
+                0.623
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.481,
+                0.626,
+                0.503,
+                0.643
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "equation",
+            "bbox": [
+                0.382,
+                0.205,
+                0.584,
+                0.222
+            ],
+            "angle": 0,
+            "content": "\\[\n1 2 0 \\mathrm{cm} \\times 5 0 \\mathrm{cm} \\times 3 \\mathrm{cm}\n\\]"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.12,
+                0.554,
+                0.159,
+                0.57
+            ],
+            "angle": 0,
+            "content": "\\[\ny O z\n\\]"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.384,
+                0.548,
+                0.513,
+                0.57
+            ],
+            "angle": 0,
+            "content": "\\[\n\\overrightarrow {O P} = \\overrightarrow {O C} + \\overrightarrow {C P}\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.358,
+                0.599,
+                0.465,
+                0.64
+            ],
+            "angle": 0,
+            "content": "( ).",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.555,
+                0.661,
+                0.62,
+                0.678
+            ],
+            "angle": 0,
+            "content": "Matlab",
+            "merge_prev": false
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.493,
+                0.92,
+                0.507,
+                0.932
+            ],
+            "angle": 0,
+            "content": "2"
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.437,
+                0.603,
+                0.461,
+                0.624
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.355,
+                0.623,
+                0.378,
+                0.643
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.557,
+                0.663,
+                0.618,
+                0.678
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "bbox": [
+                0.158,
+                0.416,
+                0.399,
+                0.438
+            ],
+            "angle": 0,
+            "content": "S ( )",
+            "merge_prev": false
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.166,
+                0.521,
+                0.399,
+                0.678
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.203,
+                0.689,
+                0.234,
+                0.705
+            ],
+            "angle": 0,
+            "content": "5-1"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.55,
+                0.515,
+                0.817,
+                0.68
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.547,
+                0.689,
+                0.581,
+                0.705
+            ],
+            "angle": 0,
+            "content": "5-2"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.18,
+                0.78,
+                0.863,
+                0.87
+            ],
+            "angle": 0,
+            "content": "( )\n5.1\n\\( P = (x, y, z) \\quad u \\quad P \\)\n\\( xOz \\quad v \\quad P \\quad yOz \\quad . \\)\n\\( \\overrightarrow{OP} = \\overrightarrow{OC} + \\overrightarrow{CP} \\ . \\)",
+            "merge_prev": false
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.494,
+                0.92,
+                0.506,
+                0.932
+            ],
+            "angle": 0,
+            "content": "3"
+        },
+        {
+            "type": "inline_formula",
+            "bbox": [
+                0.298,
+                0.846,
+                0.43,
+                0.867
+            ],
+            "latex": "",
+            "score": 0.5226
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.162,
+                0.423,
+                0.172,
+                0.437
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.326,
+                0.418,
+                0.404,
+                0.44
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.23,
+                0.783,
+                0.25,
+                0.798
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.294,
+                0.784,
+                0.312,
+                0.797
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.182,
+                0.802,
+                0.215,
+                0.819
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.683,
+                0.802,
+                0.862,
+                0.819
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.34,
+                0.825,
+                0.381,
+                0.841
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.46,
+                0.828,
+                0.474,
+                0.839
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.515,
+                0.825,
+                0.535,
+                0.84
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.595,
+                0.824,
+                0.638,
+                0.844
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "bbox": [
+                0.379,
+                0.091,
+                0.623,
+                0.249
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.385,
+                0.253,
+                0.417,
+                0.268
+            ],
+            "angle": 0,
+            "content": "5-3"
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.54,
+                0.27,
+                0.601,
+                0.286
+            ],
+            "angle": 0,
+            "content": "C P"
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.157,
+                0.309,
+                0.185,
+                0.325
+            ],
+            "angle": 0,
+            "content": "(1)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.177,
+                0.392,
+                0.304,
+                0.409
+            ],
+            "angle": 0,
+            "content": "r ，",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.176,
+                0.456,
+                0.36,
+                0.473
+            ],
+            "angle": 0,
+            "content": "W w",
+            "merge_prev": false
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.23,
+                0.472,
+                0.322,
+                0.494
+            ],
+            "angle": 0,
+            "content": "\\[\n\\overrightarrow {O C} \\quad \\overrightarrow {C P}\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.158,
+                0.52,
+                0.368,
+                0.538
+            ],
+            "angle": 0,
+            "content": "yOz x = v",
+            "merge_prev": false
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.462,
+                0.327,
+                0.483,
+                0.342
+            ],
+            "angle": 0,
+            "content": "O"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.466,
+                0.337,
+                0.58,
+                0.388
+            ],
+            "angle": 0,
+            "content": "\\left\\{ \\begin{array}{c} x ^ {2} + y ^ {2} = r ^ {2} \\\\ z = 0 \\end{array} \\right.\\tag{5-1}"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.468,
+                0.408,
+                0.609,
+                0.454
+            ],
+            "angle": 0,
+            "content": "r = \\sqrt {\\left(\\frac {W}{2}\\right) ^ {2} + w ^ {2}}\\tag{5-2}"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.526,
+                0.497,
+                0.667,
+                0.545
+            ],
+            "angle": 0,
+            "content": "\\[\n\\begin{array}{c} x O z \\\\ C \\Big (v, \\sqrt {r ^ {2} - v ^ {2}}, 0 \\Big) \\end{array}\n\\]"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.359,
+                0.548,
+                0.538,
+                0.577
+            ],
+            "angle": 0,
+            "content": "\\overrightarrow {O C} = \\left(v, \\sqrt {r ^ {2} - v ^ {2}}, 0\\right).\\tag{5-3}"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.46,
+                0.58,
+                0.62,
+                0.61
+            ],
+            "angle": 0,
+            "content": "\\[\n\\left| \\overrightarrow {C P} \\right| = u - \\sqrt {r ^ {2} - v ^ {2}}.\n\\]"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.387,
+                0.615,
+                0.594,
+                0.636
+            ],
+            "angle": 0,
+            "content": "\\[\nM \\left(v, d \\cos \\theta + w, d \\sin \\theta\\right)\n\\]"
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.381,
+                0.643,
+                0.402,
+                0.658
+            ],
+            "angle": 0,
+            "content": "θ."
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.214,
+                0.671,
+                0.456,
+                0.849
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.223,
+                0.862,
+                0.256,
+                0.878
+            ],
+            "angle": 0,
+            "content": "5-4"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.607,
+                0.674,
+                0.844,
+                0.858
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.608,
+                0.862,
+                0.641,
+                0.878
+            ],
+            "angle": 0,
+            "content": "5-5"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.494,
+                0.92,
+                0.506,
+                0.932
+            ],
+            "angle": 0,
+            "content": "4"
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.181,
+                0.395,
+                0.192,
+                0.405
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.178,
+                0.458,
+                0.201,
+                0.472
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.341,
+                0.46,
+                0.358,
+                0.473
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.157,
+                0.521,
+                0.199,
+                0.54
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.321,
+                0.524,
+                0.365,
+                0.536
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "bbox": [
+                0.688,
+                0.865,
+                0.719,
+                0.88
+            ],
+            "angle": 0,
+            "content": "5-1"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.298,
+                0.089,
+                0.315,
+                0.101
+            ],
+            "angle": 0,
+            "content": "x"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.514,
+                0.086,
+                0.537,
+                0.101
+            ],
+            "angle": 0,
+            "content": "M"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.659,
+                0.086,
+                0.881,
+                0.103
+            ],
+            "angle": 0,
+            "content": "\\[\nB = (v, d \\cos \\theta + w, d \\sin \\theta).\n\\]"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.246,
+                0.124,
+                0.667,
+                0.153
+            ],
+            "angle": 0,
+            "content": "\\[\n\\overrightarrow {C B} = \\overrightarrow {O B} - \\overrightarrow {O C} = \\left(0, d \\cos \\theta + w - \\sqrt {r ^ {2} - v ^ {2}}, d \\sin \\theta\\right).\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.16,
+                0.158,
+                0.179,
+                0.172
+            ],
+            "angle": 0,
+            "content": "B",
+            "merge_prev": false
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.23,
+                0.176,
+                0.766,
+                0.242
+            ],
+            "angle": 0,
+            "content": "\\[\n\\begin{array}{r l} \\left| \\overrightarrow {C B} \\right| & = \\sqrt {\\left(d \\cos \\theta + w - \\sqrt {r ^ {2} - v ^ {2}}\\right) ^ {2} + \\left(d \\sin \\theta\\right) ^ {2}} \\\\ & = \\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - v ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - v ^ {2}} \\cos \\theta + 2 d w \\cos \\theta} \\end{array}\n\\]"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.176,
+                0.263,
+                0.747,
+                0.329
+            ],
+            "angle": 0,
+            "content": "\\[\n\\overrightarrow {C P} = \\frac {\\overrightarrow {C B}}{\\left| \\overrightarrow {C B} \\right|} \\left| \\overrightarrow {C P} \\right| = \\frac {\\left(0 , d \\cos \\theta + w - \\sqrt {r ^ {2} - v ^ {2}} , d \\sin \\theta\\right)}{\\sqrt {\\left(d \\cos \\theta + w - \\sqrt {r ^ {2} - v ^ {2}}\\right) ^ {2} + \\left(d \\sin \\theta\\right) ^ {2}}} \\left(u - \\sqrt {r ^ {2} - v ^ {2}}\\right)\n\\]"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.168,
+                0.35,
+                0.777,
+                0.406
+            ],
+            "angle": 0,
+            "content": "\\overrightarrow {C P} = \\frac {\\left(0 , d \\cos \\theta + w - \\sqrt {r ^ {2} - v ^ {2}} , d \\sin \\theta\\right)}\\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - v ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - v ^ {2}} + 2 d w \\cos \\theta} \\left(u - \\sqrt {r ^ {2} - v ^ {2}}\\right)\\tag{5-4}"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.156,
+                0.41,
+                0.185,
+                0.426
+            ],
+            "angle": 0,
+            "content": "(3)"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.198,
+                0.445,
+                0.809,
+                0.495
+            ],
+            "angle": 0,
+            "content": "\\overrightarrow {O P} = \\overrightarrow {O C} + \\overrightarrow {C P} = \\left(v, \\sqrt {r ^ {2} - v ^ {2}}, 0\\right) + \\frac {\\left(0 , d \\cos \\theta + w - \\sqrt {r ^ {2} - v ^ {2}} , d \\sin \\theta\\right)}{\\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - v ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - v ^ {2}} + 2 d w \\cos \\theta}} \\left(u - \\sqrt {r ^ {2} - v ^ {2}}\\right)\\tag{5-5}"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.26,
+                0.515,
+                0.832,
+                0.676
+            ],
+            "angle": 0,
+            "content": "\\left\\{ \\begin{array}{l} x = v, \\\\ y = \\sqrt {r ^ {2} - v ^ {2}} + \\frac {\\left(d \\cos \\theta + w - \\sqrt {r ^ {2} - v ^ {2}}\\right) \\cdot \\left(u - \\sqrt {r ^ {2} - v ^ {2}}\\right)}{\\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - v ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - v ^ {2}} + 2 d w \\cos \\theta}} \\\\ z = \\frac {d \\sin \\theta \\left(u - \\sqrt {r ^ {2} - v ^ {2}}\\right)}{\\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - v ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - v ^ {2}} + 2 d w \\cos \\theta}}, \\\\ (u, v \\quad .) \\end{array} \\right.\\tag{5-6}"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.179,
+                0.701,
+                0.321,
+                0.722
+            ],
+            "angle": 0,
+            "content": "y - \\sqrt {r ^ {2} - v ^ {2}} \\quad z\\tag{4}"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.358,
+                0.723,
+                0.662,
+                0.767
+            ],
+            "angle": 0,
+            "content": "\\[\n\\frac {y - \\sqrt {r ^ {2} - v ^ {2}}}{z} = \\frac {d \\cos \\theta + w - \\sqrt {r ^ {2} - v ^ {2}}}{d \\sin \\theta}\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.158,
+                0.77,
+                0.205,
+                0.783
+            ],
+            "angle": 0,
+            "content": "\\(x = \\nu\\)",
+            "merge_prev": false
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.394,
+                0.784,
+                0.609,
+                0.836
+            ],
+            "angle": 0,
+            "content": "z = \\frac {d \\left(y - \\sqrt {r ^ {2} - x ^ {2}}\\right) \\sin \\theta}{d \\cos \\theta + w - \\sqrt {r ^ {2} - x ^ {2}}}\\tag{5-7}"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.156,
+                0.866,
+                0.183,
+                0.879
+            ],
+            "angle": 0,
+            "content": "2n",
+            "merge_prev": false
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.494,
+                0.92,
+                0.506,
+                0.932
+            ],
+            "angle": 0,
+            "content": "5"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.22,
+                0.889,
+                0.239,
+                0.901
+            ],
+            "angle": 0,
+            "content": "n",
+            "merge_prev": false
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.487,
+                0.868,
+                0.505,
+                0.882
+            ],
+            "angle": 0,
+            "content": "\\[\ny\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.865,
+                0.868,
+                0.88,
+                0.88
+            ],
+            "angle": 0,
+            "content": "x",
+            "merge_prev": false
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.116,
+                0.845,
+                0.147,
+                0.859
+            ],
+            "angle": 0,
+            "content": "5.3"
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.688,
+                0.866,
+                0.72,
+                0.884
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.162,
+                0.159,
+                0.178,
+                0.173
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.156,
+                0.41,
+                0.186,
+                0.433
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.16,
+                0.771,
+                0.203,
+                0.783
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.156,
+                0.864,
+                0.184,
+                0.885
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.223,
+                0.891,
+                0.236,
+                0.901
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.866,
+                0.87,
+                0.879,
+                0.88
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "bbox": [
+                0.218,
+                0.087,
+                0.232,
+                0.1
+            ],
+            "angle": 0,
+            "content": "i",
+            "merge_prev": false
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.289,
+                0.104,
+                0.751,
+                0.133
+            ],
+            "angle": 0,
+            "content": "\\[\nv = w i, C \\Big (w i, \\sqrt {r ^ {2} - v ^ {2}}, 0 \\Big) \\quad B = (w i, d \\cos \\theta + w, d \\sin \\theta),\n\\]"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.236,
+                0.155,
+                0.801,
+                0.188
+            ],
+            "angle": 0,
+            "content": "\\[\n\\left| \\overrightarrow {B C} \\right| = \\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - (w i) ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - (w i) ^ {2}} + 2 d w \\cos \\theta}.\n\\]"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.42,
+                0.209,
+                0.782,
+                0.247
+            ],
+            "angle": 0,
+            "content": "\\[\nl e n (x _ {i}) = \\left| \\overrightarrow {B C} \\right| - \\left(d + w - \\frac {l}{2}\\right) \\quad l \\quad i\n\\]"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.181,
+                0.27,
+                0.809,
+                0.295
+            ],
+            "angle": 0,
+            "content": "l e n (x _ {i}) = \\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - x ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - x ^ {2}} + 2 d w \\cos \\theta} + \\sqrt {r ^ {2} - x ^ {2}} - d - w\\tag{5-8}"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.456,
+                0.316,
+                0.59,
+                0.35
+            ],
+            "angle": 0,
+            "content": "\\frac {l}{2} = \\sqrt {r ^ {2} - (w i) ^ {2}}\\tag{5-9}"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.132,
+                0.371,
+                0.824,
+                0.398
+            ],
+            "angle": 0,
+            "content": "l e n (x _ {i}) = \\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - (w i) ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - (w i) ^ {2}} + 2 d w \\cos \\theta} + \\sqrt {r ^ {2} - (w i) ^ {2}} - d - w\\tag{5-10}"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.566,
+                0.401,
+                0.629,
+                0.436
+            ],
+            "angle": 0,
+            "content": "= \\frac {L - l}{2}\\tag{5-11}"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.199,
+                0.438,
+                0.218,
+                0.453
+            ],
+            "angle": 0,
+            "content": "L",
+            "merge_prev": false
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.476,
+                0.457,
+                0.743,
+                0.508
+            ],
+            "angle": 0,
+            "content": "= \\frac {\\frac {L}{2} - w}{2} - l e n (i) = \\frac {L}{4} - \\frac {w}{2} - l e n (i)\\tag{5-12}"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.116,
+                0.517,
+                0.148,
+                0.532
+            ],
+            "angle": 0,
+            "content": "5.4",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.179,
+                0.537,
+                0.198,
+                0.552
+            ],
+            "angle": 0,
+            "content": "L",
+            "merge_prev": false
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.336,
+                0.555,
+                0.498,
+                0.59
+            ],
+            "angle": 0,
+            "content": "\\[\n(x \\quad) \\quad \\frac {L}{2}.\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.62,
+                0.537,
+                0.702,
+                0.555
+            ],
+            "angle": 0,
+            "content": "( )",
+            "merge_prev": false
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.808,
+                0.556,
+                0.861,
+                0.59
+            ],
+            "angle": 0,
+            "content": "u = \\frac {L}{2}\\tag{5-6}"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.16,
+                0.611,
+                0.73,
+                0.788
+            ],
+            "angle": 0,
+            "content": "\\left\\{ \\begin{array}{l} x = v, \\\\ y = \\sqrt {r ^ {2} - v ^ {2}} + \\frac {\\left(d \\cos \\theta + w - \\sqrt {r ^ {2} - v ^ {2}}\\right) \\left(\\frac {L}{2} - \\sqrt {r ^ {2} - v ^ {2}}\\right)}{\\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - v ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - v ^ {2}} + 2 d w \\cos \\theta}}, \\\\ z = \\frac {d \\sin \\theta \\left(\\frac {L}{2} - \\sqrt {r ^ {2} - v ^ {2}}\\right)}{\\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - v ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - v ^ {2}} + 2 d w \\cos \\theta}}, \\\\ (v \\quad .) \\end{array} \\right.\\tag{5-13}"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.181,
+                0.794,
+                0.811,
+                0.883
+            ],
+            "angle": 0,
+            "content": "\\left\\{ \\begin{array}{l} d \\left(y - \\sqrt {r ^ {2} - x ^ {2}}\\right) \\sin \\theta = z \\left(d \\cos \\theta + w - \\sqrt {r ^ {2} - x ^ {2}}\\right) \\\\ d \\sin \\theta \\left(\\frac {L}{2} - \\sqrt {r ^ {2} - x ^ {2}}\\right) = z \\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - x ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - x ^ {2}} + 2 d w \\cos \\theta} \\end{array} \\right.\\tag{5-14}"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.494,
+                0.92,
+                0.506,
+                0.932
+            ],
+            "angle": 0,
+            "content": "6"
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.22,
+                0.088,
+                0.231,
+                0.103
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.201,
+                0.44,
+                0.217,
+                0.453
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.117,
+                0.518,
+                0.147,
+                0.535
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.181,
+                0.539,
+                0.197,
+                0.552
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.618,
+                0.539,
+                0.645,
+                0.56
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.669,
+                0.54,
+                0.704,
+                0.56
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "bbox": [
+                0.115,
+                0.086,
+                0.148,
+                0.102
+            ],
+            "angle": 0,
+            "content": "5.5"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.276,
+                0.131,
+                0.68,
+                0.197
+            ],
+            "angle": 0,
+            "content": "\\begin{array}{c} W = 5 0 \\quad w = 2. 5 \\quad (5 - 2) \\\\ r = \\sqrt {\\left(\\frac {W}{2}\\right) ^ {2} + w ^ {2}} = \\sqrt {6 3 1 . 2 5} = 2 5. 1 2 5. \\end{array}\\tag{5.5.1}"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.276,
+                0.216,
+                0.65,
+                0.276
+            ],
+            "angle": 0,
+            "content": "\\[\n\\begin{array}{l} d = \\frac {1}{2} \\left(\\frac {L}{2} - w\\right) = 2 8. 7 5. \\\\ h = 5 3 - 3 = 5 0 \\quad 2 d = 5 7. 5 \\end{array}\n\\]"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.342,
+                0.294,
+                0.698,
+                0.37
+            ],
+            "angle": 0,
+            "content": "\\begin{array}{c} \\sin \\theta = \\frac {h}{2 d} = \\frac {5 0}{5 7 . 5} \\\\ \\theta = \\arcsin \\left(\\frac {h}{2 d}\\right) = \\arcsin (0. 8 6 9 6) = 1. 0 5 4 3. \\end{array}\\tag{5-7}"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.414,
+                0.389,
+                0.629,
+                0.442
+            ],
+            "angle": 0,
+            "content": "z = \\frac {2 5 \\left(y - \\sqrt {6 3 1 . 2 5 - x ^ {2}}\\right)}{1 6 . 7 0 - \\sqrt {6 3 1 . 2 5 - x ^ {2}}}\\tag{5-15}"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.116,
+                0.449,
+                0.163,
+                0.466
+            ],
+            "angle": 0,
+            "content": "5.5.2"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.175,
+                0.487,
+                0.701,
+                0.579
+            ],
+            "angle": 0,
+            "content": "\\begin{array}{r l} r ^ {2} = 6 3 1. 2 5 \\quad w & = 2. 5 \\quad (5 - 9) \\quad (5 - 1 1) \\\\ \\frac {l}{2} & = \\sqrt {6 3 1 . 2 5 - 6 . 2 5 i ^ {2}}, \\quad i = 1 \\quad \\dots \\dots 1 0. \\\\ & = 6 0 - \\frac {l}{2}. \\end{array}\\tag{1}"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.144,
+                0.687,
+                0.812,
+                0.774
+            ],
+            "angle": 0,
+            "content": "\\begin{array}{c} d = 2 8. 7 5, r ^ {2} = 6 3 1. 2 5, \\sin \\theta = \\frac {5 0}{5 7 . 5} \\quad (5 - 1 0) \\\\ l e n (x _ {i}) = \\sqrt {1 4 6 4 . 0 6 - 6 . 2 5 i ^ {2} - 3 3 . 4 \\sqrt {6 3 1 . 2 5 - 6 . 2 5 i ^ {2}} + 7 0 . 9 9} + \\sqrt {6 3 1 . 2 5 - 6 . 2 5 i ^ {2}} - 3 1. 2 5 \\\\ L = 1 2 0 c m, w = 2. 5 c m \\quad (5 - 1 2) \\quad = 2 8. 7 5 - l e n (i). \\end{array}\\tag{5-16}"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.128,
+                0.799,
+                0.869,
+                0.864
+            ],
+            "angle": 0,
+            "content": "<table><tr><td rowspan=\"2\">i</td><td colspan=\"4\">2</td><td colspan=\"6\">(cm)</td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td></tr><tr><td></td><td>8.66</td><td>9.15</td><td>9.98</td><td>11.16</td><td>12.69</td><td>14.61</td><td>16.94</td><td>19.75</td><td>23.22</td><td>28.75</td></tr><tr><td></td><td>20.09</td><td>19.60</td><td>18.77</td><td>17.59</td><td>16.06</td><td>14.14</td><td>11.81</td><td>9.00</td><td>5.53</td><td>0</td></tr></table>"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.494,
+                0.92,
+                0.506,
+                0.932
+            ],
+            "angle": 0,
+            "content": "7"
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.116,
+                0.086,
+                0.147,
+                0.105
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.116,
+                0.451,
+                0.162,
+                0.469
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "bbox": [
+                0.116,
+                0.086,
+                0.162,
+                0.101
+            ],
+            "angle": 0,
+            "content": "5.5.3"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.176,
+                0.106,
+                0.765,
+                0.233
+            ],
+            "angle": 0,
+            "content": "\\begin{array}{l} d = 2 8. 7 5, r ^ {2} = 6 3 1. 2 5 \\quad w = 2. 5 \\quad \\sin \\theta = \\frac {5 0}{5 7 . 5} \\quad (5 - 1 4) \\\\ \\left\\{ \\begin{array}{l} 2 5 \\left(y - \\sqrt {6 3 1 . 2 5 - x ^ {2}}\\right) = z \\left(1 6. 7 - \\sqrt {6 3 1 . 2 5 - x ^ {2}}\\right) \\\\ 2 5 \\left(6 0 - \\sqrt {6 3 1 . 2 5 - x ^ {2}}\\right) = z \\sqrt {1 5 3 5 . 0 6 - x ^ {2} - 3 3 . 4 \\sqrt {r ^ {2} - x ^ {2}}} \\end{array} \\right. \\\\ \\text {Matlab} \\end{array}\\tag{5-17}"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.177,
+                0.242,
+                0.494,
+                0.393
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.529,
+                0.245,
+                0.835,
+                0.391
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.408,
+                0.401,
+                0.442,
+                0.417
+            ],
+            "angle": 0,
+            "content": "5-6",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.556,
+                0.4,
+                0.658,
+                0.419
+            ],
+            "angle": 0,
+            "content": "( )",
+            "merge_prev": false
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.178,
+                0.446,
+                0.279,
+                0.465
+            ],
+            "angle": 0,
+            "content": "r ^ {2} = 6 3 1. 2 5\\tag{5.5.4}"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.336,
+                0.447,
+                0.609,
+                0.509
+            ],
+            "angle": 0,
+            "content": "\\[\n\\begin{array}{r l} x = w i \\quad & (5 - 1) \\\\ & \\left\\{ \\begin{array}{l} w ^ {2} i ^ {2} + y ^ {2} = 6 3 1. 2 5 \\\\ z = 0 \\end{array} \\right. \\end{array}\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.198,
+                0.512,
+                0.238,
+                0.528
+            ],
+            "angle": 0,
+            "content": "BM",
+            "merge_prev": false
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.177,
+                0.596,
+                0.369,
+                0.614
+            ],
+            "angle": 0,
+            "content": "\\[\ni = - 1 0, \\dots , 0, 1, 2, \\dots , 1 0\n\\]"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.439,
+                0.529,
+                0.578,
+                0.614
+            ],
+            "angle": 0,
+            "content": "\\[\n\\left\\{ \\begin{array}{c} x = w i \\\\ y = d \\cos \\theta + w \\\\ z = d \\sin \\theta \\\\ x > 0 \\end{array} \\right.\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.16,
+                0.68,
+                0.181,
+                0.695
+            ],
+            "angle": 0,
+            "content": "D",
+            "merge_prev": false
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.289,
+                0.634,
+                0.749,
+                0.702
+            ],
+            "angle": 0,
+            "content": "\\[\n\\begin{array}{c} C _ {i} (x _ {c _ {i}}, y _ {c _ {i}}, z _ {c _ {i}}) \\quad B _ {i} (x _ {b _ {i}}, y _ {b _ {i}}, z _ {b _ {i}}), i = - 1 0, \\dots , 0, 1, 2, \\dots , 1 0 \\\\ C \\quad B \\quad . \\\\ , \\quad D _ {i} (x _ {d _ {i}}, y _ {d _ {i}}, z _ {d _ {i}}), i = - 1 0, \\dots , 0, 1, 2, \\dots , 1 0 \\end{array} .\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.16,
+                0.71,
+                0.18,
+                0.725
+            ],
+            "angle": 0,
+            "content": "B",
+            "merge_prev": false
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.634,
+                0.703,
+                0.803,
+                0.733
+            ],
+            "angle": 0,
+            "content": "\\[\n\\left| \\overrightarrow {B D} \\right| = l - \\left| \\overrightarrow {C A} \\right| - \\left| \\overrightarrow {B C} \\right|\n\\]"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.118,
+                0.735,
+                0.449,
+                0.754
+            ],
+            "angle": 0,
+            "content": "\\[\nA _ {i} = (w i, 0, 0) \\quad i = - 1 0, \\dots , 0, 1, 2, \\dots , 1 0.\n\\]"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.459,
+                0.776,
+                0.572,
+                0.838
+            ],
+            "angle": 0,
+            "content": "\\[\nk = \\frac {\\frac {L}{2} - \\left| \\overrightarrow {A C} \\right|}{\\left| \\overrightarrow {B C} \\right|}\n\\]"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.384,
+                0.843,
+                0.656,
+                0.884
+            ],
+            "angle": 0,
+            "content": "\\[\n\\frac {x _ {d _ {i}} - x _ {c _ {i}}}{x _ {b _ {i}} - x _ {c _ {i}}} = \\frac {y _ {d _ {i}} - y _ {c _ {i}}}{y _ {b _ {i}} - y _ {c _ {i}}} = \\frac {z _ {d _ {i}} - z _ {c _ {i}}}{z _ {b _ {i}} - z _ {c _ {i}}} = k\n\\]"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.494,
+                0.92,
+                0.506,
+                0.932
+            ],
+            "angle": 0,
+            "content": "8"
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.116,
+                0.087,
+                0.161,
+                0.104
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.41,
+                0.402,
+                0.442,
+                0.421
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.55,
+                0.403,
+                0.58,
+                0.422
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.634,
+                0.403,
+                0.662,
+                0.423
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.201,
+                0.514,
+                0.235,
+                0.528
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.161,
+                0.682,
+                0.179,
+                0.698
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.162,
+                0.711,
+                0.178,
+                0.726
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "equation",
+            "bbox": [
+                0.4,
+                0.085,
+                0.609,
+                0.209
+            ],
+            "angle": 0,
+            "content": "\\[\n\\begin{array}{c} \\left\\{ \\begin{array}{l} x _ {d _ {i}} = x _ {c _ {i}} + k \\left(x _ {b _ {i}} - x _ {c _ {i}}\\right) \\\\ y _ {d _ {i}} = y _ {c _ {i}} + k \\left(y _ {b _ {i}} - y _ {c _ {i}}\\right) \\\\ z _ {d _ {i}} = z _ {c _ {i}} + k \\left(z _ {b _ {i}} - z _ {c _ {i}}\\right) \\end{array} \\right. \\\\ D \\qquad \\qquad B \\\\ \\theta \\qquad \\qquad \\theta \\end{array}\n\\]"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.217,
+                0.226,
+                0.759,
+                0.284
+            ],
+            "angle": 0,
+            "content": "\\[\n\\begin{array}{c} \\theta = \\frac {1}{6} \\times 1. 0 5 4 3, \\frac {2}{6} \\times 1. 0 5 4 3, \\frac {3}{6} \\times 1. 0 5 4 3, \\frac {4}{6} \\times 1. 0 5 4 3, \\frac {5}{6} \\times 1. 0 5 4 3, 1. 0 5 4 3, \\\\ 5 - 7 ( \\begin{array}{c c} & 2) \\end{array} \\end{array}\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.823,
+                0.236,
+                0.884,
+                0.254
+            ],
+            "angle": 0,
+            "content": "matlab",
+            "merge_prev": false
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.122,
+                0.287,
+                0.875,
+                0.501
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.335,
+                0.501,
+                0.367,
+                0.518
+            ],
+            "angle": 0,
+            "content": "5-7"
+        },
+        {
+            "type": "paragraph_title",
+            "bbox": [
+                0.115,
+                0.555,
+                0.152,
+                0.572
+            ],
+            "angle": 0,
+            "content": "6.1"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.116,
+                0.582,
+                0.172,
+                0.599
+            ],
+            "angle": 0,
+            "content": "6.1.1"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.122,
+                0.599,
+                0.871,
+                0.827
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.116,
+                0.829,
+                0.172,
+                0.848
+            ],
+            "angle": 0,
+            "content": "6.1.2"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.158,
+                0.851,
+                0.19,
+                0.869
+            ],
+            "angle": 0,
+            "content": "(1)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.685,
+                0.869,
+                0.748,
+                0.89
+            ],
+            "angle": 0,
+            "content": "( )",
+            "merge_prev": false
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.494,
+                0.92,
+                0.506,
+                0.932
+            ],
+            "angle": 0,
+            "content": "9"
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.824,
+                0.238,
+                0.883,
+                0.254
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.116,
+                0.556,
+                0.152,
+                0.575
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.116,
+                0.584,
+                0.172,
+                0.601
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.116,
+                0.832,
+                0.172,
+                0.849
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.157,
+                0.852,
+                0.19,
+                0.877
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.676,
+                0.871,
+                0.754,
+                0.893
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "equation",
+            "bbox": [
+                0.408,
+                0.086,
+                0.598,
+                0.121
+            ],
+            "angle": 0,
+            "content": "\\min \\frac {h}{\\sin \\theta} \\quad \\max \\sin \\theta\\tag{6-1}"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.158,
+                0.122,
+                0.189,
+                0.14
+            ],
+            "angle": 0,
+            "content": "(2)"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.154,
+                0.16,
+                0.848,
+                0.381
+            ],
+            "angle": 0,
+            "content": "\\begin{array}{l} W \\quad w \\quad 2 n = \\frac {W}{w} \\\\ \\quad 4 n \\quad . \\\\ \\quad . \\quad \\text {小} \\quad . \\\\ \\quad \\min \\sum_ {i = 1} ^ {n} \\operatorname{len} (x _ {i}) \\\\ x _ {i} = w i \\quad i \\quad (5 - 9) \\\\ \\operatorname{len} (x _ {i}) = \\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - (w i) ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - (w i) ^ {2}} + 2 d w \\cos \\theta} + \\sqrt {r ^ {2} - (w i) ^ {2}} - d - w \\\\ d = \\frac {h}{\\sin \\theta} - s. \\end{array}\\tag{6-2}"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.116,
+                0.386,
+                0.173,
+                0.403
+            ],
+            "angle": 0,
+            "content": "6.1.3"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.158,
+                0.407,
+                0.19,
+                0.425
+            ],
+            "angle": 0,
+            "content": "(1)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.117,
+                0.466,
+                0.142,
+                0.48
+            ],
+            "angle": 0,
+            "content": "S.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.824,
+                0.481,
+                0.842,
+                0.497
+            ],
+            "angle": 0,
+            "content": "λ",
+            "merge_prev": false
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.41,
+                0.518,
+                0.652,
+                0.539
+            ],
+            "angle": 0,
+            "content": "l e n \\big (x _ {i} \\big) <   s - \\lambda , i = 1, 2, \\dots , n\\tag{6-3}"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.158,
+                0.541,
+                0.191,
+                0.559
+            ],
+            "angle": 0,
+            "content": "(2)",
+            "merge_prev": false
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.19,
+                0.579,
+                0.809,
+                0.699
+            ],
+            "angle": 0,
+            "content": "\\begin{array}{c} y \\quad y _ {D} (x _ {i}) \\\\ y _ {D} (x _ {i}) \\geq 0, i = 1, 2, \\dots , n \\\\ y _ {D} (x) = \\sqrt {r ^ {2} - x ^ {2}} + \\frac {\\left(d \\cos \\theta + w - \\sqrt {r ^ {2} - x ^ {2}}\\right) \\left(d + w - \\sqrt {r ^ {2} - x ^ {2}}\\right)}{\\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - x ^ {2}} - 2 \\left(d \\cos \\theta + w\\right) \\sqrt {r ^ {2} - x ^ {2}} + 2 d w \\cdot \\cos \\theta} \\end{array} \\tag {5-12}\\tag{6-4}"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.158,
+                0.7,
+                0.189,
+                0.718
+            ],
+            "angle": 0,
+            "content": "(3)"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.427,
+                0.738,
+                0.693,
+                0.777
+            ],
+            "angle": 0,
+            "content": "\\begin{array}{c} W \\quad a \\quad , \\\\ 2 (w + h \\cot \\theta) \\geq a W \\end{array}\\tag{6-5}"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.158,
+                0.779,
+                0.19,
+                0.797
+            ],
+            "angle": 0,
+            "content": "(4)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.18,
+                0.817,
+                0.2,
+                0.832
+            ],
+            "angle": 0,
+            "content": "4",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.418,
+                0.817,
+                0.499,
+                0.836
+            ],
+            "angle": 0,
+            "content": "( h).",
+            "merge_prev": false
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.77,
+                0.817,
+                0.848,
+                0.836
+            ],
+            "angle": 0,
+            "content": "\\[\nz _ {D} (x _ {i}) \\text {小}\n\\]"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.408,
+                0.856,
+                0.632,
+                0.876
+            ],
+            "angle": 0,
+            "content": "z _ {D} (x _ {i}) \\leq h, i = 1, 2, \\dots , n - 1\\tag{6-6}"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.491,
+                0.92,
+                0.511,
+                0.932
+            ],
+            "angle": 0,
+            "content": "10"
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.158,
+                0.123,
+                0.19,
+                0.147
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.116,
+                0.386,
+                0.172,
+                0.405
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.157,
+                0.408,
+                0.191,
+                0.433
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.119,
+                0.467,
+                0.14,
+                0.479
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.825,
+                0.483,
+                0.842,
+                0.499
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.157,
+                0.543,
+                0.19,
+                0.566
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.158,
+                0.702,
+                0.191,
+                0.725
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.157,
+                0.78,
+                0.191,
+                0.805
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.184,
+                0.819,
+                0.197,
+                0.832
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.407,
+                0.814,
+                0.506,
+                0.84
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "equation",
+            "bbox": [
+                0.258,
+                0.085,
+                0.773,
+                0.15
+            ],
+            "angle": 0,
+            "content": "z _ {D} (x) = \\frac {d \\sin \\theta \\left(\\frac {L}{2} - \\sqrt {r ^ {2} - x ^ {2}}\\right)}{\\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - x ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - x ^ {2}} + 2 d w \\cos \\theta}}\\tag{6.1.4}"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.515,
+                0.179,
+                0.684,
+                0.198
+            ],
+            "angle": 0,
+            "content": "(6-3)(6-4)(6-5)(6-6)",
+            "merge_prev": false
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.3,
+                0.213,
+                0.608,
+                0.391
+            ],
+            "angle": 0,
+            "content": "\\begin{array}{l} \\min h / \\sin \\theta \\\\ \\min \\sum_ {i = 1} ^ {n} l e n (x _ {i}) \\\\ s. t. \\left\\{ \\begin{array}{l} l e n (x _ {i}) <   s - \\lambda , i = 1, 2, \\dots , n \\\\ y _ {D} (x _ {i}) \\geq 0, i = 1, 2, \\dots , n \\\\ 2 (w + h \\cot \\theta) \\geq a W \\\\ z _ {D} (x _ {i}) \\leq h, i = 1, 2, \\dots , n - 1 \\end{array} \\right. \\\\ (\\quad) \\quad s \\end{array}\\tag{6-7}"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.127,
+                0.407,
+                0.87,
+                0.604
+            ],
+            "angle": 0,
+            "content": "\\begin{array}{c} \\text {len} (x _ {i}) = \\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - x _ {i} ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - x _ {i} ^ {2}} + 2 d \\cos \\theta \\cdot w} + \\sqrt {r ^ {2} - x _ {i} ^ {2}} - d - w \\\\ y _ {D} (x _ {i}) = \\sqrt {r ^ {2} - x ^ {2}} + \\frac {(d \\cos \\theta + w - \\sqrt {r ^ {2} - x _ {i} ^ {2}}) (d + w - \\sqrt {r ^ {2} - x _ {i} ^ {2}})}{\\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - x _ {i} ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - x _ {i} ^ {2}} + 2 d w \\cdot \\cos \\theta}} \\\\ z _ {D} (x _ {i}) = \\frac {d \\sin \\theta \\left(\\frac {L}{2} - \\sqrt {r ^ {2} - x _ {i} ^ {2}}\\right)}{\\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - x _ {i} ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - x _ {i} ^ {2}} + 2 d w \\cos \\theta}} \\\\ x _ {i} = w i \\quad d = \\frac {h}{\\sin \\theta} - s. \\end{array}\\tag{6.1.5}"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.2,
+                0.633,
+                0.235,
+                0.649
+            ],
+            "angle": 0,
+            "content": "6-2",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.377,
+                0.633,
+                0.396,
+                0.649
+            ],
+            "angle": 0,
+            "content": "L",
+            "merge_prev": false
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.419,
+                0.651,
+                0.613,
+                0.706
+            ],
+            "angle": 0,
+            "content": "\\[\n\\begin{array}{c} L = 2 (w + \\frac {h}{\\sin \\theta}) \\\\ \\qquad = s - l e n (i). \\end{array}\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.715,
+                0.153,
+                0.731
+            ],
+            "angle": 0,
+            "content": "6.2",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.743,
+                0.172,
+                0.759
+            ],
+            "angle": 0,
+            "content": "6.2.1",
+            "merge_prev": false
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.298,
+                0.763,
+                0.562,
+                0.78
+            ],
+            "angle": 0,
+            "content": "\\[\nh = 7 0 c m \\quad w = 2. 5 \\quad W = 8 0 c m.\n\\]"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.688,
+                0.761,
+                0.875,
+                0.799
+            ],
+            "angle": 0,
+            "content": "\\[\n\\begin{array}{c c c c} \\lambda = 5 & a & 1 & 0. 6 1 8 \\\\ (6 - 6) \\end{array}\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.8,
+                0.18,
+                0.817
+            ],
+            "angle": 0,
+            "content": "Matlab",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.257,
+                0.799,
+                0.4,
+                0.819
+            ],
+            "angle": 0,
+            "content": "(3).",
+            "merge_prev": false
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.491,
+                0.92,
+                0.509,
+                0.932
+            ],
+            "angle": 0,
+            "content": "11"
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.517,
+                0.181,
+                0.68,
+                0.197
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.201,
+                0.634,
+                0.235,
+                0.653
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.379,
+                0.635,
+                0.395,
+                0.649
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.116,
+                0.717,
+                0.153,
+                0.735
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.116,
+                0.742,
+                0.172,
+                0.762
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.116,
+                0.801,
+                0.177,
+                0.817
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.253,
+                0.802,
+                0.279,
+                0.82
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.37,
+                0.802,
+                0.399,
+                0.823
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "bbox": [
+                0.198,
+                0.196,
+                0.291,
+                0.215
+            ],
+            "angle": 0,
+            "content": "\\(\\theta = 1.0605\\)",
+            "merge_prev": false
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.384,
+                0.084,
+                0.655,
+                0.216
+            ],
+            "angle": 0,
+            "content": "\\[\n\\begin{array}{l} \\min 7 0 / \\sin \\theta \\\\ s. t. \\left\\{ \\begin{array}{l} l e n (x _ {i}) <   s - 5, i = 1, 2, \\dots , n \\\\ y _ {D} (x _ {i}) \\geq 0, i = 1, 2, \\dots , n \\\\ 5 + 1 4 0 \\cot \\theta \\geq 8 0 \\\\ z _ {D} (x _ {i}) \\leq h, i = 1, 2, \\dots , n - 1 \\end{array} \\right. \\\\ L = 1 5 8. 5 6. \\quad \\theta = 1. 0 6 0 5 \\end{array}\n\\]"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.367,
+                0.235,
+                0.633,
+                0.364
+            ],
+            "angle": 0,
+            "content": "\\[\n\\begin{array}{c} \\min \\sum_ {i = 1} ^ {n} l e n (x _ {i}) \\\\ s. t. \\left\\{ \\begin{array}{l} l e n \\big (x _ {i} \\big) <   s - 5, i = 1, 2, \\dots , n \\\\ y _ {D} (x _ {i}) \\geq 0, i = 1, 2, \\dots , n \\\\ 5 + 1 4 0 \\cot \\theta \\geq 8 0 \\\\ z _ {D} (x _ {i}) \\leq h, i = 1, 2, \\dots , n - 1 \\end{array} \\right. \\end{array}\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.137,
+                0.419,
+                0.254,
+                0.436
+            ],
+            "angle": 0,
+            "content": "s 43.80cm",
+            "merge_prev": false
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.37,
+                0.382,
+                0.583,
+                0.437
+            ],
+            "angle": 0,
+            "content": "\\[\n\\begin{array}{c} s = 4 3. 8 0. \\\\ \\theta \\quad 1. 0 6 0 5 (\\quad) \\\\ L \\quad 1 5 8. 5 6 \\mathrm{cm}. \\end{array}\n\\]"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.442,
+                0.174,
+                0.46
+            ],
+            "angle": 0,
+            "content": "6.2.2",
+            "merge_prev": false
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.174,
+                0.499,
+                0.818,
+                0.825
+            ],
+            "angle": 0,
+            "content": "\\begin{array}{c} d = \\frac {L}{2} - s - 2. 5 = 3 2. 9 8 \\\\ W = 8 0 \\quad w = 2. 5 \\quad (5 - 2) \\\\ r ^ {2} = \\left(\\frac {W}{2}\\right) ^ {2} + w ^ {2} = 1 6 0 6. 2 5 c m. \\\\ d = 3 2. 9 8 \\quad r ^ {2} = 1 6 0 6. 2 5 \\quad \\theta = 1. 0 6 0 5 \\quad (5 - 1 0) \\\\ l e n (i) = \\sqrt {2 2 1 5 . 8 3 - 6 . 2 5 i ^ {2} - 4 9 . 3 7 \\sqrt {1 6 0 6 . 2 5 - 6 . 2 5 i ^ {2}}} + \\sqrt {1 6 0 6 . 2 5 - 6 . 2 5 i ^ {2}} - 2 4. 6 5 \\\\ s = 5 8. 8 3 \\quad = s - l e n (i) \\\\ 3. \\\\ \\hline i & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 \\\\ \\hline & 4. 8 3 & 5. 1 9 & 5. 8 0 & 6. 6 6 & 7. 7 6 & 9. 1 3 & 1 0. 7 7 & 1 2. 6 9 \\\\ \\hline & 3 8. 9 7 & 3 8. 6 1 & 3 8. 0 0 & 3 7. 1 5 & 3 6. 0 4 & 3 4. 6 7 & 3 3. 0 3 & 3 1. 1 1 \\\\ \\hline \\\\ \\hline i & 9 & 1 0 & 1 1 & 1 2 & 1 3 & 1 4 & 1 5 & 1 6 \\\\ \\hline & 1 4. 9 1 & 1 7. 4 3 & 2 0. 2 9 & 2 3. 5 2 & 2 7. 1 6 & 3 1. 3 0 & 3 6. 1 6 & - \\\\ \\hline & 2 8. 9 0 & 2 6. 3 7 & 2 3. 5 1 & 2 0. 2 8 & 1 6. 6 4 & 1 2. 5 1 & 7. 6 4 & - \\end{array}\\tag{1}"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.158,
+                0.84,
+                0.19,
+                0.858
+            ],
+            "angle": 0,
+            "content": "(2)",
+            "merge_prev": false
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.177,
+                0.857,
+                0.676,
+                0.914
+            ],
+            "angle": 0,
+            "content": "\\[\n\\begin{array}{r l} r ^ {2} = 1 6 0 6. 2 5 \\quad w = 2. 5 & (5 - 9) \\\\ \\frac {l}{2} = \\sqrt {r ^ {2} - \\left(w i\\right) ^ {2}} = \\sqrt {1 6 0 6 . 2 5 - 6 . 2 5 i ^ {2}}. \\end{array}\n\\]"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.491,
+                0.92,
+                0.51,
+                0.932
+            ],
+            "angle": 0,
+            "content": "12"
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.201,
+                0.199,
+                0.288,
+                0.214
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.14,
+                0.422,
+                0.157,
+                0.434
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.175,
+                0.42,
+                0.25,
+                0.435
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.116,
+                0.444,
+                0.172,
+                0.462
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.158,
+                0.841,
+                0.19,
+                0.865
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "bbox": [
+                0.181,
+                0.087,
+                0.809,
+                0.276
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>i</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td></tr><tr><td></td><td>80</td><td>79.52</td><td>78.74</td><td>77.62</td><td>76.16</td><td>74.34</td><td>72.12</td><td>69.46</td></tr><tr><td></td><td>39.28</td><td>39.52</td><td>39.91</td><td>40.47</td><td>41.2</td><td>42.11</td><td>43.22</td><td>44.55</td></tr><tr><td>i</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td></tr><tr><td></td><td>66.34</td><td>62.64</td><td>58.3</td><td>53.16</td><td>46.9</td><td>39.06</td><td>28.28</td><td>5</td></tr><tr><td></td><td>46.11</td><td>47.96</td><td>50.13</td><td>52.7</td><td>55.83</td><td>59.75</td><td>65.14</td><td>76.78</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.136,
+                0.315,
+                0.86,
+                0.904
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.49,
+                0.919,
+                0.51,
+                0.932
+            ],
+            "angle": 0,
+            "content": "13"
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "bbox": [
+                0.179,
+                0.158,
+                0.224,
+                0.176
+            ],
+            "angle": 0,
+            "content": "\\(f(x)\\)",
+            "merge_prev": false
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.221,
+                0.104,
+                0.702,
+                0.178
+            ],
+            "angle": 0,
+            "content": "\\[\n\\begin{array}{c c c c c} {f (x)} & {\\sqrt {r ^ {2} - x ^ {2}}} \\\\ & {\\text {体}} \\\\ & {\\sqrt {r ^ {2} - x ^ {2}} (\\quad f (v) \\quad \\sqrt {r ^ {2} - v ^ {2}})} \\end{array} . \\tag {5-6} \\tag {5 - 7}\n\\]"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.273,
+                0.199,
+                0.787,
+                0.337
+            ],
+            "angle": 0,
+            "content": "\\left\\{ \\begin{array}{l} x = v, \\\\ y = f (v) + \\frac {\\left(d \\cos \\theta + w - f (v)\\right) \\cdot \\left(u - f (v)\\right)}{\\sqrt {d ^ {2} + w ^ {2} + f ^ {2} (v) - 2 (d \\cos \\theta + w) f (v) + 2 d w \\cos \\theta}}, \\\\ z = \\frac {d \\sin \\theta \\big (u - f (v) \\big)}{\\sqrt {d ^ {2} + w ^ {2} + f ^ {2} (v) - 2 (d \\cos \\theta + w) f (v) + 2 d w \\cos \\theta}}, \\\\ (u, v \\quad .) \\end{array} \\right.\\tag{7-1}"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.427,
+                0.379,
+                0.611,
+                0.439
+            ],
+            "angle": 0,
+            "content": "z = \\frac {d (y - f (x)) \\sin \\theta}{d \\cos \\theta + w - f (x)}   d\\tag{7-2}"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.178,
+                0.423,
+                0.197,
+                0.439
+            ],
+            "angle": 0,
+            "content": "\\(\\theta\\)",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.115,
+                0.447,
+                0.137,
+                0.459
+            ],
+            "angle": 0,
+            "content": "w",
+            "merge_prev": false
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.217,
+                0.484,
+                0.641,
+                0.504
+            ],
+            "angle": 0,
+            "content": "\\[\n(x, y) = (x, g (x)) \\quad (x \\quad) \\quad u = g (x)\n\\]"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.279,
+                0.527,
+                0.788,
+                0.673
+            ],
+            "angle": 0,
+            "content": "\\left\\{ \\begin{array}{l} x = v, \\\\ y = f (v) + \\frac {\\left(d \\cos \\theta + w - \\sqrt {r ^ {2} - v ^ {2}}\\right) \\cdot \\left(g (v) - f (v)\\right)}{\\sqrt {d ^ {2} + w ^ {2} + f ^ {2} (v) - 2 (d \\cos \\theta + w) f (v) + 2 d w \\cos \\theta}}, \\\\ z = \\frac {d \\sin \\theta \\big (g (v) - f (v) \\big)}{\\sqrt {d ^ {2} + w ^ {2} + f ^ {2} (v) - 2 (d \\cos \\theta + w) f (v) + 2 d w \\cos \\theta}}, \\\\ (v \\quad ,) \\end{array} \\right.\\tag{7-3}"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.234,
+                0.697,
+                0.822,
+                0.748
+            ],
+            "angle": 0,
+            "content": "\\left\\{ \\begin{array}{l} d (y - f (x)) \\sin \\theta = z (d \\cos \\theta + w - f (x)) \\\\ d (g (x) - f (x)) \\sin \\theta = z \\sqrt {d ^ {2} + w ^ {2} + f ^ {2} (x) - 2 (d \\cos \\theta + w) f (x) + 2 d w \\cos \\theta} \\end{array} \\right.\\tag{7-4}"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.22,
+                0.774,
+                0.822,
+                0.797
+            ],
+            "angle": 0,
+            "content": "l e n (x _ {i}) = \\sqrt {d ^ {2} + w ^ {2} + f ^ {2} (x _ {i}) - 2 (d \\cos \\theta + w) f (x _ {i}) + 2 d w \\cos \\theta} + f (x _ {i}) - d - w\\tag{7-5}"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.22,
+                0.856,
+                0.239,
+                0.871
+            ],
+            "angle": 0,
+            "content": "h",
+            "merge_prev": false
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.382,
+                0.834,
+                0.46,
+                0.871
+            ],
+            "angle": 0,
+            "content": "\\begin{array}{c} y = f (x) \\\\ 2 \\end{array}\\tag{\\(y = g(x)\\}"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.116,
+                0.81,
+                0.158,
+                0.829
+            ],
+            "angle": 0,
+            "content": "7.2"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.491,
+                0.92,
+                0.511,
+                0.932
+            ],
+            "angle": 0,
+            "content": "14"
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.178,
+                0.158,
+                0.22,
+                0.183
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.181,
+                0.425,
+                0.195,
+                0.442
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.117,
+                0.449,
+                0.134,
+                0.459
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.222,
+                0.858,
+                0.237,
+                0.871
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "equation",
+            "bbox": [
+                0.158,
+                0.085,
+                0.851,
+                0.441
+            ],
+            "angle": 0,
+            "content": "\\begin{array}{l} \\min h / \\sin \\theta \\\\ \\min \\sum_ {i = 1} ^ {n} \\operatorname{len} \\left(x _ {i}\\right) \\\\ s. t. \\left\\{ \\begin{array}{l} \\operatorname{len} \\left(x _ {i}\\right) <   s - \\lambda , i = 1, 2, \\dots , n \\\\ y _ {D} \\left(x _ {i}\\right) \\geq 0, i = 1, 2, \\dots , n \\\\ 2 (w + h \\cot \\theta) \\geq a W \\\\ z _ {D} \\left(x _ {i}\\right) \\leq h, i = 1, 2, \\dots , n - 1 \\end{array} \\right. \\\\ s \\quad (\\quad) \\quad \\theta \\\\ a \\quad \\lambda \\quad \\text {小}. s \\quad \\theta \\\\ \\operatorname{len} \\left(x _ {i}\\right) = \\sqrt {d ^ {2} + w ^ {2} + f ^ {2} \\left(x _ {i}\\right) - 2 (d \\cos \\theta + w) f \\left(x _ {i}\\right) + 2 d \\cos \\theta \\cdot w} + f \\left(x _ {i}\\right) - d - w \\\\ y _ {D} \\left(x _ {i}\\right) = f \\left(x _ {i}\\right) + \\frac {(d \\cos \\theta + w - f \\left(x _ {i}\\right)) (d + w - f \\left(x _ {i}\\right))}{\\sqrt {d ^ {2} + w ^ {2} + f ^ {2} \\left(x _ {i}\\right) - 2 (d \\cos \\theta + w) f \\left(x _ {i}\\right) + 2 d w \\cdot \\cos \\theta}} \\\\ z _ {D} \\left(x _ {i}\\right) = \\frac {d \\sin \\theta (g (x _ {i}) - f (x _ {i}))}{\\sqrt {d ^ {2} + w ^ {2} + f ^ {2} (x _ {i}) - 2 (d \\cos \\theta + w) f (x _ {i}) + 2 d w \\cos \\theta}} \\\\ x _ {i} = w i \\quad d = \\frac {h}{\\sin \\theta} - s. \\end{array}\\tag{7-6}"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.115,
+                0.449,
+                0.153,
+                0.465
+            ],
+            "angle": 0,
+            "content": "7.3"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.116,
+                0.495,
+                0.162,
+                0.512
+            ],
+            "angle": 0,
+            "content": "7.3.1"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.303,
+                0.514,
+                0.754,
+                0.684
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.786,
+                0.515,
+                0.881,
+                0.534
+            ],
+            "angle": 0,
+            "content": "(7-2)."
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.155,
+                0.707,
+                0.186,
+                0.724
+            ],
+            "angle": 0,
+            "content": "(1)"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.116,
+                0.743,
+                0.16,
+                0.76
+            ],
+            "angle": 0,
+            "content": "6.2.1"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.238,
+                0.723,
+                0.72,
+                0.778
+            ],
+            "angle": 0,
+            "content": "\\begin{array}{c c c c c} h = 5 7 & w = 2. 5 & W = 6 0. & \\lambda = 5 & a = 1 \\\\ & (\\quad 5) \\\\ & & \\theta = 1. 0 4 7 2 & s = 3 2. \\end{array}\\tag{7-6}"
+        },
+        {
+            "type": "equation",
+            "bbox": [
+                0.154,
+                0.814,
+                0.843,
+                0.897
+            ],
+            "angle": 0,
+            "content": "\\begin{array}{c} d = \\frac {h}{\\sin \\theta} - s = 3 6. 3 1 8 \\quad w = 2. 5 \\quad \\theta = 1. 0 4 7 2 \\\\ l e n \\left(x _ {i}\\right) = \\sqrt {d ^ {2} + w ^ {2} + f ^ {2} \\left(x _ {i}\\right) - 2 \\left(d \\cos \\theta + w\\right) f \\left(x _ {i}\\right) + 2 d \\cos \\theta \\cdot w} + f \\left(x _ {i}\\right) - d - w \\\\ 5. \\end{array}\\tag{2}"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.491,
+                0.92,
+                0.509,
+                0.932
+            ],
+            "angle": 0,
+            "content": "15"
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.117,
+                0.497,
+                0.16,
+                0.514
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.779,
+                0.513,
+                0.886,
+                0.539
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.156,
+                0.708,
+                0.185,
+                0.732
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.117,
+                0.745,
+                0.16,
+                0.761
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "bbox": [
+                0.134,
+                0.12,
+                0.864,
+                0.366
+            ],
+            "angle": 0,
+            "content": "<table><tr><td></td><td colspan=\"7\">5</td><td colspan=\"4\">( cm )</td><td></td></tr><tr><td>i</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td></tr><tr><td></td><td>137.07</td><td>137.30</td><td>137.74</td><td>138.38</td><td>139.20</td><td>140.19</td><td>141.31</td><td>142.53</td><td>143.81</td><td>145.07</td><td>146.28</td><td>147.36</td></tr><tr><td></td><td>29.50</td><td>29.23</td><td>28.71</td><td>27.93</td><td>26.89</td><td>25.58</td><td>23.98</td><td>22.10</td><td>19.94</td><td>17.49</td><td>14.76</td><td>11.766</td></tr><tr><td></td><td>2.50</td><td>2.77</td><td>3.297</td><td>4.07</td><td>5.11</td><td>6.42</td><td>8.02</td><td>9.90</td><td>12.061</td><td>14.511</td><td>17.244</td><td>20.24</td></tr><tr><td></td><td>60</td><td>55</td><td>50</td><td>45</td><td>40</td><td>35</td><td>30</td><td>25</td><td>20</td><td>15</td><td>10</td><td>5</td></tr><tr><td></td><td>44.57</td><td>46.95</td><td>49.24</td><td>51.44</td><td>53.56</td><td>55.59</td><td>57.53</td><td>59.38</td><td>61.14</td><td>62.80</td><td>64.36</td><td>65.82</td></tr></table>"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.217,
+                0.439,
+                0.819,
+                0.477
+            ],
+            "angle": 0,
+            "content": "\\(\\theta = 0, 0.1496, 0.2992, 0.4488, 0.5984, 0.7480, 0.8976, 1.0472\\)  \n7-3 7-4. (",
+            "merge_prev": false
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.125,
+                0.493,
+                0.818,
+                0.888
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.491,
+                0.92,
+                0.51,
+                0.932
+            ],
+            "angle": 0,
+            "content": "16"
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.221,
+                0.442,
+                0.815,
+                0.457
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.655,
+                0.459,
+                0.785,
+                0.477
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.365,
+                0.086,
+                0.399,
+                0.101
+            ],
+            "angle": 0,
+            "content": "7-4"
+        },
+        {
+            "type": "paragraph_title",
+            "bbox": [
+                0.116,
+                0.119,
+                0.218,
+                0.137
+            ],
+            "angle": 0,
+            "content": "7.3.2 8字"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.161,
+                0.157,
+                0.213,
+                0.174
+            ],
+            "angle": 0,
+            "content": "70cm",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.321,
+                0.138,
+                0.471,
+                0.157
+            ],
+            "angle": 0,
+            "content": "8 字 (7-5)",
+            "merge_prev": false
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.753,
+                0.138,
+                0.804,
+                0.156
+            ],
+            "angle": 0,
+            "content": "60cm"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.344,
+                0.189,
+                0.656,
+                0.358
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.503,
+                0.398,
+                0.525,
+                0.413
+            ],
+            "angle": 0,
+            "content": "6."
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.168,
+                0.423,
+                0.831,
+                0.825
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>i</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr><tr><td></td><td>149.2</td><td>149.1</td><td>148.9</td><td>148.5</td><td>147.9</td><td>147.1</td><td>146.2</td><td>145.1</td><td>143.8</td></tr><tr><td></td><td>30.28</td><td>26.02</td><td>22.69</td><td>19.94</td><td>17.64</td><td>15.72</td><td>14.14</td><td>12.87</td><td>11.90</td></tr><tr><td></td><td>9.72</td><td>13.98</td><td>17.31</td><td>20.06</td><td>22.36</td><td>24.28</td><td>25.86</td><td>27.13</td><td>28.10</td></tr><tr><td></td><td>106.03</td><td>114.54</td><td>121.20</td><td>126.70</td><td>131.31</td><td>135.15</td><td>138.31</td><td>140.84</td><td>142.77</td></tr><tr><td></td><td>106.03</td><td>114.54</td><td>121.20</td><td>126.70</td><td>131.31</td><td>135.15</td><td>138.31</td><td>140.84</td><td>59.4</td></tr><tr><td>i</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td></td></tr><tr><td></td><td>23.81</td><td>22.44</td><td>21.62</td><td>21.35</td><td>21.62</td><td>22.44</td><td>23.81</td><td>25.74</td><td></td></tr><tr><td></td><td>11.22</td><td>10.81</td><td>10.68</td><td>10.81</td><td>11.22</td><td>11.90</td><td>12.87</td><td>14.14</td><td></td></tr><tr><td></td><td>28.78</td><td>29.19</td><td>29.32</td><td>29.19</td><td>28.78</td><td>28.10</td><td>27.13</td><td>25.86</td><td></td></tr><tr><td></td><td>23.81</td><td>22.44</td><td>21.62</td><td>21.35</td><td>21.62</td><td>22.44</td><td>23.81</td><td>25.74</td><td></td></tr><tr><td></td><td>144.14</td><td>144.96</td><td>145.23</td><td>144.96</td><td>144.14</td><td>142.77</td><td>140.84</td><td>138.31</td><td></td></tr></table>"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.202,
+                0.862,
+                0.225,
+                0.879
+            ],
+            "angle": 0,
+            "content": "7)",
+            "merge_prev": false
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.491,
+                0.919,
+                0.511,
+                0.932
+            ],
+            "angle": 0,
+            "content": "17"
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.116,
+                0.118,
+                0.218,
+                0.139
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.162,
+                0.158,
+                0.211,
+                0.176
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.321,
+                0.138,
+                0.404,
+                0.157
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.425,
+                0.139,
+                0.471,
+                0.158
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.202,
+                0.863,
+                0.225,
+                0.885
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "bbox": [
+                0.207,
+                0.089,
+                0.81,
+                0.309
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.357,
+                0.315,
+                0.446,
+                0.333
+            ],
+            "angle": 0,
+            "content": "7-6 8字"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.32,
+                0.351,
+                0.485,
+                0.478
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.367,
+                0.489,
+                0.456,
+                0.506
+            ],
+            "angle": 0,
+            "content": "7-7 8字"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.521,
+                0.338,
+                0.708,
+                0.484
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.503,
+                0.792,
+                0.549,
+                0.811
+            ],
+            "angle": 0,
+            "content": "\\(\\theta(x_{i})\\)"
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.652,
+                0.793,
+                0.697,
+                0.811
+            ],
+            "angle": 0,
+            "content": "\\(\\theta(x_{i})\\)"
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.116,
+                0.839,
+                0.152,
+                0.855
+            ],
+            "angle": 0,
+            "content": "8.3"
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.56,
+                0.86,
+                0.604,
+                0.878
+            ],
+            "angle": 0,
+            "content": "\\(f(x)\\)"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.491,
+                0.92,
+                0.51,
+                0.932
+            ],
+            "angle": 0,
+            "content": "18"
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "bbox": [
+                0.434,
+                0.085,
+                0.485,
+                0.105
+            ],
+            "angle": 0,
+            "content": "\\(\\psi (x)\\)",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.139,
+                0.144,
+                0.185,
+                0.164
+            ],
+            "angle": 0,
+            "content": "\\(f(x)\\)",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.45,
+                0.124,
+                0.502,
+                0.144
+            ],
+            "angle": 0,
+            "content": "\\(\\psi (x)\\)",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.589,
+                0.144,
+                0.639,
+                0.165
+            ],
+            "angle": 0,
+            "content": "\\(\\psi (x)\\)",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.834,
+                0.124,
+                0.881,
+                0.143
+            ],
+            "angle": 0,
+            "content": "\\(\\psi (x)\\)",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.417,
+                0.219,
+                0.506,
+                0.242
+            ],
+            "angle": 0,
+            "content": "( )",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.734,
+                0.22,
+                0.837,
+                0.257
+            ],
+            "angle": 0,
+            "content": "2006.\n2007.",
+            "merge_prev": false
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.49,
+                0.919,
+                0.511,
+                0.932
+            ],
+            "angle": 0,
+            "content": "19"
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.435,
+                0.086,
+                0.483,
+                0.107
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.138,
+                0.145,
+                0.185,
+                0.167
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.453,
+                0.124,
+                0.501,
+                0.146
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.589,
+                0.145,
+                0.637,
+                0.166
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.834,
+                0.125,
+                0.88,
+                0.148
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.413,
+                0.222,
+                0.451,
+                0.245
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.472,
+                0.223,
+                0.508,
+                0.247
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.739,
+                0.224,
+                0.787,
+                0.238
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.785,
+                0.242,
+                0.835,
+                0.257
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "code",
+            "bbox": [
+                0.111,
+                0.083,
+                0.881,
+                0.911
+            ],
+            "angle": 0,
+            "content": "1\n%canshu\nw=2.5;\nr=sqrt(100+1)*w;\nl=60-w;\nd=l/2;\nh=53-3;\ntheta=asin(h/l);\n%shengcheng canshu\nv=-25:25;\nu=25:60;\n[u,v]=meshgrid(u,v);\n%qumian canshu fangcheng\nx=v;\ny=sqrt(r^2-v.^2)+(d*cos(theta)+w-sqrt(r^2-v.^2)).\n*(u-sqrt(r^2-v.^2))./sqrt(d^2+w^2+r^2-v.^2-2*(d*cos(theta)+w)*sqrt(r^2-v.^2)+2*d*w*cos(theta));\nz=d*sin(theta)*(u-sqrt(r^2-v.^2))./sqrt(d^2+w^2+r^2-v.^2-2*(d*cos(theta)+w)*sqrt(r^2-v.^2)+2*d*w*cos(theta));\nz=-z;\n%cemian tuxiang\nfigure(1);\nmesh(x,y,z);\n%zhuojiao bianyuanxian\nu=60;\nv=-25:25;\nx=v;\ny=sqrt(r^2-v.^2)+(d*cos(theta)+w-sqrt(r^2-v.^2)).\n*(u-sqrt(r^2-v.^2))./sqrt(d^2+w^2+r^2-v.^2-2*(d*cos(theta)+w)*sqrt(r^2-v.^2)+2*d*w*cos(theta));\nz=d*sin(theta)*(u-sqrt(r^2-v.^2))./sqrt(d^2+w^2+r_²-v.^2-2*(d*cos(theta)+w)*sqrt(r^2-v.^2)+2*d*w*cos(theta));\nz=-z;\nfigure(2);\nplot3(x,y,z,'LineWidth',2);\ngrid on;\n2\n%canshu\nw=2.5;\nr=sqrt(100+1)*w;\nl=60-w;\nd=l/2;\nh=53-3;\ntheta=asin(h/l);\n%zhuobian dian zuobiao\nxc=-10:10;\nxc=xc*w;\nyc=sqrt(r^2-xc.^2);\nzc=zeros(1,21);"
+        }
+    ],
+    [
+        {
+            "type": "code",
+            "bbox": [
+                0.115,
+                0.168,
+                0.481,
+                0.305
+            ],
+            "angle": 0,
+            "content": "3 ( 2)\nglobal w h a W r x lamda;\nw=2.5;h=70-3;a=1;W=80;lamda=1.5;r=sqrt(40*40+2.5*2.5);\nx=[2.5:2.5:40]';\nts0=[pi/4,h/2];\nlb=[0,0];\nub=[pi/2,h];\nts=fmincon(@objfun,ts0,[],[],[],[],lb,ub,@confun)"
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.114,
+                0.319,
+                0.484,
+                0.742
+            ],
+            "angle": 0,
+            "content": "objfun.m\nfunction f=objfun(ts)\nf=-sin(ts(1));\n%di er mubiao\n%l=w+h/sin(ts(1));\n%d=l-ts(2);\n%q=32.5-abs(x);\n%len=sqrt(d^2-+w^2+q^2-2*(d*cos(ts(1))+w)*q+\n2*d*w*cos(ts(1))+q-d-w\n%f=sum(len);\n\nconfun.m\nfunction [c,ceq]=confun(ts)\n%ts=[theta,s];\n\nglobal w h a W r x lamda;\nl=w+h/sin(ts(1));\nd=l-ts(2);\nq=sqrt(r^2-x.^2);\nlen=sqrt(d^2-+w^2+r^2-x.^2-2*(d*cos(ts(1))+w)*\nq+2*d*w*cos(ts(1))+q-d-w;\n\nc=[a*W-2*(w+h*cot(ts(1)));\n\n-(q+(d*cos(ts(1))+w-q).*(l-q)./sqrt(d^2-+w^2+r^2-\nx.^2-2*(d*cos(ts(1))+w)*q+2*d*w*cos(ts(1))));\n    len-ts(2)+lamda\n];\nceq=[];"
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.115,
+                0.764,
+                0.478,
+                0.913
+            ],
+            "angle": 0,
+            "content": "4       2\n%canshu\nglobal w h a W r x lamda n;\nw=2.5;h=70-3;a=1;W=80;lamda=5;r=sqrt(40*40+\n2.5*2.5);\n\n%youhua qiujie\nx=[2.5:2.5:40]';\nts0=[pi/4,h/2];\nlb=[0,0];"
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.512,
+                0.083,
+                0.882,
+                0.909
+            ],
+            "angle": 0,
+            "content": "ub=[pi/2,h];\nts=fmincon(@objfun,ts0,[],[],[],[],lb,ub,@confun)\n\ntheta=ts(1);          %youhua jieguo\ns=ts(2);                  %youhua jieguo\nl=w+h/sin(theta);\nd=l-s;\nn=80/2.5+1;\n\n%zhuobian dian zuobiao\nxc=-40:2.5:40;\nyc=sqrt(r^2-xc.^2);\nzc=zeros(1,n);\n\n%gangjin dian zuobiao\nxg=-40:2.5:40;\nyg=d*cos(theta)*ones(1,n)+w;\nzg=d*sin(theta)*ones(1,n);\n\n%zhuobian dao gangjin de juli:\nfor i=1:n\n\ndis(i)=norm([xc(i),yc(i),zc(i)]-[xg(i),yg(i),zg(i)]);\nend\n\n%kaicang dao banbian de juli:\nfor i=1:n\n    margin(i)=l-yc(i)-dis(i);\nend\n\n%muban dingdian zuobiao\nfor i=1:n\n    k=(margin(i)+dis(i))/dis(i);\n    xd(i)=xc(i)+k*(xg(i)-xc(i));\n    yd(i)=yc(i)+k*(yg(i)-yc(i));\n    zd(i)=zc(i)+k*(zg(i)-zc(i));\nend\n\nfigure(1); hold on;\nplot3(xc,yc,zc,'*');\nplot3(xg,yg,zg,'r');\nfor i=1:n\n\nline([xc(i),xg(i),[yc(i),yg(i),[zc(i),zg(i)],'LineWidth',2);\n\nline([xd(i),xg(i),[yd(i),yg(i),[zd(i),zg(i)],'LineWidth',2);\nend\n\nfigure(1); hold on;\nplot3(xc,-yc,zc,'*');\nplot3(xg,-yg,zg,'r');\nfor i=1:n\n\nline([xc(i),xg(i),[-yc(i),-yg(i),[zc(i),zg(i)],'LineWidth',1,'Color',[.2 .2 .2]);"
+        }
+    ],
+    [
+        {
+            "type": "code",
+            "bbox": [
+                0.114,
+                0.095,
+                0.482,
+                0.348
+            ],
+            "angle": 0,
+            "content": "line([xd(i),xg(i)],[-yd(i),-yg(i)],[zd(i),zg(i)],'LineWidth',1,'Color',[.2 .2 .2]);\nend\n\nplot3(xc,yc,zc);plot3(xc,-yc,zc);\nline([xc(1),xc(1)],[yc(1),-yc(1)],[zc(1),zc(1)],'LineWidth',2);\nline([xc(n),xc(n)],[yc(n),-yc(n)],[zc(n),zc(n)],'LineWidth',2);\nview(3)\n\n[X,Y,Z]=sphere(30);\nX=l*X/2;Y=l*Y/2;Z=zeros(31);\nsurf(X,Y,Z);\ncolormap(spring);\nalpha(.5)\nshading interp; axis equal; axis off;"
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.113,
+                0.369,
+                0.483,
+                0.908
+            ],
+            "angle": 0,
+            "content": "global w h a W x lamda;\nw=2.5;h=60-3;a=1;W=60;lamda=5;\nx=[2.5:2.5:30]';\n%8xing, gaiwei:\n%w=2.5;h=70-3;a=1;W=90;lamda=5;\n%x=[2.5:2.5:45]';\nts0=[pi/4,h/2];\nlb=[0,0];\nub=[pi/2,h];\nts=fmincon(@objfun,ts0,[],[],[],[],lb,ub,@confun)\n\nconfun.m:\nfunction [c,ceq]=confun(ts)\n%ts=[theta,s];\n\nglobal w h a W x lamda;\nl=w+h/sin(ts(1));\nd=l-ts(2);\nq=32.5-abs(x);          %8xing, gaiwei:\nq=sqrt(30^2-(x-15)^2);\nlen=sqrt(d^2-+w^2+q^2-2*(d*cos(ts(1))+w)*q+2*\nd*w*cos(ts(1))+q-d-w;\n\nc=[a*W-2*(w+h*cot(ts(1)));\n\n-(q+(d*cos(ts(1))+w-q).*(l-q)./sqrt(d^2-+w^2+r^2-\nx.^2-2*(d*cos(ts(1))+w)*q+2*d*w*cos(ts(1))));\n    len-ts(2)+lamda\n  ];\nceq=[];\n\nobjfun.m\nfunction f=objfun(ts)\nf=-sin(ts(1));\n%di er mubiao\n%l=w+h/sin(ts(1));"
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.513,
+                0.085,
+                0.879,
+                0.908
+            ],
+            "angle": 0,
+            "content": "%d=1-ts(2);\n%q=32.5-abs(x);\n%len=sqrt(d^2-+w^2+q^2-2*(d*cos(ts(1))+w)*q+\n2*d*w*cos(ts(1))+q-d-w\n%f=sum(len);\n\n6\nclear;\n%canshu\nw=2.5;h=60-3;a=1;W=60; n=W/2.5+1;s=32;\nt=pi/3;\nl=w+h/sin(t);\nR=sqrt(l^2+30^2);\n\n%zhuobian dian zuobiao\nxc=-30:2.5:30;\nyc=32.5-abs(xc);\nzc=zeros(1,n);\n\nxd=xc;xg=xc;\nll=sqrt(R^2-xc.^2);\nd=l-s;\n\nfor m=1:8\n    tt=linspace(0,8,8);\n    theta=tt(m)*t/8;\n\n    %gangjin dian zuobiao\n    yg=d*cos(theta)*ones(1,n)+w;\n    zg=d*sin(theta)*ones(1,n);\n\n    %zhuobian dao gangjin de juli:\n    for i=1:n\n\ndis(i)=norm([xc(i),yc(i),zc(i)]-[xg(i),yg(i),zg(i)]);\n    end\n\n    %kaicang dao banbian de juli:\n    margin=ll-yc-dis;\n\n    %muban dingdian zuobiao\n    for i=1:n\n        k=(margin(i)+dis(i))/dis(i);\n        yd(i)=yc(i)+k*(yg(i)-yc(i));\n        zd(i)=zc(i)+k*(zg(i)-zc(i));\n    end\n\n    subplot(2,4,m)\n    figure(1); hold on;\n    plot3(xc,yc,zc,'*');\n    plot3(xg,yg,zg,'r');\n    for i=1:n\n\nline([xc(i),xg(i)],[yc(i),yg(i),[zc(i),zg(i)],'LineWidth',2);\n\nline([xd(i),xg(i)],[yd(i),yg(i),[zd(i),zg(i)],'LineWi"
+        }
+    ],
+    [
+        {
+            "type": "code",
+            "bbox": [
+                0.113,
+                0.082,
+                0.481,
+                0.907
+            ],
+            "angle": 0,
+            "content": "dth',2);\n    end\n\n    plot3(xc,-yc,zc,'*');\n    plot3(xg,-yg,zg,'r');\n    for i=1:n\n\nline([xc(i),xg(i)],[-yc(i),-yg(i)],[zc(i),zg(i)],'LineWidth',1,'Color',[.2 .2 .2]);\n\nline([xd(i),xg(i)],[-yd(i),-yg(i)],[zd(i),zg(i)],'LineWidth',1,'Color',[.2 .2 .2]);\n    end\n\n    plot3(xc,yc,zc);plot3(xc,-yc,zc);\n\nline([xc(1),xc(1)],[yc(1),-yc(1)],[zc(1),zc(1)],'LineWidth',2);\n\nline([xc(n),xc(n)],[yc(n),-yc(n)],[zc(n),zc(n)],'LineWidth',2);\n    view(3)\n\n    X=[0 0;-1 1;0 0];Y=[1 1;0 0;-1 -1];\n    X=32.5*X;Y=32.5*Y;Z=zeros(3,2);\n    surf(X,Y,Z);\n    colormap(spring);\n    alpha(.5)\n    shading interp; axis equal; axis off;\nend\nfigure(2);\nplot3(xd,yd,zd);plot3(xd,-yd,zd);\n\n7 8\nclear;\n%canshu\nw=2.5;h=70-3;W=90; n=W/2.5-1;s=40;\nt=pi*70/180;\n\n%zhuobian dian zuobiao\nxc=-42.5:2.5:42.5;\nyc=sqrt(30^2-(abs(xc)-15).^2);\nzc=zeros(1,n);\n\nl=yc(1)+h/sin(t);\nxd=xc;xg=xc;\nd=l-s;\n\nfor m=1:8\n    theta=m*t/8;\n\n    %gangjin dian zuobiao\n    yg=d*cos(theta)*ones(1,n)+w;\n    zg=d*sin(theta)*ones(1,n);\n\n    %zhuobian dao gangjin de juli:\n    for i=1:n"
+        },
+        {
+            "type": "code",
+            "bbox": [
+                0.512,
+                0.097,
+                0.881,
+                0.909
+            ],
+            "angle": 0,
+            "content": "dis(i)=norm([xc(i),yc(i),zc(i)]-[xg(i),yg(i),zg(i)]);\n    end\n\n    %kaicang dao banbian de juli:\n    margin=l-yc-dis;\n\n    %muban dingdian zuobiao\n    for i=1:n\n        k=(margin(i)+dis(i))/dis(i);\n        yd(i)=yc(i)+k*(yg(i)-yc(i));\n        zd(i)=zc(i)+k*(zg(i)-zc(i));\n    end\n\n    subplot(2,4,m)\n    figure(1); hold on;\n    plot3(xc,yc,zc,'*');\n    plot3(xg,yg,zg,'r');\n    for i=1:n\n\n    line([xc(i),xg(i)],[yc(i),yg(i)],[zc(i),zg(i)],'LineWidth',2);\n\n    line([xd(i),xg(i)],[yd(i),yg(i)],[zd(i),zg(i)],'LineWidth',2);\n    end\n\n    plot3(xc,-yc,zc,'*');\n    plot3(xg,-yg,zg,'r');\n    for i=1:n\n\n    line([xc(i),xg(i)],[-yc(i),-yg(i)],[zc(i),zg(i)],'LineWidth',1,'Color',[.2 .2 .2]);\n\n    line([xd(i),xg(i)],[-yd(i),-yg(i)],[zd(i),zg(i)],'LineWidth',1,'Color',[.2 .2 .2]);\n    end\n\n    plot3(xc,yc,zc);plot3(xc,-yc,zc);\n\n    line([xc(1),xc(1)],[yc(1),-yc(1)],[zc(1),zc(1)],'LineWidth',2);\n\n    line([xc(n),xc(n)],[yc(n),-yc(n)],[zc(n),zc(n)],'LineWidth',2);\n    view(3)\n\n    [X,Y,Z]=sphere(30);\n    X=30*X;Y=30*Y;Z=zeros(31);\n    X=X+15;      surf(X,Y,Z);\n    X=X-30;      surf(X,Y,Z);\n    colormap(spring);\n    alpha(.5)\n    shading interp; axis equal; axis off;\nend\nfigure(2);\nplot3(xd,yd,zd);plot3(xd,-yd,zd);"
+        }
+    ]
+]

@@ -1,0 +1,4177 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( “"
+                    }
+                ]
+            },
+            "bbox": [
+                193,
+                195,
+                319,
+                218
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( )"
+                    }
+                ]
+            },
+            "bbox": [
+                319,
+                252,
+                467,
+                275
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( )"
+                    }
+                ]
+            },
+            "bbox": [
+                253,
+                308,
+                460,
+                331
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( 体 )."
+                    }
+                ]
+            },
+            "bbox": [
+                132,
+                446,
+                786,
+                469
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( A/B/C/D ) B"
+                    }
+                ]
+            },
+            "bbox": [
+                347,
+                500,
+                884,
+                520
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(8 字) 16046004"
+                    }
+                ]
+            },
+            "bbox": [
+                347,
+                527,
+                882,
+                548
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( ) ____"
+                    }
+                ]
+            },
+            "bbox": [
+                226,
+                555,
+                884,
+                576
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( ) 1._"
+                    }
+                ]
+            },
+            "bbox": [
+                236,
+                583,
+                882,
+                604
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2.____"
+                    }
+                ]
+            },
+            "bbox": [
+                376,
+                610,
+                882,
+                630
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3."
+                    }
+                ]
+            },
+            "bbox": [
+                378,
+                638,
+                882,
+                657
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( ) ____"
+                    }
+                ]
+            },
+            "bbox": [
+                426,
+                666,
+                882,
+                686
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(论文纸质版与电子版中的以上信息必须一致，只是电子版中无需签名。以上内容请仔细核对，提交后将不再允许做任何修改。如填写错误，论文可能被取消评奖资格。)"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                697,
+                882,
+                764
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2014 9 14"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                762,
+                863,
+                804
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( )"
+                    }
+                ]
+            },
+            "bbox": [
+                287,
+                811,
+                621,
+                833
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2014"
+                    }
+                ]
+            },
+            "bbox": [
+                292,
+                85,
+                349,
+                103
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( )"
+                    }
+                ]
+            },
+            "bbox": [
+                322,
+                200,
+                658,
+                226
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/2c3362de9f8b275239aac2bab1713aab36ed1c6471377ae4c4b08c749faf4747.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                105,
+                292,
+                889,
+                547
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( )"
+                    }
+                ]
+            },
+            "bbox": [
+                322,
+                621,
+                658,
+                647
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( )"
+                    }
+                ]
+            },
+            "bbox": [
+                322,
+                735,
+                657,
+                761
+            ]
+        }
+    ],
+    [
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "d \\left(y - \\sqrt {r ^ {2} - x ^ {2}}\\right) \\sin \\theta = z \\left(d \\cos \\theta + w - \\sqrt {r ^ {2} - x ^ {2}}\\right).",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/723476086ea575263d97c95d1d0a94df1c14dd542bf930c6ef2b4c734c23411a.jpg"
+                }
+            },
+            "bbox": [
+                314,
+                347,
+                721,
+                378
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(5-12) (5-13)."
+                    }
+                ]
+            },
+            "bbox": [
+                465,
+                385,
+                600,
+                404
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "20.09 19.60 18.77 17.59 16.06 14.14 11.81 9.00"
+                    }
+                ]
+            },
+            "bbox": [
+                460,
+                408,
+                875,
+                425
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5.53(cm)."
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                428,
+                188,
+                444
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( )"
+                    }
+                ]
+            },
+            "bbox": [
+                378,
+                446,
+                482,
+                467
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( )"
+                    }
+                ]
+            },
+            "bbox": [
+                576,
+                444,
+                742,
+                467
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\theta"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 1.0605( )  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "L"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 158.56cm."
+                    }
+                ]
+            },
+            "bbox": [
+                216,
+                511,
+                450,
+                554
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Matlab"
+                    }
+                ]
+            },
+            "bbox": [
+                662,
+                491,
+                729,
+                509
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "s 43.80cm"
+                    }
+                ]
+            },
+            "bbox": [
+                759,
+                513,
+                873,
+                530
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "8字"
+                    }
+                ]
+            },
+            "bbox": [
+                339,
+                602,
+                384,
+                619
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "体"
+                    }
+                ]
+            },
+            "bbox": [
+                477,
+                624,
+                504,
+                642
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                919,
+                505,
+                931
+            ]
+        }
+    ],
+    [
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "1 2 0 \\mathrm{cm} \\times 5 0 \\mathrm{cm} \\times 3 \\mathrm{cm}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/ec54bdc7892a357fdeddc15767d5ab6b41787bfa0c044dfb4dde8dce43463faf.jpg"
+                }
+            },
+            "bbox": [
+                381,
+                204,
+                583,
+                220
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "y O z",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/518498615a2eec229d52c7c5e06067d354d893b9e4b6fa5ff064ea24a1b277b4.jpg"
+                }
+            },
+            "bbox": [
+                119,
+                553,
+                157,
+                568
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\overrightarrow {O P} = \\overrightarrow {O C} + \\overrightarrow {C P}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/3c756a08dc819468923f7a2d245bd505134e2ee75831b7c8f319f5363844cd16.jpg"
+                }
+            },
+            "bbox": [
+                383,
+                547,
+                512,
+                568
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( )."
+                    }
+                ]
+            },
+            "bbox": [
+                357,
+                598,
+                463,
+                638
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Matlab"
+                    }
+                ]
+            },
+            "bbox": [
+                554,
+                660,
+                618,
+                676
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                919,
+                505,
+                931
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S ( )"
+                    }
+                ]
+            },
+            "bbox": [
+                157,
+                415,
+                398,
+                437
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/36353540c33c867e315795ac56465af52114fdaaeb7568654dfdbdb51e427437.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "5-1"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                164,
+                520,
+                398,
+                676
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8b03ea91c7f8eb32898bfa3069ef66f3ec2bfdb785adc3d30e00bf6f5c466f4b.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "5-2"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                549,
+                514,
+                816,
+                679
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( )\n5.1\n "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P = (x, y, z) \\quad u \\quad P"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "xOz \\quad v \\quad P \\quad yOz \\quad ."
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\overrightarrow{OP} = \\overrightarrow{OC} + \\overrightarrow{CP} \\ ."
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                779,
+                862,
+                869
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                919,
+                505,
+                931
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2697dd15b84a083308f47b8d920d102a5abf8b7c9103bb9979b85173aa5d4e15.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "5-3"
+                    },
+                    {
+                        "type": "text",
+                        "content": "C P"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(1)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "O"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                378,
+                90,
+                621,
+                248
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "r ，"
+                    }
+                ]
+            },
+            "bbox": [
+                176,
+                391,
+                302,
+                408
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "W w"
+                    }
+                ]
+            },
+            "bbox": [
+                174,
+                454,
+                359,
+                472
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\overrightarrow {O C} \\quad \\overrightarrow {C P}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/ce52d57f9373c4e59d2b460b5f3f916ada3ff26445d979d0b09c765763078c70.jpg"
+                }
+            },
+            "bbox": [
+                228,
+                471,
+                321,
+                492
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "yOz x = v"
+                    }
+                ]
+            },
+            "bbox": [
+                157,
+                519,
+                366,
+                536
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\left\\{ \\begin{array}{c} x ^ {2} + y ^ {2} = r ^ {2} \\\\ z = 0 \\end{array} \\right.\\tag{5-1}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/06b07e380c201a096b33c6e08aac010ce7dcc2f06bcbf923decd0658c745be8c.jpg"
+                }
+            },
+            "bbox": [
+                465,
+                336,
+                579,
+                387
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "r = \\sqrt {\\left(\\frac {W}{2}\\right) ^ {2} + w ^ {2}}\\tag{5-2}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/3d544b4a8dbe75365d1ffa47c9bb898822689acc939a16971597f69af0e6060c.jpg"
+                }
+            },
+            "bbox": [
+                467,
+                407,
+                608,
+                453
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{c} x O z \\\\ C \\Big (v, \\sqrt {r ^ {2} - v ^ {2}}, 0 \\Big) \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/2287b7df6d8470d2cf6aeb0b501a7ed0360cbb8196a7ec94671bcb42a384507c.jpg"
+                }
+            },
+            "bbox": [
+                524,
+                496,
+                665,
+                543
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\overrightarrow {O C} = \\left(v, \\sqrt {r ^ {2} - v ^ {2}}, 0\\right).\\tag{5-3}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/c8386a485e578373d837692549417234cbf40cef9f8a240207a8f4d17927cf4f.jpg"
+                }
+            },
+            "bbox": [
+                357,
+                547,
+                537,
+                576
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\left| \\overrightarrow {C P} \\right| = u - \\sqrt {r ^ {2} - v ^ {2}}.",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/26c0f9c2efde6d1bb70debd4165573cb79a03f266589e3602d11fb3698504d10.jpg"
+                }
+            },
+            "bbox": [
+                458,
+                579,
+                618,
+                609
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "M \\left(v, d \\cos \\theta + w, d \\sin \\theta\\right)",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/a0a3f93de07b66706fe30b9db2685b51359558492ff6746eef971b0f3fb74848.jpg"
+                }
+            },
+            "bbox": [
+                386,
+                614,
+                593,
+                635
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6dd6f804c94498e795af53546ff9b7777849f6c1931caa508698f56308b495e7.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "θ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "5-4"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                213,
+                669,
+                455,
+                847
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/abcaeb0aa93573beaf376d3d0a7a612eb1853b521a16df41d3bacb03887a04f6.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "5-5"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                606,
+                673,
+                843,
+                857
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                919,
+                505,
+                931
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5-1"
+                    }
+                ]
+            },
+            "bbox": [
+                687,
+                864,
+                717,
+                878
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "B = (v, d \\cos \\theta + w, d \\sin \\theta).",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/a7449b7b293a85f68b93d66fc830e40fd794ef1e7c737bd9388ba94f7903ec5c.jpg"
+                }
+            },
+            "bbox": [
+                658,
+                85,
+                880,
+                102
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\overrightarrow {C B} = \\overrightarrow {O B} - \\overrightarrow {O C} = \\left(0, d \\cos \\theta + w - \\sqrt {r ^ {2} - v ^ {2}}, d \\sin \\theta\\right).",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/e4e540a5c4ae83ddc4f8ba71d63005e4cd4bc90e57cd2b3943afe6582ea62c6e.jpg"
+                }
+            },
+            "bbox": [
+                245,
+                123,
+                665,
+                152
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B"
+                    }
+                ]
+            },
+            "bbox": [
+                159,
+                157,
+                178,
+                171
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{r l} \\left| \\overrightarrow {C B} \\right| & = \\sqrt {\\left(d \\cos \\theta + w - \\sqrt {r ^ {2} - v ^ {2}}\\right) ^ {2} + \\left(d \\sin \\theta\\right) ^ {2}} \\\\ & = \\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - v ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - v ^ {2}} \\cos \\theta + 2 d w \\cos \\theta} \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/65352b6292081e5a101d65e3ad6855b35b3283369f0cf2e95acc0aae98478ff8.jpg"
+                }
+            },
+            "bbox": [
+                228,
+                175,
+                764,
+                241
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\overrightarrow {C P} = \\frac {\\overrightarrow {C B}}{\\left| \\overrightarrow {C B} \\right|} \\left| \\overrightarrow {C P} \\right| = \\frac {\\left(0 , d \\cos \\theta + w - \\sqrt {r ^ {2} - v ^ {2}} , d \\sin \\theta\\right)}{\\sqrt {\\left(d \\cos \\theta + w - \\sqrt {r ^ {2} - v ^ {2}}\\right) ^ {2} + \\left(d \\sin \\theta\\right) ^ {2}}} \\left(u - \\sqrt {r ^ {2} - v ^ {2}}\\right)",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/de1720e7e6db095d22688d51c6ae56bee52b5e1581d7fb9a0a4f361da34dbbbb.jpg"
+                }
+            },
+            "bbox": [
+                174,
+                262,
+                746,
+                328
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\overrightarrow {C P} = \\frac {\\left(0 , d \\cos \\theta + w - \\sqrt {r ^ {2} - v ^ {2}} , d \\sin \\theta\\right)}\\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - v ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - v ^ {2}} + 2 d w \\cos \\theta} \\left(u - \\sqrt {r ^ {2} - v ^ {2}}\\right)\\tag{5-4}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/961b9601b24bb71d8401ebc0c9b0f73cf7975510f39d6975196124ee3f3d431d.jpg"
+                }
+            },
+            "bbox": [
+                166,
+                349,
+                776,
+                404
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(3)"
+                    }
+                ]
+            },
+            "bbox": [
+                154,
+                409,
+                184,
+                425
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\overrightarrow {O P} = \\overrightarrow {O C} + \\overrightarrow {C P} = \\left(v, \\sqrt {r ^ {2} - v ^ {2}}, 0\\right) + \\frac {\\left(0 , d \\cos \\theta + w - \\sqrt {r ^ {2} - v ^ {2}} , d \\sin \\theta\\right)}{\\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - v ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - v ^ {2}} + 2 d w \\cos \\theta}} \\left(u - \\sqrt {r ^ {2} - v ^ {2}}\\right)\\tag{5-5}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/d9309794fbd8acf0ee5bc6e41d1101aff24ba4b65191c039d74b54ad7987e314.jpg"
+                }
+            },
+            "bbox": [
+                196,
+                444,
+                808,
+                494
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\left\\{ \\begin{array}{l} x = v, \\\\ y = \\sqrt {r ^ {2} - v ^ {2}} + \\frac {\\left(d \\cos \\theta + w - \\sqrt {r ^ {2} - v ^ {2}}\\right) \\cdot \\left(u - \\sqrt {r ^ {2} - v ^ {2}}\\right)}{\\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - v ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - v ^ {2}} + 2 d w \\cos \\theta}} \\\\ z = \\frac {d \\sin \\theta \\left(u - \\sqrt {r ^ {2} - v ^ {2}}\\right)}{\\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - v ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - v ^ {2}} + 2 d w \\cos \\theta}}, \\\\ (u, v \\quad .) \\end{array} \\right.\\tag{5-6}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/4594eafc12570cb9f3543e1580b6c4afd3d445ab9dd78fdd169912708de175ec.jpg"
+                }
+            },
+            "bbox": [
+                258,
+                514,
+                831,
+                675
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "y - \\sqrt {r ^ {2} - v ^ {2}} \\quad z\\tag{4}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/8c01379c7fa4c2a9499c0970a4e3a3f0802f4ebde3296508338acad13c82757a.jpg"
+                }
+            },
+            "bbox": [
+                178,
+                700,
+                319,
+                720
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\frac {y - \\sqrt {r ^ {2} - v ^ {2}}}{z} = \\frac {d \\cos \\theta + w - \\sqrt {r ^ {2} - v ^ {2}}}{d \\sin \\theta}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/fc26a9ea598122f030d42eef9de21f01c8e393f751c46be7ca43ae8d3d6ab68e.jpg"
+                }
+            },
+            "bbox": [
+                357,
+                722,
+                660,
+                766
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "x = \\nu"
+                    }
+                ]
+            },
+            "bbox": [
+                157,
+                769,
+                203,
+                782
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "z = \\frac {d \\left(y - \\sqrt {r ^ {2} - x ^ {2}}\\right) \\sin \\theta}{d \\cos \\theta + w - \\sqrt {r ^ {2} - x ^ {2}}}\\tag{5-7}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/e3fc2b496d06808f242abf5939db5d230d73287e490f19a43fe7aa944261b4a5.jpg"
+                }
+            },
+            "bbox": [
+                393,
+                783,
+                608,
+                834
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2n"
+                    }
+                ]
+            },
+            "bbox": [
+                154,
+                865,
+                181,
+                878
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "n"
+                    }
+                ]
+            },
+            "bbox": [
+                218,
+                888,
+                238,
+                900
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "y",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/ef73de58f4aa3a4af9baf3abc8110e3c5060c678ef1865bfa2d73bc304946110.jpg"
+                }
+            },
+            "bbox": [
+                485,
+                866,
+                504,
+                881
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "x"
+                    }
+                ]
+            },
+            "bbox": [
+                863,
+                866,
+                878,
+                878
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "x"
+                    }
+                ]
+            },
+            "bbox": [
+                297,
+                87,
+                314,
+                100
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "M"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                85,
+                536,
+                100
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                919,
+                505,
+                931
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "5.3"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                844,
+                146,
+                858
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "i"
+                    }
+                ]
+            },
+            "bbox": [
+                216,
+                86,
+                231,
+                99
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "v = w i, C \\Big (w i, \\sqrt {r ^ {2} - v ^ {2}}, 0 \\Big) \\quad B = (w i, d \\cos \\theta + w, d \\sin \\theta),",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/645e5edc30521e211699f8566077e0bf012b2e6664356ecaf0eeb1cfb772f2c1.jpg"
+                }
+            },
+            "bbox": [
+                287,
+                103,
+                749,
+                131
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\left| \\overrightarrow {B C} \\right| = \\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - (w i) ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - (w i) ^ {2}} + 2 d w \\cos \\theta}.",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/efc6c2ddb6fdd0870a5e31db7c8a5d6023b4c108c70c75ad6b5a5ffbec25d873.jpg"
+                }
+            },
+            "bbox": [
+                235,
+                154,
+                800,
+                187
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "l e n (x _ {i}) = \\left| \\overrightarrow {B C} \\right| - \\left(d + w - \\frac {l}{2}\\right) \\quad l \\quad i",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/a2c254f844c960dcc70f9f8b8dbb2494ab0a36c01afe09048a4a7287014e0aef.jpg"
+                }
+            },
+            "bbox": [
+                418,
+                207,
+                781,
+                245
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "l e n (x _ {i}) = \\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - x ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - x ^ {2}} + 2 d w \\cos \\theta} + \\sqrt {r ^ {2} - x ^ {2}} - d - w\\tag{5-8}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/8bf79f8636b18c0803d39fbefe7b8bae1862afd75fcab582af6abf8aa5354211.jpg"
+                }
+            },
+            "bbox": [
+                179,
+                269,
+                808,
+                294
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\frac {l}{2} = \\sqrt {r ^ {2} - (w i) ^ {2}}\\tag{5-9}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/94611557b3174ea9e13bfdf4d3eba2cd1078328e459d8e6043e2f0a1a62801ce.jpg"
+                }
+            },
+            "bbox": [
+                455,
+                315,
+                589,
+                349
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "l e n (x _ {i}) = \\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - (w i) ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - (w i) ^ {2}} + 2 d w \\cos \\theta} + \\sqrt {r ^ {2} - (w i) ^ {2}} - d - w\\tag{5-10}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/447d5b6014ba4d8b5b86ed9b8543442ba7ac7c477ce583bffd4d0a21663ff2bc.jpg"
+                }
+            },
+            "bbox": [
+                131,
+                370,
+                823,
+                397
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "= \\frac {L - l}{2}\\tag{5-11}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/0c1b71dc01bdb747a28084916758a05f032b437085d83ba9216139a256cd3176.jpg"
+                }
+            },
+            "bbox": [
+                564,
+                400,
+                628,
+                435
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "L"
+                    }
+                ]
+            },
+            "bbox": [
+                198,
+                437,
+                216,
+                452
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "= \\frac {\\frac {L}{2} - w}{2} - l e n (i) = \\frac {L}{4} - \\frac {w}{2} - l e n (i)\\tag{5-12}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/55731f3148d56f57b8ac2f1a3c1a8b3f1fe9d10195b3a7e02748bd1969b4371f.jpg"
+                }
+            },
+            "bbox": [
+                475,
+                456,
+                742,
+                507
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5.4"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                516,
+                147,
+                530
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "L"
+                    }
+                ]
+            },
+            "bbox": [
+                178,
+                536,
+                196,
+                551
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "(x \\quad) \\quad \\frac {L}{2}.",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/e6b5c708fe9c467b60aafbc75619ce48ccf6e76ad7ca28c6b2049895938d04a9.jpg"
+                }
+            },
+            "bbox": [
+                334,
+                554,
+                497,
+                589
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( )"
+                    }
+                ]
+            },
+            "bbox": [
+                618,
+                536,
+                700,
+                554
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "u = \\frac {L}{2}\\tag{5-6}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/eca0673c869919eb8009a146bc1e454b3493709048ad3603e900615977af67c9.jpg"
+                }
+            },
+            "bbox": [
+                806,
+                555,
+                860,
+                589
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\left\\{ \\begin{array}{l} x = v, \\\\ y = \\sqrt {r ^ {2} - v ^ {2}} + \\frac {\\left(d \\cos \\theta + w - \\sqrt {r ^ {2} - v ^ {2}}\\right) \\left(\\frac {L}{2} - \\sqrt {r ^ {2} - v ^ {2}}\\right)}{\\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - v ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - v ^ {2}} + 2 d w \\cos \\theta}}, \\\\ z = \\frac {d \\sin \\theta \\left(\\frac {L}{2} - \\sqrt {r ^ {2} - v ^ {2}}\\right)}{\\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - v ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - v ^ {2}} + 2 d w \\cos \\theta}}, \\\\ (v \\quad .) \\end{array} \\right.\\tag{5-13}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/75575d630767bf6e675f51e7b8331a6fdb9c73cb92d3560c1a2f94f7ebd818cf.jpg"
+                }
+            },
+            "bbox": [
+                159,
+                610,
+                729,
+                787
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\left\\{ \\begin{array}{l} d \\left(y - \\sqrt {r ^ {2} - x ^ {2}}\\right) \\sin \\theta = z \\left(d \\cos \\theta + w - \\sqrt {r ^ {2} - x ^ {2}}\\right) \\\\ d \\sin \\theta \\left(\\frac {L}{2} - \\sqrt {r ^ {2} - x ^ {2}}\\right) = z \\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - x ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - x ^ {2}} + 2 d w \\cos \\theta} \\end{array} \\right.\\tag{5-14}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/582eb829219b8ccb2edac1893002c5c64a1f292597faa7ed26829fa6b7cccd65.jpg"
+                }
+            },
+            "bbox": [
+                179,
+                793,
+                810,
+                882
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                919,
+                505,
+                931
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5.5"
+                    }
+                ]
+            },
+            "bbox": [
+                114,
+                85,
+                147,
+                100
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{c} W = 5 0 \\quad w = 2. 5 \\quad (5 - 2) \\\\ r = \\sqrt {\\left(\\frac {W}{2}\\right) ^ {2} + w ^ {2}} = \\sqrt {6 3 1 . 2 5} = 2 5. 1 2 5. \\end{array}\\tag{5.5.1}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/615d80449e4478efc669e638d70c74badd7fd1c683b886eaef34987ae479c416.jpg"
+                }
+            },
+            "bbox": [
+                275,
+                130,
+                678,
+                195
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{l} d = \\frac {1}{2} \\left(\\frac {L}{2} - w\\right) = 2 8. 7 5. \\\\ h = 5 3 - 3 = 5 0 \\quad 2 d = 5 7. 5 \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/fd5fb5707464b52b8d4a4a6a3121bbeab69dfbc1ccded12ee484c46f1b3c9668.jpg"
+                }
+            },
+            "bbox": [
+                275,
+                214,
+                648,
+                275
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{c} \\sin \\theta = \\frac {h}{2 d} = \\frac {5 0}{5 7 . 5} \\\\ \\theta = \\arcsin \\left(\\frac {h}{2 d}\\right) = \\arcsin (0. 8 6 9 6) = 1. 0 5 4 3. \\end{array}\\tag{5-7}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/9a7867a4541c566923e181ff628cec80c62bb4186881df2d511a68a82220f803.jpg"
+                }
+            },
+            "bbox": [
+                341,
+                293,
+                697,
+                369
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "z = \\frac {2 5 \\left(y - \\sqrt {6 3 1 . 2 5 - x ^ {2}}\\right)}{1 6 . 7 0 - \\sqrt {6 3 1 . 2 5 - x ^ {2}}}\\tag{5-15}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/bdd98679c84521778d2dde830420e58beae8a0569d42c12e6a1e99aeeebd86ca.jpg"
+                }
+            },
+            "bbox": [
+                413,
+                388,
+                628,
+                441
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5.5.2"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                448,
+                161,
+                465
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{r l} r ^ {2} = 6 3 1. 2 5 \\quad w & = 2. 5 \\quad (5 - 9) \\quad (5 - 1 1) \\\\ \\frac {l}{2} & = \\sqrt {6 3 1 . 2 5 - 6 . 2 5 i ^ {2}}, \\quad i = 1 \\quad \\dots \\dots 1 0. \\\\ & = 6 0 - \\frac {l}{2}. \\end{array}\\tag{1}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/e4fb92fe41d51d3b15662f21efb9517fb89d65c75b4de3b0d800132f63c0b3f3.jpg"
+                }
+            },
+            "bbox": [
+                174,
+                486,
+                700,
+                578
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{c} d = 2 8. 7 5, r ^ {2} = 6 3 1. 2 5, \\sin \\theta = \\frac {5 0}{5 7 . 5} \\quad (5 - 1 0) \\\\ l e n (x _ {i}) = \\sqrt {1 4 6 4 . 0 6 - 6 . 2 5 i ^ {2} - 3 3 . 4 \\sqrt {6 3 1 . 2 5 - 6 . 2 5 i ^ {2}} + 7 0 . 9 9} + \\sqrt {6 3 1 . 2 5 - 6 . 2 5 i ^ {2}} - 3 1. 2 5 \\\\ L = 1 2 0 c m, w = 2. 5 c m \\quad (5 - 1 2) \\quad = 2 8. 7 5 - l e n (i). \\end{array}\\tag{5-16}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/acc201f9454f8ee15a8e582662ca259e92cbfcf23b40fc2498354974323a560c.jpg"
+                }
+            },
+            "bbox": [
+                142,
+                686,
+                811,
+                773
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/1d653e27b38a164e9c07976b285c24674534a971b6418cbf89d33437cee2571f.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">i</td><td colspan=\"4\">2</td><td colspan=\"6\">(cm)</td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td></tr><tr><td></td><td>8.66</td><td>9.15</td><td>9.98</td><td>11.16</td><td>12.69</td><td>14.61</td><td>16.94</td><td>19.75</td><td>23.22</td><td>28.75</td></tr><tr><td></td><td>20.09</td><td>19.60</td><td>18.77</td><td>17.59</td><td>16.06</td><td>14.14</td><td>11.81</td><td>9.00</td><td>5.53</td><td>0</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                127,
+                798,
+                868,
+                863
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                919,
+                505,
+                931
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5.5.3"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                85,
+                161,
+                100
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{l} d = 2 8. 7 5, r ^ {2} = 6 3 1. 2 5 \\quad w = 2. 5 \\quad \\sin \\theta = \\frac {5 0}{5 7 . 5} \\quad (5 - 1 4) \\\\ \\left\\{ \\begin{array}{l} 2 5 \\left(y - \\sqrt {6 3 1 . 2 5 - x ^ {2}}\\right) = z \\left(1 6. 7 - \\sqrt {6 3 1 . 2 5 - x ^ {2}}\\right) \\\\ 2 5 \\left(6 0 - \\sqrt {6 3 1 . 2 5 - x ^ {2}}\\right) = z \\sqrt {1 5 3 5 . 0 6 - x ^ {2} - 3 3 . 4 \\sqrt {r ^ {2} - x ^ {2}}} \\end{array} \\right. \\\\ \\text {Matlab} \\end{array}\\tag{5-17}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/4fd636804563d4d329c8cb5fecffef31a7934ede35c2e767f2ddf81cd76e642b.jpg"
+                }
+            },
+            "bbox": [
+                174,
+                105,
+                764,
+                232
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f55b035cce5ebb9eb4103dd7e5c2d5560aa6b57de2e773cf09c285c4a34c700a.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                176,
+                241,
+                492,
+                391
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/0198b1af2e46819f924cc354cb630ca30cf0fa2429fe0f8e921199272176a3ed.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                527,
+                244,
+                833,
+                390
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5-6"
+                    }
+                ]
+            },
+            "bbox": [
+                406,
+                400,
+                440,
+                416
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( )"
+                    }
+                ]
+            },
+            "bbox": [
+                554,
+                399,
+                657,
+                418
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "r ^ {2} = 6 3 1. 2 5\\tag{5.5.4}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/a7a5cbe44134d1a809056ac13f7afe01b42678c8304db90968aecf4bb4834d2b.jpg"
+                }
+            },
+            "bbox": [
+                176,
+                445,
+                278,
+                464
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{r l} x = w i \\quad & (5 - 1) \\\\ & \\left\\{ \\begin{array}{l} w ^ {2} i ^ {2} + y ^ {2} = 6 3 1. 2 5 \\\\ z = 0 \\end{array} \\right. \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/457787ca37e2ba1b32fe37ec6993cd62411b68a747dbdfedee91cd9c1967176b.jpg"
+                }
+            },
+            "bbox": [
+                334,
+                446,
+                608,
+                508
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BM"
+                    }
+                ]
+            },
+            "bbox": [
+                196,
+                511,
+                236,
+                527
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "i = - 1 0, \\dots , 0, 1, 2, \\dots , 1 0",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/f79c3f4ccc9eba3b34f9d379d84a1993cccf255096e24263a692f7d64b1b8366.jpg"
+                }
+            },
+            "bbox": [
+                176,
+                595,
+                368,
+                612
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\left\\{ \\begin{array}{c} x = w i \\\\ y = d \\cos \\theta + w \\\\ z = d \\sin \\theta \\\\ x > 0 \\end{array} \\right.",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/375a12c4b21465295e7b5705cc87c7332517633310d2568e701db852b72b91ed.jpg"
+                }
+            },
+            "bbox": [
+                438,
+                528,
+                576,
+                612
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D"
+                    }
+                ]
+            },
+            "bbox": [
+                159,
+                679,
+                179,
+                694
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{c} C _ {i} (x _ {c _ {i}}, y _ {c _ {i}}, z _ {c _ {i}}) \\quad B _ {i} (x _ {b _ {i}}, y _ {b _ {i}}, z _ {b _ {i}}), i = - 1 0, \\dots , 0, 1, 2, \\dots , 1 0 \\\\ C \\quad B \\quad . \\\\ , \\quad D _ {i} (x _ {d _ {i}}, y _ {d _ {i}}, z _ {d _ {i}}), i = - 1 0, \\dots , 0, 1, 2, \\dots , 1 0 \\end{array} .",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/5eb598fd998a0fbec77b25d8e2ccd36904a86e7253644ec0fbd6e9359b96f962.jpg"
+                }
+            },
+            "bbox": [
+                287,
+                633,
+                747,
+                701
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B"
+                    }
+                ]
+            },
+            "bbox": [
+                159,
+                709,
+                179,
+                724
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\left| \\overrightarrow {B D} \\right| = l - \\left| \\overrightarrow {C A} \\right| - \\left| \\overrightarrow {B C} \\right|",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/6b85e4885716fffb9c407a08d8aceb2c4cd4c4dc72c996b869be032fac2fa0ac.jpg"
+                }
+            },
+            "bbox": [
+                633,
+                701,
+                801,
+                732
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "A _ {i} = (w i, 0, 0) \\quad i = - 1 0, \\dots , 0, 1, 2, \\dots , 1 0.",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/f8b21d00be3e7ac71e5cbbdc9997f8a4fffa3193b30778a85a8b7d56d4142dc9.jpg"
+                }
+            },
+            "bbox": [
+                117,
+                733,
+                448,
+                752
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "k = \\frac {\\frac {L}{2} - \\left| \\overrightarrow {A C} \\right|}{\\left| \\overrightarrow {B C} \\right|}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/dd905b41c2fe7e411a56dd360edd0323379eb104ae38ea72c4da313aec142411.jpg"
+                }
+            },
+            "bbox": [
+                458,
+                775,
+                571,
+                837
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\frac {x _ {d _ {i}} - x _ {c _ {i}}}{x _ {b _ {i}} - x _ {c _ {i}}} = \\frac {y _ {d _ {i}} - y _ {c _ {i}}}{y _ {b _ {i}} - y _ {c _ {i}}} = \\frac {z _ {d _ {i}} - z _ {c _ {i}}}{z _ {b _ {i}} - z _ {c _ {i}}} = k",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/490ed3067e30543cf587b986ea876259ca90afcacc6bd9937ff1db2ea0c4f014.jpg"
+                }
+            },
+            "bbox": [
+                383,
+                842,
+                655,
+                883
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                919,
+                505,
+                931
+            ]
+        }
+    ],
+    [
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{c} \\left\\{ \\begin{array}{l} x _ {d _ {i}} = x _ {c _ {i}} + k \\left(x _ {b _ {i}} - x _ {c _ {i}}\\right) \\\\ y _ {d _ {i}} = y _ {c _ {i}} + k \\left(y _ {b _ {i}} - y _ {c _ {i}}\\right) \\\\ z _ {d _ {i}} = z _ {c _ {i}} + k \\left(z _ {b _ {i}} - z _ {c _ {i}}\\right) \\end{array} \\right. \\\\ D \\qquad \\qquad B \\\\ \\theta \\qquad \\qquad \\theta \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/3cde4bea6efb4daffeaaa5f65882dd301d4bfedab81f78898fed8d4a31f43966.jpg"
+                }
+            },
+            "bbox": [
+                400,
+                84,
+                608,
+                207
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{c} \\theta = \\frac {1}{6} \\times 1. 0 5 4 3, \\frac {2}{6} \\times 1. 0 5 4 3, \\frac {3}{6} \\times 1. 0 5 4 3, \\frac {4}{6} \\times 1. 0 5 4 3, \\frac {5}{6} \\times 1. 0 5 4 3, 1. 0 5 4 3, \\\\ 5 - 7 ( \\begin{array}{c c} & 2) \\end{array} \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/d22fdb703466d087a331999806d1fe3b0fff795f6dcd319f8334f36ca72e77be.jpg"
+                }
+            },
+            "bbox": [
+                216,
+                225,
+                757,
+                283
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "matlab"
+                    }
+                ]
+            },
+            "bbox": [
+                821,
+                235,
+                882,
+                252
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/46c27fa15af953ec467ccc4331c0ff64c8abefeeb466e58bf2a4bbb1032b6e2e.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "5-7"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                121,
+                286,
+                873,
+                500
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "6.1"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                114,
+                554,
+                151,
+                571
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6.1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                581,
+                171,
+                598
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/04101819573631c1d7b3dd0ac52f077d20521362ac5e06a3477a95ab4696ab5b.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                121,
+                598,
+                870,
+                826
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6.1.2"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                828,
+                171,
+                847
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(1)"
+                    }
+                ]
+            },
+            "bbox": [
+                157,
+                850,
+                189,
+                868
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( )"
+                    }
+                ]
+            },
+            "bbox": [
+                684,
+                868,
+                747,
+                889
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                919,
+                505,
+                931
+            ]
+        }
+    ],
+    [
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\min \\frac {h}{\\sin \\theta} \\quad \\max \\sin \\theta\\tag{6-1}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/c49de7c61a3c70320ba95c27a0384c314c208d5b8b850120cf52ec9bf571cabc.jpg"
+                }
+            },
+            "bbox": [
+                406,
+                85,
+                596,
+                119
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(2)"
+                    }
+                ]
+            },
+            "bbox": [
+                157,
+                121,
+                188,
+                138
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{l} W \\quad w \\quad 2 n = \\frac {W}{w} \\\\ \\quad 4 n \\quad . \\\\ \\quad . \\quad \\text {小} \\quad . \\\\ \\quad \\min \\sum_ {i = 1} ^ {n} \\operatorname{len} (x _ {i}) \\\\ x _ {i} = w i \\quad i \\quad (5 - 9) \\\\ \\operatorname{len} (x _ {i}) = \\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - (w i) ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - (w i) ^ {2}} + 2 d w \\cos \\theta} + \\sqrt {r ^ {2} - (w i) ^ {2}} - d - w \\\\ d = \\frac {h}{\\sin \\theta} - s. \\end{array}\\tag{6-2}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/7924c4ee1bcfefdcfb949f08e91980d29a78156fae8c7ebaabb96ca9accbe99c.jpg"
+                }
+            },
+            "bbox": [
+                152,
+                159,
+                847,
+                380
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6.1.3"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                385,
+                171,
+                402
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(1)"
+                    }
+                ]
+            },
+            "bbox": [
+                157,
+                406,
+                189,
+                423
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S."
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                465,
+                141,
+                479
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "λ"
+                    }
+                ]
+            },
+            "bbox": [
+                823,
+                480,
+                840,
+                496
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "l e n \\big (x _ {i} \\big) <   s - \\lambda , i = 1, 2, \\dots , n\\tag{6-3}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/29e5a51d097240c3c0fa427b79c3ca4fe12b6976789bc451f283c2ce57322c4d.jpg"
+                }
+            },
+            "bbox": [
+                408,
+                517,
+                650,
+                538
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(2)"
+                    }
+                ]
+            },
+            "bbox": [
+                157,
+                540,
+                189,
+                558
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{c} y \\quad y _ {D} (x _ {i}) \\\\ y _ {D} (x _ {i}) \\geq 0, i = 1, 2, \\dots , n \\\\ y _ {D} (x) = \\sqrt {r ^ {2} - x ^ {2}} + \\frac {\\left(d \\cos \\theta + w - \\sqrt {r ^ {2} - x ^ {2}}\\right) \\left(d + w - \\sqrt {r ^ {2} - x ^ {2}}\\right)}{\\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - x ^ {2}} - 2 \\left(d \\cos \\theta + w\\right) \\sqrt {r ^ {2} - x ^ {2}} + 2 d w \\cdot \\cos \\theta} \\end{array} \\tag {5-12}\\tag{6-4}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/64f7666833d1042008d54acf31b490182c854417155e09259fbedbb2fc8fa490.jpg"
+                }
+            },
+            "bbox": [
+                189,
+                578,
+                808,
+                698
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(3)"
+                    }
+                ]
+            },
+            "bbox": [
+                157,
+                699,
+                188,
+                717
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{c} W \\quad a \\quad , \\\\ 2 (w + h \\cot \\theta) \\geq a W \\end{array}\\tag{6-5}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/3ea1b009ac92d7288ceb4d2213d6dffec521c910189f26e5415d792c9c9c3abc.jpg"
+                }
+            },
+            "bbox": [
+                426,
+                737,
+                692,
+                776
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(4)"
+                    }
+                ]
+            },
+            "bbox": [
+                157,
+                777,
+                189,
+                796
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                815,
+                200,
+                831
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( h)."
+                    }
+                ]
+            },
+            "bbox": [
+                416,
+                815,
+                497,
+                834
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "z _ {D} (x _ {i}) \\text {小}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/69682216cf1e1a5649c40f880120d4cbcc476ee31c0370c39103923e0f91b6c4.jpg"
+                }
+            },
+            "bbox": [
+                769,
+                815,
+                847,
+                834
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "z _ {D} (x _ {i}) \\leq h, i = 1, 2, \\dots , n - 1\\tag{6-6}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/22740e305ec20d2ba48e35e8b5a54c97165d20195aab76cb047b752535a122b5.jpg"
+                }
+            },
+            "bbox": [
+                406,
+                855,
+                631,
+                875
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "10"
+                    }
+                ]
+            },
+            "bbox": [
+                490,
+                919,
+                510,
+                931
+            ]
+        }
+    ],
+    [
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "z _ {D} (x) = \\frac {d \\sin \\theta \\left(\\frac {L}{2} - \\sqrt {r ^ {2} - x ^ {2}}\\right)}{\\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - x ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - x ^ {2}} + 2 d w \\cos \\theta}}\\tag{6.1.4}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/177c3959127d9d6ca705958fb4a3659d682f7fbdfdd1524bc228eae7786b8156.jpg"
+                }
+            },
+            "bbox": [
+                257,
+                84,
+                771,
+                149
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(6-3)(6-4)(6-5)(6-6)"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                178,
+                682,
+                197
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{l} \\min h / \\sin \\theta \\\\ \\min \\sum_ {i = 1} ^ {n} l e n (x _ {i}) \\\\ s. t. \\left\\{ \\begin{array}{l} l e n (x _ {i}) <   s - \\lambda , i = 1, 2, \\dots , n \\\\ y _ {D} (x _ {i}) \\geq 0, i = 1, 2, \\dots , n \\\\ 2 (w + h \\cot \\theta) \\geq a W \\\\ z _ {D} (x _ {i}) \\leq h, i = 1, 2, \\dots , n - 1 \\end{array} \\right. \\\\ (\\quad) \\quad s \\end{array}\\tag{6-7}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/63fdba8e30bc58f9273fff03b8f67fe83ab566760cdccb207973e774eed340d4.jpg"
+                }
+            },
+            "bbox": [
+                299,
+                212,
+                606,
+                390
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{c} \\text {len} (x _ {i}) = \\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - x _ {i} ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - x _ {i} ^ {2}} + 2 d \\cos \\theta \\cdot w} + \\sqrt {r ^ {2} - x _ {i} ^ {2}} - d - w \\\\ y _ {D} (x _ {i}) = \\sqrt {r ^ {2} - x ^ {2}} + \\frac {(d \\cos \\theta + w - \\sqrt {r ^ {2} - x _ {i} ^ {2}}) (d + w - \\sqrt {r ^ {2} - x _ {i} ^ {2}})}{\\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - x _ {i} ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - x _ {i} ^ {2}} + 2 d w \\cdot \\cos \\theta}} \\\\ z _ {D} (x _ {i}) = \\frac {d \\sin \\theta \\left(\\frac {L}{2} - \\sqrt {r ^ {2} - x _ {i} ^ {2}}\\right)}{\\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - x _ {i} ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - x _ {i} ^ {2}} + 2 d w \\cos \\theta}} \\\\ x _ {i} = w i \\quad d = \\frac {h}{\\sin \\theta} - s. \\end{array}\\tag{6.1.5}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/0ec8dc6e603b3c60d2dd2d5016bd047fe50166293fc3559a42590fbd00b2b19b.jpg"
+                }
+            },
+            "bbox": [
+                126,
+                406,
+                868,
+                603
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6-2"
+                    }
+                ]
+            },
+            "bbox": [
+                200,
+                631,
+                233,
+                648
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "L"
+                    }
+                ]
+            },
+            "bbox": [
+                376,
+                631,
+                394,
+                648
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{c} L = 2 (w + \\frac {h}{\\sin \\theta}) \\\\ \\qquad = s - l e n (i). \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/fc2a644ce33721b7e7c3ddb975fac68096b050528ff1a22517c026547810f088.jpg"
+                }
+            },
+            "bbox": [
+                418,
+                650,
+                611,
+                705
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6.2"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                714,
+                152,
+                730
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6.2.1"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                742,
+                171,
+                758
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "h = 7 0 c m \\quad w = 2. 5 \\quad W = 8 0 c m.",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/091eaa418b7f72ff54fb859e764034f0165c77526f5bf0ec69c9325a0f56f48e.jpg"
+                }
+            },
+            "bbox": [
+                297,
+                762,
+                561,
+                779
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{c c c c} \\lambda = 5 & a & 1 & 0. 6 1 8 \\\\ (6 - 6) \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/f42958db968e136b2043469892a98186298258f6ae0a3527206fdcad7cbea162.jpg"
+                }
+            },
+            "bbox": [
+                687,
+                760,
+                873,
+                798
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Matlab"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                799,
+                179,
+                815
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(3)."
+                    }
+                ]
+            },
+            "bbox": [
+                255,
+                798,
+                400,
+                818
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "11"
+                    }
+                ]
+            },
+            "bbox": [
+                490,
+                919,
+                507,
+                931
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\theta = 1.0605"
+                    }
+                ]
+            },
+            "bbox": [
+                196,
+                195,
+                290,
+                214
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{l} \\min 7 0 / \\sin \\theta \\\\ s. t. \\left\\{ \\begin{array}{l} l e n (x _ {i}) <   s - 5, i = 1, 2, \\dots , n \\\\ y _ {D} (x _ {i}) \\geq 0, i = 1, 2, \\dots , n \\\\ 5 + 1 4 0 \\cot \\theta \\geq 8 0 \\\\ z _ {D} (x _ {i}) \\leq h, i = 1, 2, \\dots , n - 1 \\end{array} \\right. \\\\ L = 1 5 8. 5 6. \\quad \\theta = 1. 0 6 0 5 \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/8d96495a32f384c96b4e4631c19f6984d66f830dd96fb724ed2f6fa875e30912.jpg"
+                }
+            },
+            "bbox": [
+                383,
+                83,
+                653,
+                214
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{c} \\min \\sum_ {i = 1} ^ {n} l e n (x _ {i}) \\\\ s. t. \\left\\{ \\begin{array}{l} l e n \\big (x _ {i} \\big) <   s - 5, i = 1, 2, \\dots , n \\\\ y _ {D} (x _ {i}) \\geq 0, i = 1, 2, \\dots , n \\\\ 5 + 1 4 0 \\cot \\theta \\geq 8 0 \\\\ z _ {D} (x _ {i}) \\leq h, i = 1, 2, \\dots , n - 1 \\end{array} \\right. \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/fe48f8c53a3e333ac9dde6772b71ea3b6154d99e464f504e5fe6cda808dc99b8.jpg"
+                }
+            },
+            "bbox": [
+                366,
+                233,
+                631,
+                363
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "s 43.80cm"
+                    }
+                ]
+            },
+            "bbox": [
+                136,
+                418,
+                253,
+                435
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{c} s = 4 3. 8 0. \\\\ \\theta \\quad 1. 0 6 0 5 (\\quad) \\\\ L \\quad 1 5 8. 5 6 \\mathrm{cm}. \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/eb5890fa057d998874e62ff33002187ded339684866fc39c3c23f7ae3ae789e4.jpg"
+                }
+            },
+            "bbox": [
+                369,
+                381,
+                581,
+                435
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6.2.2"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                441,
+                173,
+                459
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{c} d = \\frac {L}{2} - s - 2. 5 = 3 2. 9 8 \\\\ W = 8 0 \\quad w = 2. 5 \\quad (5 - 2) \\\\ r ^ {2} = \\left(\\frac {W}{2}\\right) ^ {2} + w ^ {2} = 1 6 0 6. 2 5 c m. \\\\ d = 3 2. 9 8 \\quad r ^ {2} = 1 6 0 6. 2 5 \\quad \\theta = 1. 0 6 0 5 \\quad (5 - 1 0) \\\\ l e n (i) = \\sqrt {2 2 1 5 . 8 3 - 6 . 2 5 i ^ {2} - 4 9 . 3 7 \\sqrt {1 6 0 6 . 2 5 - 6 . 2 5 i ^ {2}}} + \\sqrt {1 6 0 6 . 2 5 - 6 . 2 5 i ^ {2}} - 2 4. 6 5 \\\\ s = 5 8. 8 3 \\quad = s - l e n (i) \\\\ 3. \\\\ \\hline i & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 \\\\ \\hline & 4. 8 3 & 5. 1 9 & 5. 8 0 & 6. 6 6 & 7. 7 6 & 9. 1 3 & 1 0. 7 7 & 1 2. 6 9 \\\\ \\hline & 3 8. 9 7 & 3 8. 6 1 & 3 8. 0 0 & 3 7. 1 5 & 3 6. 0 4 & 3 4. 6 7 & 3 3. 0 3 & 3 1. 1 1 \\\\ \\hline \\\\ \\hline i & 9 & 1 0 & 1 1 & 1 2 & 1 3 & 1 4 & 1 5 & 1 6 \\\\ \\hline & 1 4. 9 1 & 1 7. 4 3 & 2 0. 2 9 & 2 3. 5 2 & 2 7. 1 6 & 3 1. 3 0 & 3 6. 1 6 & - \\\\ \\hline & 2 8. 9 0 & 2 6. 3 7 & 2 3. 5 1 & 2 0. 2 8 & 1 6. 6 4 & 1 2. 5 1 & 7. 6 4 & - \\end{array}\\tag{1}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/1024a447e8237a88f4723359e876dcd1a3b8a9ccde8b9c890c22953897eaa500.jpg"
+                }
+            },
+            "bbox": [
+                173,
+                498,
+                816,
+                824
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(2)"
+                    }
+                ]
+            },
+            "bbox": [
+                157,
+                839,
+                189,
+                857
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{r l} r ^ {2} = 1 6 0 6. 2 5 \\quad w = 2. 5 & (5 - 9) \\\\ \\frac {l}{2} = \\sqrt {r ^ {2} - \\left(w i\\right) ^ {2}} = \\sqrt {1 6 0 6 . 2 5 - 6 . 2 5 i ^ {2}}. \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/96390f2883f7ad1ffbcab10eed38571fb22db4d1a5435126aa4f40262bc04801.jpg"
+                }
+            },
+            "bbox": [
+                176,
+                856,
+                675,
+                913
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "12"
+                    }
+                ]
+            },
+            "bbox": [
+                490,
+                919,
+                509,
+                931
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/1303f079492e303bc94d2b0dab584e28c67834737c633f738284879549cc5d7f.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>i</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td></tr><tr><td></td><td>80</td><td>79.52</td><td>78.74</td><td>77.62</td><td>76.16</td><td>74.34</td><td>72.12</td><td>69.46</td></tr><tr><td></td><td>39.28</td><td>39.52</td><td>39.91</td><td>40.47</td><td>41.2</td><td>42.11</td><td>43.22</td><td>44.55</td></tr><tr><td>i</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td></tr><tr><td></td><td>66.34</td><td>62.64</td><td>58.3</td><td>53.16</td><td>46.9</td><td>39.06</td><td>28.28</td><td>5</td></tr><tr><td></td><td>46.11</td><td>47.96</td><td>50.13</td><td>52.7</td><td>55.83</td><td>59.75</td><td>65.14</td><td>76.78</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                179,
+                86,
+                808,
+                275
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/33519dca5b4be44a857b8ac300bb8bcad38c5bf1a415a75fed81549283485750.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                134,
+                314,
+                858,
+                903
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "13"
+                    }
+                ]
+            },
+            "bbox": [
+                489,
+                918,
+                509,
+                931
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "f(x)"
+                    }
+                ]
+            },
+            "bbox": [
+                178,
+                157,
+                223,
+                175
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{c c c c c} {f (x)} & {\\sqrt {r ^ {2} - x ^ {2}}} \\\\ & {\\text {体}} \\\\ & {\\sqrt {r ^ {2} - x ^ {2}} (\\quad f (v) \\quad \\sqrt {r ^ {2} - v ^ {2}})} \\end{array} . \\tag {5-6} \\tag {5 - 7}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/45910b1021cef839fd33e8af7df5799d6741113faaa6b0f7a626613b7fcfd320.jpg"
+                }
+            },
+            "bbox": [
+                220,
+                103,
+                700,
+                176
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\left\\{ \\begin{array}{l} x = v, \\\\ y = f (v) + \\frac {\\left(d \\cos \\theta + w - f (v)\\right) \\cdot \\left(u - f (v)\\right)}{\\sqrt {d ^ {2} + w ^ {2} + f ^ {2} (v) - 2 (d \\cos \\theta + w) f (v) + 2 d w \\cos \\theta}}, \\\\ z = \\frac {d \\sin \\theta \\big (u - f (v) \\big)}{\\sqrt {d ^ {2} + w ^ {2} + f ^ {2} (v) - 2 (d \\cos \\theta + w) f (v) + 2 d w \\cos \\theta}}, \\\\ (u, v \\quad .) \\end{array} \\right.\\tag{7-1}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/fc68f2bab53081dce5db33ed91fbbcc23c42b4f0f2a2c1bf478d222519194a58.jpg"
+                }
+            },
+            "bbox": [
+                272,
+                198,
+                786,
+                336
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "z = \\frac {d (y - f (x)) \\sin \\theta}{d \\cos \\theta + w - f (x)}   d\\tag{7-2}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/3c52fadf9034dcddf1cd8dd3e3b1f5c6d6ce2784e8d7179fe02d3fa799f71e30.jpg"
+                }
+            },
+            "bbox": [
+                426,
+                378,
+                610,
+                438
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\theta"
+                    }
+                ]
+            },
+            "bbox": [
+                176,
+                422,
+                196,
+                438
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "w"
+                    }
+                ]
+            },
+            "bbox": [
+                114,
+                446,
+                136,
+                458
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "(x, y) = (x, g (x)) \\quad (x \\quad) \\quad u = g (x)",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/c478fbb62def52e4c85009dd41d7f8e8575fc34ed45f2b11e1a4e403467a838c.jpg"
+                }
+            },
+            "bbox": [
+                216,
+                483,
+                640,
+                503
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\left\\{ \\begin{array}{l} x = v, \\\\ y = f (v) + \\frac {\\left(d \\cos \\theta + w - \\sqrt {r ^ {2} - v ^ {2}}\\right) \\cdot \\left(g (v) - f (v)\\right)}{\\sqrt {d ^ {2} + w ^ {2} + f ^ {2} (v) - 2 (d \\cos \\theta + w) f (v) + 2 d w \\cos \\theta}}, \\\\ z = \\frac {d \\sin \\theta \\big (g (v) - f (v) \\big)}{\\sqrt {d ^ {2} + w ^ {2} + f ^ {2} (v) - 2 (d \\cos \\theta + w) f (v) + 2 d w \\cos \\theta}}, \\\\ (v \\quad ,) \\end{array} \\right.\\tag{7-3}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/5662b2f10e877c8d4160499896ebb58f76b705410fd674936ff04bc512d6daf8.jpg"
+                }
+            },
+            "bbox": [
+                278,
+                526,
+                786,
+                672
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\left\\{ \\begin{array}{l} d (y - f (x)) \\sin \\theta = z (d \\cos \\theta + w - f (x)) \\\\ d (g (x) - f (x)) \\sin \\theta = z \\sqrt {d ^ {2} + w ^ {2} + f ^ {2} (x) - 2 (d \\cos \\theta + w) f (x) + 2 d w \\cos \\theta} \\end{array} \\right.\\tag{7-4}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/25892ed4bd89f3f37a8704c4b49111afc217f361e2c5321816d5c9839d0da104.jpg"
+                }
+            },
+            "bbox": [
+                233,
+                695,
+                821,
+                747
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "l e n (x _ {i}) = \\sqrt {d ^ {2} + w ^ {2} + f ^ {2} (x _ {i}) - 2 (d \\cos \\theta + w) f (x _ {i}) + 2 d w \\cos \\theta} + f (x _ {i}) - d - w\\tag{7-5}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/acfe77c104d4c8bedb8273ae5c858c78777dc60d6f0b07a073aada54d13f8bb2.jpg"
+                }
+            },
+            "bbox": [
+                218,
+                773,
+                821,
+                796
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "h"
+                    }
+                ]
+            },
+            "bbox": [
+                218,
+                855,
+                238,
+                870
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{c} y = f (x) \\\\ 2 \\end{array}\\tag{\\(y = g(x)\\}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/b15ff3661d5cb867592039c59c1d66eb3d9755ce115a045cf2b703c42cca8083.jpg"
+                }
+            },
+            "bbox": [
+                381,
+                833,
+                458,
+                870
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "7.2"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                809,
+                157,
+                828
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "14"
+                    }
+                ]
+            },
+            "bbox": [
+                490,
+                919,
+                510,
+                931
+            ]
+        }
+    ],
+    [
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{l} \\min h / \\sin \\theta \\\\ \\min \\sum_ {i = 1} ^ {n} \\operatorname{len} \\left(x _ {i}\\right) \\\\ s. t. \\left\\{ \\begin{array}{l} \\operatorname{len} \\left(x _ {i}\\right) <   s - \\lambda , i = 1, 2, \\dots , n \\\\ y _ {D} \\left(x _ {i}\\right) \\geq 0, i = 1, 2, \\dots , n \\\\ 2 (w + h \\cot \\theta) \\geq a W \\\\ z _ {D} \\left(x _ {i}\\right) \\leq h, i = 1, 2, \\dots , n - 1 \\end{array} \\right. \\\\ s \\quad (\\quad) \\quad \\theta \\\\ a \\quad \\lambda \\quad \\text {小}. s \\quad \\theta \\\\ \\operatorname{len} \\left(x _ {i}\\right) = \\sqrt {d ^ {2} + w ^ {2} + f ^ {2} \\left(x _ {i}\\right) - 2 (d \\cos \\theta + w) f \\left(x _ {i}\\right) + 2 d \\cos \\theta \\cdot w} + f \\left(x _ {i}\\right) - d - w \\\\ y _ {D} \\left(x _ {i}\\right) = f \\left(x _ {i}\\right) + \\frac {(d \\cos \\theta + w - f \\left(x _ {i}\\right)) (d + w - f \\left(x _ {i}\\right))}{\\sqrt {d ^ {2} + w ^ {2} + f ^ {2} \\left(x _ {i}\\right) - 2 (d \\cos \\theta + w) f \\left(x _ {i}\\right) + 2 d w \\cdot \\cos \\theta}} \\\\ z _ {D} \\left(x _ {i}\\right) = \\frac {d \\sin \\theta (g (x _ {i}) - f (x _ {i}))}{\\sqrt {d ^ {2} + w ^ {2} + f ^ {2} (x _ {i}) - 2 (d \\cos \\theta + w) f (x _ {i}) + 2 d w \\cos \\theta}} \\\\ x _ {i} = w i \\quad d = \\frac {h}{\\sin \\theta} - s. \\end{array}\\tag{7-6}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/b3d9d60e4717dad2f8f99440035eb655b648e91d65002cf93b77cabd8d93f44f.jpg"
+                }
+            },
+            "bbox": [
+                157,
+                84,
+                850,
+                440
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7.3.1"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                494,
+                161,
+                511
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/7004720cd052d80d8a2604512265022dba83d9fe817fe3b50c6f8401809d439e.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                302,
+                513,
+                752,
+                682
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(7-2)."
+                    }
+                ]
+            },
+            "bbox": [
+                784,
+                514,
+                880,
+                533
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(1)"
+                    }
+                ]
+            },
+            "bbox": [
+                154,
+                706,
+                184,
+                723
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6.2.1"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                742,
+                159,
+                758
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{c c c c c} h = 5 7 & w = 2. 5 & W = 6 0. & \\lambda = 5 & a = 1 \\\\ & (\\quad 5) \\\\ & & \\theta = 1. 0 4 7 2 & s = 3 2. \\end{array}\\tag{7-6}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/b16b0439422c91fd9aba54e1a602204ff7512eac4a7b792c3b30bd311bc7707f.jpg"
+                }
+            },
+            "bbox": [
+                236,
+                722,
+                719,
+                777
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{c} d = \\frac {h}{\\sin \\theta} - s = 3 6. 3 1 8 \\quad w = 2. 5 \\quad \\theta = 1. 0 4 7 2 \\\\ l e n \\left(x _ {i}\\right) = \\sqrt {d ^ {2} + w ^ {2} + f ^ {2} \\left(x _ {i}\\right) - 2 \\left(d \\cos \\theta + w\\right) f \\left(x _ {i}\\right) + 2 d \\cos \\theta \\cdot w} + f \\left(x _ {i}\\right) - d - w \\\\ 5. \\end{array}\\tag{2}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/f185e517ae57c7956f0edc59babfda56b8584564d39093e8476eb3ed1dbdca38.jpg"
+                }
+            },
+            "bbox": [
+                152,
+                813,
+                842,
+                896
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "7.3"
+                    }
+                ]
+            },
+            "bbox": [
+                114,
+                448,
+                152,
+                464
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "15"
+                    }
+                ]
+            },
+            "bbox": [
+                490,
+                919,
+                507,
+                931
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/e94c393ed38586fcbc11f5c2bf0f6f75704cb09b9b07e184ab8703a3649317a2.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td></td><td colspan=\"7\">5</td><td colspan=\"4\">( cm )</td><td></td></tr><tr><td>i</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td></tr><tr><td></td><td>137.07</td><td>137.30</td><td>137.74</td><td>138.38</td><td>139.20</td><td>140.19</td><td>141.31</td><td>142.53</td><td>143.81</td><td>145.07</td><td>146.28</td><td>147.36</td></tr><tr><td></td><td>29.50</td><td>29.23</td><td>28.71</td><td>27.93</td><td>26.89</td><td>25.58</td><td>23.98</td><td>22.10</td><td>19.94</td><td>17.49</td><td>14.76</td><td>11.766</td></tr><tr><td></td><td>2.50</td><td>2.77</td><td>3.297</td><td>4.07</td><td>5.11</td><td>6.42</td><td>8.02</td><td>9.90</td><td>12.061</td><td>14.511</td><td>17.244</td><td>20.24</td></tr><tr><td></td><td>60</td><td>55</td><td>50</td><td>45</td><td>40</td><td>35</td><td>30</td><td>25</td><td>20</td><td>15</td><td>10</td><td>5</td></tr><tr><td></td><td>44.57</td><td>46.95</td><td>49.24</td><td>51.44</td><td>53.56</td><td>55.59</td><td>57.53</td><td>59.38</td><td>61.14</td><td>62.80</td><td>64.36</td><td>65.82</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                132,
+                119,
+                863,
+                365
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\theta = 0, 0.1496, 0.2992, 0.4488, 0.5984, 0.7480, 0.8976, 1.0472"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  \n7-3 7-4. ("
+                    }
+                ]
+            },
+            "bbox": [
+                216,
+                438,
+                818,
+                476
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d8514e26160145b88baba8ca6947b55e6463b9beebdea3d875df6ec5df2dd1ad.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                124,
+                492,
+                816,
+                887
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "16"
+                    }
+                ]
+            },
+            "bbox": [
+                490,
+                919,
+                509,
+                931
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "7.3.2 8字"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                115,
+                118,
+                216,
+                136
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "70cm"
+                    }
+                ]
+            },
+            "bbox": [
+                159,
+                156,
+                211,
+                173
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "8 字 (7-5)"
+                    }
+                ]
+            },
+            "bbox": [
+                319,
+                137,
+                470,
+                156
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/5a292950e4e9a89991e9127943ebb79b1cb5a0ff6ec70235b6d0a3081fb591e1.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "60cm"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                342,
+                188,
+                655,
+                357
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/c98d3e519e51ff294c6a8629953516bad2e7af1d215ddf49c07cb3d6458d131f.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "6."
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>i</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr><tr><td></td><td>149.2</td><td>149.1</td><td>148.9</td><td>148.5</td><td>147.9</td><td>147.1</td><td>146.2</td><td>145.1</td><td>143.8</td></tr><tr><td></td><td>30.28</td><td>26.02</td><td>22.69</td><td>19.94</td><td>17.64</td><td>15.72</td><td>14.14</td><td>12.87</td><td>11.90</td></tr><tr><td></td><td>9.72</td><td>13.98</td><td>17.31</td><td>20.06</td><td>22.36</td><td>24.28</td><td>25.86</td><td>27.13</td><td>28.10</td></tr><tr><td></td><td>106.03</td><td>114.54</td><td>121.20</td><td>126.70</td><td>131.31</td><td>135.15</td><td>138.31</td><td>140.84</td><td>142.77</td></tr><tr><td></td><td>106.03</td><td>114.54</td><td>121.20</td><td>126.70</td><td>131.31</td><td>135.15</td><td>138.31</td><td>140.84</td><td>59.4</td></tr><tr><td>i</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td></td></tr><tr><td></td><td>23.81</td><td>22.44</td><td>21.62</td><td>21.35</td><td>21.62</td><td>22.44</td><td>23.81</td><td>25.74</td><td></td></tr><tr><td></td><td>11.22</td><td>10.81</td><td>10.68</td><td>10.81</td><td>11.22</td><td>11.90</td><td>12.87</td><td>14.14</td><td></td></tr><tr><td></td><td>28.78</td><td>29.19</td><td>29.32</td><td>29.19</td><td>28.78</td><td>28.10</td><td>27.13</td><td>25.86</td><td></td></tr><tr><td></td><td>23.81</td><td>22.44</td><td>21.62</td><td>21.35</td><td>21.62</td><td>22.44</td><td>23.81</td><td>25.74</td><td></td></tr><tr><td></td><td>144.14</td><td>144.96</td><td>145.23</td><td>144.96</td><td>144.14</td><td>142.77</td><td>140.84</td><td>138.31</td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                166,
+                422,
+                830,
+                824
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7)"
+                    }
+                ]
+            },
+            "bbox": [
+                201,
+                861,
+                223,
+                878
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "7-4"
+                    }
+                ]
+            },
+            "bbox": [
+                364,
+                85,
+                398,
+                100
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "17"
+                    }
+                ]
+            },
+            "bbox": [
+                490,
+                918,
+                510,
+                931
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/dedd557f4108ed4e24c5c5bc9fda4a4c0e628b07a641f722e42070c25121d868.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "7-6 8字"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                206,
+                87,
+                808,
+                308
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b183fcb76aeec44698adb4d7813044f23dc719686c8d7d6563b8eab822cbc08c.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "7-7 8字"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                319,
+                350,
+                484,
+                477
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b51692e6693a1b3b2e6901f6023fbe25810475c3204e901e7f42a8a2127031a9.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\theta(x_{i})"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\theta(x_{i})"
+                    },
+                    {
+                        "type": "text",
+                        "content": "8.3"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f(x)"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                519,
+                337,
+                707,
+                483
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "18"
+                    }
+                ]
+            },
+            "bbox": [
+                490,
+                919,
+                509,
+                931
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\psi (x)"
+                    }
+                ]
+            },
+            "bbox": [
+                433,
+                84,
+                484,
+                104
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "f(x)"
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                143,
+                184,
+                163
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\psi (x)"
+                    }
+                ]
+            },
+            "bbox": [
+                448,
+                123,
+                500,
+                143
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\psi (x)"
+                    }
+                ]
+            },
+            "bbox": [
+                588,
+                143,
+                638,
+                163
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\psi (x)"
+                    }
+                ]
+            },
+            "bbox": [
+                833,
+                123,
+                880,
+                142
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( )"
+                    }
+                ]
+            },
+            "bbox": [
+                416,
+                218,
+                505,
+                241
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2006.\n2007."
+                    }
+                ]
+            },
+            "bbox": [
+                732,
+                219,
+                836,
+                256
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "19"
+                    }
+                ]
+            },
+            "bbox": [
+                489,
+                918,
+                510,
+                931
+            ]
+        }
+    ],
+    [
+        {
+            "type": "code",
+            "content": {
+                "code_caption": [],
+                "code_content": [
+                    {
+                        "type": "text",
+                        "content": "1\n%canshu\nw=2.5;\nr=sqrt(100+1)*w;\nl=60-w;\nd=l/2;\nh=53-3;\ntheta=asin(h/l);\n%shengcheng canshu\nv=-25:25;\nu=25:60;\n[u,v]=meshgrid(u,v);\n%qumian canshu fangcheng\nx=v;\ny=sqrt(r^2-v.^2)+(d*cos(theta)+w-sqrt(r^2-v.^2)).\n*(u-sqrt(r^2-v.^2))./sqrt(d^2+w^2+r^2-v.^2-2*(d*cos(theta)+w)*sqrt(r^2-v.^2)+2*d*w*cos(theta));\nz=d*sin(theta)*(u-sqrt(r^2-v.^2))./sqrt(d^2+w^2+r^2-v.^2-2*(d*cos(theta)+w)*sqrt(r^2-v.^2)+2*d*w*cos(theta));\nz=-z;\n%cemian tuxiang\nfigure(1);\nmesh(x,y,z);\n%zhuojiao bianyuanxian\nu=60;\nv=-25:25;\nx=v;\ny=sqrt(r^2-v.^2)+(d*cos(theta)+w-sqrt(r^2-v.^2)).\n*(u-sqrt(r^2-v.^2))./sqrt(d^2+w^2+r^2-v.^2-2*(d*cos(theta)+w)*sqrt(r^2-v.^2)+2*d*w*cos(theta));\nz=d*sin(theta)*(u-sqrt(r^2-v.^2))./sqrt(d^2+w^2+r_²-v.^2-2*(d*cos(theta)+w)*sqrt(r^2-v.^2)+2*d*w*cos(theta));\nz=-z;\nfigure(2);\nplot3(x,y,z,'LineWidth',2);\ngrid on;\n2\n%canshu\nw=2.5;\nr=sqrt(100+1)*w;\nl=60-w;\nd=l/2;\nh=53-3;\ntheta=asin(h/l);\n%zhuobian dian zuobiao\nxc=-10:10;\nxc=xc*w;\nyc=sqrt(r^2-xc.^2);\nzc=zeros(1,21);"
+                    }
+                ],
+                "code_language": "matlab"
+            },
+            "bbox": [
+                110,
+                81,
+                880,
+                910
+            ]
+        }
+    ],
+    [
+        {
+            "type": "code",
+            "content": {
+                "code_caption": [],
+                "code_content": [
+                    {
+                        "type": "text",
+                        "content": "3 ( 2)\nglobal w h a W r x lamda;\nw=2.5;h=70-3;a=1;W=80;lamda=1.5;r=sqrt(40*40+2.5*2.5);\nx=[2.5:2.5:40]';\nts0=[pi/4,h/2];\nlb=[0,0];\nub=[pi/2,h];\nts=fmincon(@objfun,ts0,[],[],[],[],lb,ub,@confun)"
+                    }
+                ],
+                "code_language": "txt"
+            },
+            "bbox": [
+                114,
+                167,
+                480,
+                304
+            ]
+        },
+        {
+            "type": "code",
+            "content": {
+                "code_caption": [],
+                "code_content": [
+                    {
+                        "type": "text",
+                        "content": "objfun.m\nfunction f=objfun(ts)\nf=-sin(ts(1));\n%di er mubiao\n%l=w+h/sin(ts(1));\n%d=l-ts(2);\n%q=32.5-abs(x);\n%len=sqrt(d^2-+w^2+q^2-2*(d*cos(ts(1))+w)*q+\n2*d*w*cos(ts(1))+q-d-w\n%f=sum(len);\n\nconfun.m\nfunction [c,ceq]=confun(ts)\n%ts=[theta,s];\n\nglobal w h a W r x lamda;\nl=w+h/sin(ts(1));\nd=l-ts(2);\nq=sqrt(r^2-x.^2);\nlen=sqrt(d^2-+w^2+r^2-x.^2-2*(d*cos(ts(1))+w)*\nq+2*d*w*cos(ts(1))+q-d-w;\n\nc=[a*W-2*(w+h*cot(ts(1)));\n\n-(q+(d*cos(ts(1))+w-q).*(l-q)./sqrt(d^2-+w^2+r^2-\nx.^2-2*(d*cos(ts(1))+w)*q+2*d*w*cos(ts(1))));\n    len-ts(2)+lamda\n];\nceq=[];"
+                    }
+                ],
+                "code_language": "matlab"
+            },
+            "bbox": [
+                112,
+                318,
+                482,
+                741
+            ]
+        },
+        {
+            "type": "code",
+            "content": {
+                "code_caption": [],
+                "code_content": [
+                    {
+                        "type": "text",
+                        "content": "4       2\n%canshu\nglobal w h a W r x lamda n;\nw=2.5;h=70-3;a=1;W=80;lamda=5;r=sqrt(40*40+\n2.5*2.5);\n\n%youhua qiujie\nx=[2.5:2.5:40]';\nts0=[pi/4,h/2];\nlb=[0,0];"
+                    }
+                ],
+                "code_language": "matlab"
+            },
+            "bbox": [
+                114,
+                763,
+                477,
+                912
+            ]
+        },
+        {
+            "type": "code",
+            "content": {
+                "code_caption": [],
+                "code_content": [
+                    {
+                        "type": "text",
+                        "content": "ub=[pi/2,h];\nts=fmincon(@objfun,ts0,[],[],[],[],lb,ub,@confun)\n\ntheta=ts(1);          %youhua jieguo\ns=ts(2);                  %youhua jieguo\nl=w+h/sin(theta);\nd=l-s;\nn=80/2.5+1;\n\n%zhuobian dian zuobiao\nxc=-40:2.5:40;\nyc=sqrt(r^2-xc.^2);\nzc=zeros(1,n);\n\n%gangjin dian zuobiao\nxg=-40:2.5:40;\nyg=d*cos(theta)*ones(1,n)+w;\nzg=d*sin(theta)*ones(1,n);\n\n%zhuobian dao gangjin de juli:\nfor i=1:n\n\ndis(i)=norm([xc(i),yc(i),zc(i)]-[xg(i),yg(i),zg(i)]);\nend\n\n%kaicang dao banbian de juli:\nfor i=1:n\n    margin(i)=l-yc(i)-dis(i);\nend\n\n%muban dingdian zuobiao\nfor i=1:n\n    k=(margin(i)+dis(i))/dis(i);\n    xd(i)=xc(i)+k*(xg(i)-xc(i));\n    yd(i)=yc(i)+k*(yg(i)-yc(i));\n    zd(i)=zc(i)+k*(zg(i)-zc(i));\nend\n\nfigure(1); hold on;\nplot3(xc,yc,zc,'*');\nplot3(xg,yg,zg,'r');\nfor i=1:n\n\nline([xc(i),xg(i),[yc(i),yg(i),[zc(i),zg(i)],'LineWidth',2);\n\nline([xd(i),xg(i),[yd(i),yg(i),[zd(i),zg(i)],'LineWidth',2);\nend\n\nfigure(1); hold on;\nplot3(xc,-yc,zc,'*');\nplot3(xg,-yg,zg,'r');\nfor i=1:n\n\nline([xc(i),xg(i),[-yc(i),-yg(i),[zc(i),zg(i)],'LineWidth',1,'Color',[.2 .2 .2]);"
+                    }
+                ],
+                "code_language": "matlab"
+            },
+            "bbox": [
+                510,
+                81,
+                880,
+                908
+            ]
+        }
+    ],
+    [
+        {
+            "type": "code",
+            "content": {
+                "code_caption": [],
+                "code_content": [
+                    {
+                        "type": "text",
+                        "content": "line([xd(i),xg(i)],[-yd(i),-yg(i)],[zd(i),zg(i)],'LineWidth',1,'Color',[.2 .2 .2]);\nend\n\nplot3(xc,yc,zc);plot3(xc,-yc,zc);\nline([xc(1),xc(1)],[yc(1),-yc(1)],[zc(1),zc(1)],'LineWidth',2);\nline([xc(n),xc(n)],[yc(n),-yc(n)],[zc(n),zc(n)],'LineWidth',2);\nview(3)\n\n[X,Y,Z]=sphere(30);\nX=l*X/2;Y=l*Y/2;Z=zeros(31);\nsurf(X,Y,Z);\ncolormap(spring);\nalpha(.5)\nshading interp; axis equal; axis off;"
+                    }
+                ],
+                "code_language": "matlab"
+            },
+            "bbox": [
+                112,
+                93,
+                480,
+                347
+            ]
+        },
+        {
+            "type": "code",
+            "content": {
+                "code_caption": [],
+                "code_content": [
+                    {
+                        "type": "text",
+                        "content": "global w h a W x lamda;\nw=2.5;h=60-3;a=1;W=60;lamda=5;\nx=[2.5:2.5:30]';\n%8xing, gaiwei:\n%w=2.5;h=70-3;a=1;W=90;lamda=5;\n%x=[2.5:2.5:45]';\nts0=[pi/4,h/2];\nlb=[0,0];\nub=[pi/2,h];\nts=fmincon(@objfun,ts0,[],[],[],[],lb,ub,@confun)\n\nconfun.m:\nfunction [c,ceq]=confun(ts)\n%ts=[theta,s];\n\nglobal w h a W x lamda;\nl=w+h/sin(ts(1));\nd=l-ts(2);\nq=32.5-abs(x);          %8xing, gaiwei:\nq=sqrt(30^2-(x-15)^2);\nlen=sqrt(d^2-+w^2+q^2-2*(d*cos(ts(1))+w)*q+2*\nd*w*cos(ts(1))+q-d-w;\n\nc=[a*W-2*(w+h*cot(ts(1)));\n\n-(q+(d*cos(ts(1))+w-q).*(l-q)./sqrt(d^2-+w^2+r^2-\nx.^2-2*(d*cos(ts(1))+w)*q+2*d*w*cos(ts(1))));\n    len-ts(2)+lamda\n  ];\nceq=[];\n\nobjfun.m\nfunction f=objfun(ts)\nf=-sin(ts(1));\n%di er mubiao\n%l=w+h/sin(ts(1));"
+                    }
+                ],
+                "code_language": "matlab"
+            },
+            "bbox": [
+                112,
+                368,
+                482,
+                907
+            ]
+        },
+        {
+            "type": "code",
+            "content": {
+                "code_caption": [],
+                "code_content": [
+                    {
+                        "type": "text",
+                        "content": "%d=1-ts(2);\n%q=32.5-abs(x);\n%len=sqrt(d^2-+w^2+q^2-2*(d*cos(ts(1))+w)*q+\n2*d*w*cos(ts(1))+q-d-w\n%f=sum(len);\n\n6\nclear;\n%canshu\nw=2.5;h=60-3;a=1;W=60; n=W/2.5+1;s=32;\nt=pi/3;\nl=w+h/sin(t);\nR=sqrt(l^2+30^2);\n\n%zhuobian dian zuobiao\nxc=-30:2.5:30;\nyc=32.5-abs(xc);\nzc=zeros(1,n);\n\nxd=xc;xg=xc;\nll=sqrt(R^2-xc.^2);\nd=l-s;\n\nfor m=1:8\n    tt=linspace(0,8,8);\n    theta=tt(m)*t/8;\n\n    %gangjin dian zuobiao\n    yg=d*cos(theta)*ones(1,n)+w;\n    zg=d*sin(theta)*ones(1,n);\n\n    %zhuobian dao gangjin de juli:\n    for i=1:n\n\ndis(i)=norm([xc(i),yc(i),zc(i)]-[xg(i),yg(i),zg(i)]);\n    end\n\n    %kaicang dao banbian de juli:\n    margin=ll-yc-dis;\n\n    %muban dingdian zuobiao\n    for i=1:n\n        k=(margin(i)+dis(i))/dis(i);\n        yd(i)=yc(i)+k*(yg(i)-yc(i));\n        zd(i)=zc(i)+k*(zg(i)-zc(i));\n    end\n\n    subplot(2,4,m)\n    figure(1); hold on;\n    plot3(xc,yc,zc,'*');\n    plot3(xg,yg,zg,'r');\n    for i=1:n\n\nline([xc(i),xg(i)],[yc(i),yg(i),[zc(i),zg(i)],'LineWidth',2);\n\nline([xd(i),xg(i)],[yd(i),yg(i),[zd(i),zg(i)],'LineWi"
+                    }
+                ],
+                "code_language": "matlab"
+            },
+            "bbox": [
+                512,
+                84,
+                878,
+                907
+            ]
+        }
+    ],
+    [
+        {
+            "type": "code",
+            "content": {
+                "code_caption": [],
+                "code_content": [
+                    {
+                        "type": "text",
+                        "content": "dth',2);\n    end\n\n    plot3(xc,-yc,zc,'*');\n    plot3(xg,-yg,zg,'r');\n    for i=1:n\n\nline([xc(i),xg(i)],[-yc(i),-yg(i)],[zc(i),zg(i)],'LineWidth',1,'Color',[.2 .2 .2]);\n\nline([xd(i),xg(i)],[-yd(i),-yg(i)],[zd(i),zg(i)],'LineWidth',1,'Color',[.2 .2 .2]);\n    end\n\n    plot3(xc,yc,zc);plot3(xc,-yc,zc);\n\nline([xc(1),xc(1)],[yc(1),-yc(1)],[zc(1),zc(1)],'LineWidth',2);\n\nline([xc(n),xc(n)],[yc(n),-yc(n)],[zc(n),zc(n)],'LineWidth',2);\n    view(3)\n\n    X=[0 0;-1 1;0 0];Y=[1 1;0 0;-1 -1];\n    X=32.5*X;Y=32.5*Y;Z=zeros(3,2);\n    surf(X,Y,Z);\n    colormap(spring);\n    alpha(.5)\n    shading interp; axis equal; axis off;\nend\nfigure(2);\nplot3(xd,yd,zd);plot3(xd,-yd,zd);\n\n7 8\nclear;\n%canshu\nw=2.5;h=70-3;W=90; n=W/2.5-1;s=40;\nt=pi*70/180;\n\n%zhuobian dian zuobiao\nxc=-42.5:2.5:42.5;\nyc=sqrt(30^2-(abs(xc)-15).^2);\nzc=zeros(1,n);\n\nl=yc(1)+h/sin(t);\nxd=xc;xg=xc;\nd=l-s;\n\nfor m=1:8\n    theta=m*t/8;\n\n    %gangjin dian zuobiao\n    yg=d*cos(theta)*ones(1,n)+w;\n    zg=d*sin(theta)*ones(1,n);\n\n    %zhuobian dao gangjin de juli:\n    for i=1:n"
+                    }
+                ],
+                "code_language": "matlab"
+            },
+            "bbox": [
+                112,
+                81,
+                480,
+                906
+            ]
+        },
+        {
+            "type": "code",
+            "content": {
+                "code_caption": [],
+                "code_content": [
+                    {
+                        "type": "text",
+                        "content": "dis(i)=norm([xc(i),yc(i),zc(i)]-[xg(i),yg(i),zg(i)]);\n    end\n\n    %kaicang dao banbian de juli:\n    margin=l-yc-dis;\n\n    %muban dingdian zuobiao\n    for i=1:n\n        k=(margin(i)+dis(i))/dis(i);\n        yd(i)=yc(i)+k*(yg(i)-yc(i));\n        zd(i)=zc(i)+k*(zg(i)-zc(i));\n    end\n\n    subplot(2,4,m)\n    figure(1); hold on;\n    plot3(xc,yc,zc,'*');\n    plot3(xg,yg,zg,'r');\n    for i=1:n\n\n    line([xc(i),xg(i)],[yc(i),yg(i)],[zc(i),zg(i)],'LineWidth',2);\n\n    line([xd(i),xg(i)],[yd(i),yg(i)],[zd(i),zg(i)],'LineWidth',2);\n    end\n\n    plot3(xc,-yc,zc,'*');\n    plot3(xg,-yg,zg,'r');\n    for i=1:n\n\n    line([xc(i),xg(i)],[-yc(i),-yg(i)],[zc(i),zg(i)],'LineWidth',1,'Color',[.2 .2 .2]);\n\n    line([xd(i),xg(i)],[-yd(i),-yg(i)],[zd(i),zg(i)],'LineWidth',1,'Color',[.2 .2 .2]);\n    end\n\n    plot3(xc,yc,zc);plot3(xc,-yc,zc);\n\n    line([xc(1),xc(1)],[yc(1),-yc(1)],[zc(1),zc(1)],'LineWidth',2);\n\n    line([xc(n),xc(n)],[yc(n),-yc(n)],[zc(n),zc(n)],'LineWidth',2);\n    view(3)\n\n    [X,Y,Z]=sphere(30);\n    X=30*X;Y=30*Y;Z=zeros(31);\n    X=X+15;      surf(X,Y,Z);\n    X=X-30;      surf(X,Y,Z);\n    colormap(spring);\n    alpha(.5)\n    shading interp; axis equal; axis off;\nend\nfigure(2);\nplot3(xd,yd,zd);plot3(xd,-yd,zd);"
+                    }
+                ],
+                "code_language": "matlab"
+            },
+            "bbox": [
+                510,
+                96,
+                880,
+                908
+            ]
+        }
+    ]
+]

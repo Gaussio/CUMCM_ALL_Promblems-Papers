@@ -1,0 +1,2826 @@
+[
+    {
+        "type": "text",
+        "text": "( “",
+        "bbox": [
+            193,
+            195,
+            319,
+            218
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "( )",
+        "bbox": [
+            319,
+            252,
+            467,
+            275
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "( )",
+        "bbox": [
+            253,
+            308,
+            460,
+            331
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "( 体 ).",
+        "bbox": [
+            132,
+            446,
+            786,
+            469
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "( A/B/C/D ) B",
+        "bbox": [
+            347,
+            500,
+            884,
+            520
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(8 字) 16046004",
+        "bbox": [
+            347,
+            527,
+            882,
+            548
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "( ) \\_\\_\\_\\_",
+        "bbox": [
+            226,
+            555,
+            884,
+            576
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "( ) 1.\\_",
+        "bbox": [
+            236,
+            583,
+            882,
+            604
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.\\_\\_\\_\\_",
+        "bbox": [
+            376,
+            610,
+            882,
+            630
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3.",
+        "bbox": [
+            378,
+            638,
+            882,
+            657
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "( ) \\_\\_\\_\\_",
+        "bbox": [
+            426,
+            666,
+            882,
+            686
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(论文纸质版与电子版中的以上信息必须一致，只是电子版中无需签名。以上内容请仔细核对，提交后将不再允许做任何修改。如填写错误，论文可能被取消评奖资格。)",
+        "bbox": [
+            112,
+            697,
+            882,
+            764
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2014 9 14",
+        "bbox": [
+            112,
+            762,
+            863,
+            804
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "( )",
+        "bbox": [
+            287,
+            811,
+            621,
+            833
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "2014",
+        "bbox": [
+            292,
+            85,
+            349,
+            103
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "( )",
+        "bbox": [
+            322,
+            200,
+            658,
+            226
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/2c3362de9f8b275239aac2bab1713aab36ed1c6471377ae4c4b08c749faf4747.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+        "bbox": [
+            105,
+            292,
+            889,
+            547
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "( )",
+        "bbox": [
+            322,
+            621,
+            658,
+            647
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "( )",
+        "bbox": [
+            322,
+            735,
+            657,
+            761
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd \\left(y - \\sqrt {r ^ {2} - x ^ {2}}\\right) \\sin \\theta = z \\left(d \\cos \\theta + w - \\sqrt {r ^ {2} - x ^ {2}}\\right).\n$$",
+        "text_format": "latex",
+        "bbox": [
+            314,
+            347,
+            721,
+            378
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(5-12) (5-13).",
+        "bbox": [
+            465,
+            385,
+            600,
+            404
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "20.09 19.60 18.77 17.59 16.06 14.14 11.81 9.00",
+        "bbox": [
+            460,
+            408,
+            875,
+            425
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5.53(cm).",
+        "bbox": [
+            115,
+            428,
+            188,
+            444
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "( )",
+        "bbox": [
+            378,
+            446,
+            482,
+            467
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "( )",
+        "bbox": [
+            576,
+            444,
+            742,
+            467
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\theta$ 1.0605( ) $L$ 158.56cm.",
+        "bbox": [
+            216,
+            511,
+            450,
+            554
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Matlab",
+        "bbox": [
+            662,
+            491,
+            729,
+            509
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "s 43.80cm",
+        "bbox": [
+            759,
+            513,
+            873,
+            530
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "8字",
+        "bbox": [
+            339,
+            602,
+            384,
+            619
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "体",
+        "bbox": [
+            477,
+            624,
+            504,
+            642
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "1",
+        "bbox": [
+            492,
+            919,
+            505,
+            931
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n1 2 0 \\mathrm{cm} \\times 5 0 \\mathrm{cm} \\times 3 \\mathrm{cm}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            381,
+            204,
+            583,
+            220
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny O z\n$$",
+        "text_format": "latex",
+        "bbox": [
+            119,
+            553,
+            157,
+            568
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overrightarrow {O P} = \\overrightarrow {O C} + \\overrightarrow {C P}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            383,
+            547,
+            512,
+            568
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "( ).",
+        "bbox": [
+            357,
+            598,
+            463,
+            638
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Matlab",
+        "bbox": [
+            554,
+            660,
+            618,
+            676
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "2",
+        "bbox": [
+            492,
+            919,
+            505,
+            931
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "S ( )",
+        "bbox": [
+            157,
+            415,
+            398,
+            437
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/36353540c33c867e315795ac56465af52114fdaaeb7568654dfdbdb51e427437.jpg",
+        "image_caption": [
+            "5-1"
+        ],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            164,
+            520,
+            398,
+            676
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8b03ea91c7f8eb32898bfa3069ef66f3ec2bfdb785adc3d30e00bf6f5c466f4b.jpg",
+        "image_caption": [
+            "5-2"
+        ],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            549,
+            514,
+            816,
+            679
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "( )\n5.1 $P = (x, y, z) \\quad u \\quad P$ $xOz \\quad v \\quad P \\quad yOz \\quad .$ $\\overrightarrow{OP} = \\overrightarrow{OC} + \\overrightarrow{CP} \\ .$",
+        "bbox": [
+            179,
+            779,
+            862,
+            869
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "3",
+        "bbox": [
+            492,
+            919,
+            505,
+            931
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2697dd15b84a083308f47b8d920d102a5abf8b7c9103bb9979b85173aa5d4e15.jpg",
+        "image_caption": [
+            "5-3",
+            "C P",
+            "(1)",
+            "O"
+        ],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            378,
+            90,
+            621,
+            248
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "r ，",
+        "bbox": [
+            176,
+            391,
+            302,
+            408
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "W w",
+        "bbox": [
+            174,
+            454,
+            359,
+            472
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overrightarrow {O C} \\quad \\overrightarrow {C P}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            228,
+            471,
+            321,
+            492
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "yOz x = v",
+        "bbox": [
+            157,
+            519,
+            366,
+            536
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array}{c} x ^ {2} + y ^ {2} = r ^ {2} \\\\ z = 0 \\end{array} \\right.\\tag{5-1}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            465,
+            336,
+            579,
+            387
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr = \\sqrt {\\left(\\frac {W}{2}\\right) ^ {2} + w ^ {2}}\\tag{5-2}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            467,
+            407,
+            608,
+            453
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c} x O z \\\\ C \\Big (v, \\sqrt {r ^ {2} - v ^ {2}}, 0 \\Big) \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            524,
+            496,
+            665,
+            543
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overrightarrow {O C} = \\left(v, \\sqrt {r ^ {2} - v ^ {2}}, 0\\right).\\tag{5-3}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            357,
+            547,
+            537,
+            576
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left| \\overrightarrow {C P} \\right| = u - \\sqrt {r ^ {2} - v ^ {2}}.\n$$",
+        "text_format": "latex",
+        "bbox": [
+            458,
+            579,
+            618,
+            609
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM \\left(v, d \\cos \\theta + w, d \\sin \\theta\\right)\n$$",
+        "text_format": "latex",
+        "bbox": [
+            386,
+            614,
+            593,
+            635
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/6dd6f804c94498e795af53546ff9b7777849f6c1931caa508698f56308b495e7.jpg",
+        "image_caption": [
+            "θ.",
+            "5-4"
+        ],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            213,
+            669,
+            455,
+            847
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/abcaeb0aa93573beaf376d3d0a7a612eb1853b521a16df41d3bacb03887a04f6.jpg",
+        "image_caption": [
+            "5-5"
+        ],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            606,
+            673,
+            843,
+            857
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "4",
+        "bbox": [
+            492,
+            919,
+            505,
+            931
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5-1",
+        "bbox": [
+            687,
+            864,
+            717,
+            878
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB = (v, d \\cos \\theta + w, d \\sin \\theta).\n$$",
+        "text_format": "latex",
+        "bbox": [
+            658,
+            85,
+            880,
+            102
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overrightarrow {C B} = \\overrightarrow {O B} - \\overrightarrow {O C} = \\left(0, d \\cos \\theta + w - \\sqrt {r ^ {2} - v ^ {2}}, d \\sin \\theta\\right).\n$$",
+        "text_format": "latex",
+        "bbox": [
+            245,
+            123,
+            665,
+            152
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "B",
+        "bbox": [
+            159,
+            157,
+            178,
+            171
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{r l} \\left| \\overrightarrow {C B} \\right| & = \\sqrt {\\left(d \\cos \\theta + w - \\sqrt {r ^ {2} - v ^ {2}}\\right) ^ {2} + \\left(d \\sin \\theta\\right) ^ {2}} \\\\ & = \\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - v ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - v ^ {2}} \\cos \\theta + 2 d w \\cos \\theta} \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            228,
+            175,
+            764,
+            241
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overrightarrow {C P} = \\frac {\\overrightarrow {C B}}{\\left| \\overrightarrow {C B} \\right|} \\left| \\overrightarrow {C P} \\right| = \\frac {\\left(0 , d \\cos \\theta + w - \\sqrt {r ^ {2} - v ^ {2}} , d \\sin \\theta\\right)}{\\sqrt {\\left(d \\cos \\theta + w - \\sqrt {r ^ {2} - v ^ {2}}\\right) ^ {2} + \\left(d \\sin \\theta\\right) ^ {2}}} \\left(u - \\sqrt {r ^ {2} - v ^ {2}}\\right)\n$$",
+        "text_format": "latex",
+        "bbox": [
+            174,
+            262,
+            746,
+            328
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overrightarrow {C P} = \\frac {\\left(0 , d \\cos \\theta + w - \\sqrt {r ^ {2} - v ^ {2}} , d \\sin \\theta\\right)}\\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - v ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - v ^ {2}} + 2 d w \\cos \\theta} \\left(u - \\sqrt {r ^ {2} - v ^ {2}}\\right)\\tag{5-4}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            166,
+            349,
+            776,
+            404
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3)",
+        "bbox": [
+            154,
+            409,
+            184,
+            425
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overrightarrow {O P} = \\overrightarrow {O C} + \\overrightarrow {C P} = \\left(v, \\sqrt {r ^ {2} - v ^ {2}}, 0\\right) + \\frac {\\left(0 , d \\cos \\theta + w - \\sqrt {r ^ {2} - v ^ {2}} , d \\sin \\theta\\right)}{\\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - v ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - v ^ {2}} + 2 d w \\cos \\theta}} \\left(u - \\sqrt {r ^ {2} - v ^ {2}}\\right)\\tag{5-5}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            196,
+            444,
+            808,
+            494
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array}{l} x = v, \\\\ y = \\sqrt {r ^ {2} - v ^ {2}} + \\frac {\\left(d \\cos \\theta + w - \\sqrt {r ^ {2} - v ^ {2}}\\right) \\cdot \\left(u - \\sqrt {r ^ {2} - v ^ {2}}\\right)}{\\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - v ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - v ^ {2}} + 2 d w \\cos \\theta}} \\\\ z = \\frac {d \\sin \\theta \\left(u - \\sqrt {r ^ {2} - v ^ {2}}\\right)}{\\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - v ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - v ^ {2}} + 2 d w \\cos \\theta}}, \\\\ (u, v \\quad .) \\end{array} \\right.\\tag{5-6}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            258,
+            514,
+            831,
+            675
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny - \\sqrt {r ^ {2} - v ^ {2}} \\quad z\\tag{4}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            178,
+            700,
+            319,
+            720
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac {y - \\sqrt {r ^ {2} - v ^ {2}}}{z} = \\frac {d \\cos \\theta + w - \\sqrt {r ^ {2} - v ^ {2}}}{d \\sin \\theta}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            357,
+            722,
+            660,
+            766
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$x = \\nu$",
+        "bbox": [
+            157,
+            769,
+            203,
+            782
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nz = \\frac {d \\left(y - \\sqrt {r ^ {2} - x ^ {2}}\\right) \\sin \\theta}{d \\cos \\theta + w - \\sqrt {r ^ {2} - x ^ {2}}}\\tag{5-7}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            393,
+            783,
+            608,
+            834
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2n",
+        "bbox": [
+            154,
+            865,
+            181,
+            878
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "n",
+        "bbox": [
+            218,
+            888,
+            238,
+            900
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny\n$$",
+        "text_format": "latex",
+        "bbox": [
+            485,
+            866,
+            504,
+            881
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "x",
+        "bbox": [
+            863,
+            866,
+            878,
+            878
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "x",
+        "bbox": [
+            297,
+            87,
+            314,
+            100
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "M",
+        "bbox": [
+            512,
+            85,
+            536,
+            100
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "5",
+        "bbox": [
+            492,
+            919,
+            505,
+            931
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "aside_text",
+        "text": "5.3",
+        "bbox": [
+            115,
+            844,
+            146,
+            858
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "i",
+        "bbox": [
+            216,
+            86,
+            231,
+            99
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nv = w i, C \\Big (w i, \\sqrt {r ^ {2} - v ^ {2}}, 0 \\Big) \\quad B = (w i, d \\cos \\theta + w, d \\sin \\theta),\n$$",
+        "text_format": "latex",
+        "bbox": [
+            287,
+            103,
+            749,
+            131
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left| \\overrightarrow {B C} \\right| = \\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - (w i) ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - (w i) ^ {2}} + 2 d w \\cos \\theta}.\n$$",
+        "text_format": "latex",
+        "bbox": [
+            235,
+            154,
+            800,
+            187
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nl e n (x _ {i}) = \\left| \\overrightarrow {B C} \\right| - \\left(d + w - \\frac {l}{2}\\right) \\quad l \\quad i\n$$",
+        "text_format": "latex",
+        "bbox": [
+            418,
+            207,
+            781,
+            245
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nl e n (x _ {i}) = \\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - x ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - x ^ {2}} + 2 d w \\cos \\theta} + \\sqrt {r ^ {2} - x ^ {2}} - d - w\\tag{5-8}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            179,
+            269,
+            808,
+            294
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac {l}{2} = \\sqrt {r ^ {2} - (w i) ^ {2}}\\tag{5-9}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            455,
+            315,
+            589,
+            349
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nl e n (x _ {i}) = \\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - (w i) ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - (w i) ^ {2}} + 2 d w \\cos \\theta} + \\sqrt {r ^ {2} - (w i) ^ {2}} - d - w\\tag{5-10}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            131,
+            370,
+            823,
+            397
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= \\frac {L - l}{2}\\tag{5-11}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            564,
+            400,
+            628,
+            435
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "L",
+        "bbox": [
+            198,
+            437,
+            216,
+            452
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= \\frac {\\frac {L}{2} - w}{2} - l e n (i) = \\frac {L}{4} - \\frac {w}{2} - l e n (i)\\tag{5-12}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            475,
+            456,
+            742,
+            507
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.4",
+        "bbox": [
+            115,
+            516,
+            147,
+            530
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "L",
+        "bbox": [
+            178,
+            536,
+            196,
+            551
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n(x \\quad) \\quad \\frac {L}{2}.\n$$",
+        "text_format": "latex",
+        "bbox": [
+            334,
+            554,
+            497,
+            589
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "( )",
+        "bbox": [
+            618,
+            536,
+            700,
+            554
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu = \\frac {L}{2}\\tag{5-6}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            806,
+            555,
+            860,
+            589
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array}{l} x = v, \\\\ y = \\sqrt {r ^ {2} - v ^ {2}} + \\frac {\\left(d \\cos \\theta + w - \\sqrt {r ^ {2} - v ^ {2}}\\right) \\left(\\frac {L}{2} - \\sqrt {r ^ {2} - v ^ {2}}\\right)}{\\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - v ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - v ^ {2}} + 2 d w \\cos \\theta}}, \\\\ z = \\frac {d \\sin \\theta \\left(\\frac {L}{2} - \\sqrt {r ^ {2} - v ^ {2}}\\right)}{\\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - v ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - v ^ {2}} + 2 d w \\cos \\theta}}, \\\\ (v \\quad .) \\end{array} \\right.\\tag{5-13}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            159,
+            610,
+            729,
+            787
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array}{l} d \\left(y - \\sqrt {r ^ {2} - x ^ {2}}\\right) \\sin \\theta = z \\left(d \\cos \\theta + w - \\sqrt {r ^ {2} - x ^ {2}}\\right) \\\\ d \\sin \\theta \\left(\\frac {L}{2} - \\sqrt {r ^ {2} - x ^ {2}}\\right) = z \\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - x ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - x ^ {2}} + 2 d w \\cos \\theta} \\end{array} \\right.\\tag{5-14}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            179,
+            793,
+            810,
+            882
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "6",
+        "bbox": [
+            492,
+            919,
+            505,
+            931
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.5",
+        "bbox": [
+            114,
+            85,
+            147,
+            100
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c} W = 5 0 \\quad w = 2. 5 \\quad (5 - 2) \\\\ r = \\sqrt {\\left(\\frac {W}{2}\\right) ^ {2} + w ^ {2}} = \\sqrt {6 3 1 . 2 5} = 2 5. 1 2 5. \\end{array}\\tag{5.5.1}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            275,
+            130,
+            678,
+            195
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} d = \\frac {1}{2} \\left(\\frac {L}{2} - w\\right) = 2 8. 7 5. \\\\ h = 5 3 - 3 = 5 0 \\quad 2 d = 5 7. 5 \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            275,
+            214,
+            648,
+            275
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c} \\sin \\theta = \\frac {h}{2 d} = \\frac {5 0}{5 7 . 5} \\\\ \\theta = \\arcsin \\left(\\frac {h}{2 d}\\right) = \\arcsin (0. 8 6 9 6) = 1. 0 5 4 3. \\end{array}\\tag{5-7}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            341,
+            293,
+            697,
+            369
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nz = \\frac {2 5 \\left(y - \\sqrt {6 3 1 . 2 5 - x ^ {2}}\\right)}{1 6 . 7 0 - \\sqrt {6 3 1 . 2 5 - x ^ {2}}}\\tag{5-15}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            413,
+            388,
+            628,
+            441
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.5.2",
+        "bbox": [
+            115,
+            448,
+            161,
+            465
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{r l} r ^ {2} = 6 3 1. 2 5 \\quad w & = 2. 5 \\quad (5 - 9) \\quad (5 - 1 1) \\\\ \\frac {l}{2} & = \\sqrt {6 3 1 . 2 5 - 6 . 2 5 i ^ {2}}, \\quad i = 1 \\quad \\dots \\dots 1 0. \\\\ & = 6 0 - \\frac {l}{2}. \\end{array}\\tag{1}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            174,
+            486,
+            700,
+            578
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c} d = 2 8. 7 5, r ^ {2} = 6 3 1. 2 5, \\sin \\theta = \\frac {5 0}{5 7 . 5} \\quad (5 - 1 0) \\\\ l e n (x _ {i}) = \\sqrt {1 4 6 4 . 0 6 - 6 . 2 5 i ^ {2} - 3 3 . 4 \\sqrt {6 3 1 . 2 5 - 6 . 2 5 i ^ {2}} + 7 0 . 9 9} + \\sqrt {6 3 1 . 2 5 - 6 . 2 5 i ^ {2}} - 3 1. 2 5 \\\\ L = 1 2 0 c m, w = 2. 5 c m \\quad (5 - 1 2) \\quad = 2 8. 7 5 - l e n (i). \\end{array}\\tag{5-16}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            142,
+            686,
+            811,
+            773
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/1d653e27b38a164e9c07976b285c24674534a971b6418cbf89d33437cee2571f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=\"2\">i</td><td colspan=\"4\">2</td><td colspan=\"6\">(cm)</td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td></tr><tr><td></td><td>8.66</td><td>9.15</td><td>9.98</td><td>11.16</td><td>12.69</td><td>14.61</td><td>16.94</td><td>19.75</td><td>23.22</td><td>28.75</td></tr><tr><td></td><td>20.09</td><td>19.60</td><td>18.77</td><td>17.59</td><td>16.06</td><td>14.14</td><td>11.81</td><td>9.00</td><td>5.53</td><td>0</td></tr></table>",
+        "bbox": [
+            127,
+            798,
+            868,
+            863
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "7",
+        "bbox": [
+            492,
+            919,
+            505,
+            931
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.5.3",
+        "bbox": [
+            115,
+            85,
+            161,
+            100
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} d = 2 8. 7 5, r ^ {2} = 6 3 1. 2 5 \\quad w = 2. 5 \\quad \\sin \\theta = \\frac {5 0}{5 7 . 5} \\quad (5 - 1 4) \\\\ \\left\\{ \\begin{array}{l} 2 5 \\left(y - \\sqrt {6 3 1 . 2 5 - x ^ {2}}\\right) = z \\left(1 6. 7 - \\sqrt {6 3 1 . 2 5 - x ^ {2}}\\right) \\\\ 2 5 \\left(6 0 - \\sqrt {6 3 1 . 2 5 - x ^ {2}}\\right) = z \\sqrt {1 5 3 5 . 0 6 - x ^ {2} - 3 3 . 4 \\sqrt {r ^ {2} - x ^ {2}}} \\end{array} \\right. \\\\ \\text {Matlab} \\end{array}\\tag{5-17}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            174,
+            105,
+            764,
+            232
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/f55b035cce5ebb9eb4103dd7e5c2d5560aa6b57de2e773cf09c285c4a34c700a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            176,
+            241,
+            492,
+            391
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/0198b1af2e46819f924cc354cb630ca30cf0fa2429fe0f8e921199272176a3ed.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            527,
+            244,
+            833,
+            390
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5-6",
+        "bbox": [
+            406,
+            400,
+            440,
+            416
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "( )",
+        "bbox": [
+            554,
+            399,
+            657,
+            418
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr ^ {2} = 6 3 1. 2 5\\tag{5.5.4}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            176,
+            445,
+            278,
+            464
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{r l} x = w i \\quad & (5 - 1) \\\\ & \\left\\{ \\begin{array}{l} w ^ {2} i ^ {2} + y ^ {2} = 6 3 1. 2 5 \\\\ z = 0 \\end{array} \\right. \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            334,
+            446,
+            608,
+            508
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "BM",
+        "bbox": [
+            196,
+            511,
+            236,
+            527
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\ni = - 1 0, \\dots , 0, 1, 2, \\dots , 1 0\n$$",
+        "text_format": "latex",
+        "bbox": [
+            176,
+            595,
+            368,
+            612
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array}{c} x = w i \\\\ y = d \\cos \\theta + w \\\\ z = d \\sin \\theta \\\\ x > 0 \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "bbox": [
+            438,
+            528,
+            576,
+            612
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "D",
+        "bbox": [
+            159,
+            679,
+            179,
+            694
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c} C _ {i} (x _ {c _ {i}}, y _ {c _ {i}}, z _ {c _ {i}}) \\quad B _ {i} (x _ {b _ {i}}, y _ {b _ {i}}, z _ {b _ {i}}), i = - 1 0, \\dots , 0, 1, 2, \\dots , 1 0 \\\\ C \\quad B \\quad . \\\\ , \\quad D _ {i} (x _ {d _ {i}}, y _ {d _ {i}}, z _ {d _ {i}}), i = - 1 0, \\dots , 0, 1, 2, \\dots , 1 0 \\end{array} .\n$$",
+        "text_format": "latex",
+        "bbox": [
+            287,
+            633,
+            747,
+            701
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "B",
+        "bbox": [
+            159,
+            709,
+            179,
+            724
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left| \\overrightarrow {B D} \\right| = l - \\left| \\overrightarrow {C A} \\right| - \\left| \\overrightarrow {B C} \\right|\n$$",
+        "text_format": "latex",
+        "bbox": [
+            633,
+            701,
+            801,
+            732
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ {i} = (w i, 0, 0) \\quad i = - 1 0, \\dots , 0, 1, 2, \\dots , 1 0.\n$$",
+        "text_format": "latex",
+        "bbox": [
+            117,
+            733,
+            448,
+            752
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk = \\frac {\\frac {L}{2} - \\left| \\overrightarrow {A C} \\right|}{\\left| \\overrightarrow {B C} \\right|}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            458,
+            775,
+            571,
+            837
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac {x _ {d _ {i}} - x _ {c _ {i}}}{x _ {b _ {i}} - x _ {c _ {i}}} = \\frac {y _ {d _ {i}} - y _ {c _ {i}}}{y _ {b _ {i}} - y _ {c _ {i}}} = \\frac {z _ {d _ {i}} - z _ {c _ {i}}}{z _ {b _ {i}} - z _ {c _ {i}}} = k\n$$",
+        "text_format": "latex",
+        "bbox": [
+            383,
+            842,
+            655,
+            883
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_number",
+        "text": "8",
+        "bbox": [
+            492,
+            919,
+            505,
+            931
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c} \\left\\{ \\begin{array}{l} x _ {d _ {i}} = x _ {c _ {i}} + k \\left(x _ {b _ {i}} - x _ {c _ {i}}\\right) \\\\ y _ {d _ {i}} = y _ {c _ {i}} + k \\left(y _ {b _ {i}} - y _ {c _ {i}}\\right) \\\\ z _ {d _ {i}} = z _ {c _ {i}} + k \\left(z _ {b _ {i}} - z _ {c _ {i}}\\right) \\end{array} \\right. \\\\ D \\qquad \\qquad B \\\\ \\theta \\qquad \\qquad \\theta \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            400,
+            84,
+            608,
+            207
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c} \\theta = \\frac {1}{6} \\times 1. 0 5 4 3, \\frac {2}{6} \\times 1. 0 5 4 3, \\frac {3}{6} \\times 1. 0 5 4 3, \\frac {4}{6} \\times 1. 0 5 4 3, \\frac {5}{6} \\times 1. 0 5 4 3, 1. 0 5 4 3, \\\\ 5 - 7 ( \\begin{array}{c c} & 2) \\end{array} \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            216,
+            225,
+            757,
+            283
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "matlab",
+        "bbox": [
+            821,
+            235,
+            882,
+            252
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/46c27fa15af953ec467ccc4331c0ff64c8abefeeb466e58bf2a4bbb1032b6e2e.jpg",
+        "image_caption": [
+            "5-7"
+        ],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            121,
+            286,
+            873,
+            500
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "6.1",
+        "text_level": 2,
+        "bbox": [
+            114,
+            554,
+            151,
+            571
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "6.1.1",
+        "bbox": [
+            115,
+            581,
+            171,
+            598
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/04101819573631c1d7b3dd0ac52f077d20521362ac5e06a3477a95ab4696ab5b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            121,
+            598,
+            870,
+            826
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "6.1.2",
+        "bbox": [
+            115,
+            828,
+            171,
+            847
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(1)",
+        "bbox": [
+            157,
+            850,
+            189,
+            868
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "( )",
+        "bbox": [
+            684,
+            868,
+            747,
+            889
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "page_number",
+        "text": "9",
+        "bbox": [
+            492,
+            919,
+            505,
+            931
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\min \\frac {h}{\\sin \\theta} \\quad \\max \\sin \\theta\\tag{6-1}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            406,
+            85,
+            596,
+            119
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(2)",
+        "bbox": [
+            157,
+            121,
+            188,
+            138
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} W \\quad w \\quad 2 n = \\frac {W}{w} \\\\ \\quad 4 n \\quad . \\\\ \\quad . \\quad \\text {小} \\quad . \\\\ \\quad \\min \\sum_ {i = 1} ^ {n} \\operatorname{len} (x _ {i}) \\\\ x _ {i} = w i \\quad i \\quad (5 - 9) \\\\ \\operatorname{len} (x _ {i}) = \\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - (w i) ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - (w i) ^ {2}} + 2 d w \\cos \\theta} + \\sqrt {r ^ {2} - (w i) ^ {2}} - d - w \\\\ d = \\frac {h}{\\sin \\theta} - s. \\end{array}\\tag{6-2}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            152,
+            159,
+            847,
+            380
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "6.1.3",
+        "bbox": [
+            115,
+            385,
+            171,
+            402
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(1)",
+        "bbox": [
+            157,
+            406,
+            189,
+            423
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "S.",
+        "bbox": [
+            115,
+            465,
+            141,
+            479
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "λ",
+        "bbox": [
+            823,
+            480,
+            840,
+            496
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\nl e n \\big (x _ {i} \\big) <   s - \\lambda , i = 1, 2, \\dots , n\\tag{6-3}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            408,
+            517,
+            650,
+            538
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(2)",
+        "bbox": [
+            157,
+            540,
+            189,
+            558
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c} y \\quad y _ {D} (x _ {i}) \\\\ y _ {D} (x _ {i}) \\geq 0, i = 1, 2, \\dots , n \\\\ y _ {D} (x) = \\sqrt {r ^ {2} - x ^ {2}} + \\frac {\\left(d \\cos \\theta + w - \\sqrt {r ^ {2} - x ^ {2}}\\right) \\left(d + w - \\sqrt {r ^ {2} - x ^ {2}}\\right)}{\\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - x ^ {2}} - 2 \\left(d \\cos \\theta + w\\right) \\sqrt {r ^ {2} - x ^ {2}} + 2 d w \\cdot \\cos \\theta} \\end{array} \\tag {5-12}\\tag{6-4}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            189,
+            578,
+            808,
+            698
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(3)",
+        "bbox": [
+            157,
+            699,
+            188,
+            717
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c} W \\quad a \\quad , \\\\ 2 (w + h \\cot \\theta) \\geq a W \\end{array}\\tag{6-5}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            426,
+            737,
+            692,
+            776
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(4)",
+        "bbox": [
+            157,
+            777,
+            189,
+            796
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4",
+        "bbox": [
+            179,
+            815,
+            200,
+            831
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "( h).",
+        "bbox": [
+            416,
+            815,
+            497,
+            834
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\nz _ {D} (x _ {i}) \\text {小}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            769,
+            815,
+            847,
+            834
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\nz _ {D} (x _ {i}) \\leq h, i = 1, 2, \\dots , n - 1\\tag{6-6}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            406,
+            855,
+            631,
+            875
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "page_number",
+        "text": "10",
+        "bbox": [
+            490,
+            919,
+            510,
+            931
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\nz _ {D} (x) = \\frac {d \\sin \\theta \\left(\\frac {L}{2} - \\sqrt {r ^ {2} - x ^ {2}}\\right)}{\\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - x ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - x ^ {2}} + 2 d w \\cos \\theta}}\\tag{6.1.4}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            257,
+            84,
+            771,
+            149
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(6-3)(6-4)(6-5)(6-6)",
+        "bbox": [
+            514,
+            178,
+            682,
+            197
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} \\min h / \\sin \\theta \\\\ \\min \\sum_ {i = 1} ^ {n} l e n (x _ {i}) \\\\ s. t. \\left\\{ \\begin{array}{l} l e n (x _ {i}) <   s - \\lambda , i = 1, 2, \\dots , n \\\\ y _ {D} (x _ {i}) \\geq 0, i = 1, 2, \\dots , n \\\\ 2 (w + h \\cot \\theta) \\geq a W \\\\ z _ {D} (x _ {i}) \\leq h, i = 1, 2, \\dots , n - 1 \\end{array} \\right. \\\\ (\\quad) \\quad s \\end{array}\\tag{6-7}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            299,
+            212,
+            606,
+            390
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c} \\text {len} (x _ {i}) = \\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - x _ {i} ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - x _ {i} ^ {2}} + 2 d \\cos \\theta \\cdot w} + \\sqrt {r ^ {2} - x _ {i} ^ {2}} - d - w \\\\ y _ {D} (x _ {i}) = \\sqrt {r ^ {2} - x ^ {2}} + \\frac {(d \\cos \\theta + w - \\sqrt {r ^ {2} - x _ {i} ^ {2}}) (d + w - \\sqrt {r ^ {2} - x _ {i} ^ {2}})}{\\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - x _ {i} ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - x _ {i} ^ {2}} + 2 d w \\cdot \\cos \\theta}} \\\\ z _ {D} (x _ {i}) = \\frac {d \\sin \\theta \\left(\\frac {L}{2} - \\sqrt {r ^ {2} - x _ {i} ^ {2}}\\right)}{\\sqrt {d ^ {2} + w ^ {2} + r ^ {2} - x _ {i} ^ {2} - 2 (d \\cos \\theta + w) \\sqrt {r ^ {2} - x _ {i} ^ {2}} + 2 d w \\cos \\theta}} \\\\ x _ {i} = w i \\quad d = \\frac {h}{\\sin \\theta} - s. \\end{array}\\tag{6.1.5}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            126,
+            406,
+            868,
+            603
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "6-2",
+        "bbox": [
+            200,
+            631,
+            233,
+            648
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "L",
+        "bbox": [
+            376,
+            631,
+            394,
+            648
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c} L = 2 (w + \\frac {h}{\\sin \\theta}) \\\\ \\qquad = s - l e n (i). \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            418,
+            650,
+            611,
+            705
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "6.2",
+        "bbox": [
+            112,
+            714,
+            152,
+            730
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "6.2.1",
+        "bbox": [
+            112,
+            742,
+            171,
+            758
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh = 7 0 c m \\quad w = 2. 5 \\quad W = 8 0 c m.\n$$",
+        "text_format": "latex",
+        "bbox": [
+            297,
+            762,
+            561,
+            779
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c c c c} \\lambda = 5 & a & 1 & 0. 6 1 8 \\\\ (6 - 6) \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            687,
+            760,
+            873,
+            798
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Matlab",
+        "bbox": [
+            112,
+            799,
+            179,
+            815
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(3).",
+        "bbox": [
+            255,
+            798,
+            400,
+            818
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "page_number",
+        "text": "11",
+        "bbox": [
+            490,
+            919,
+            507,
+            931
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "$\\theta = 1.0605$",
+        "bbox": [
+            196,
+            195,
+            290,
+            214
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} \\min 7 0 / \\sin \\theta \\\\ s. t. \\left\\{ \\begin{array}{l} l e n (x _ {i}) <   s - 5, i = 1, 2, \\dots , n \\\\ y _ {D} (x _ {i}) \\geq 0, i = 1, 2, \\dots , n \\\\ 5 + 1 4 0 \\cot \\theta \\geq 8 0 \\\\ z _ {D} (x _ {i}) \\leq h, i = 1, 2, \\dots , n - 1 \\end{array} \\right. \\\\ L = 1 5 8. 5 6. \\quad \\theta = 1. 0 6 0 5 \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            383,
+            83,
+            653,
+            214
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c} \\min \\sum_ {i = 1} ^ {n} l e n (x _ {i}) \\\\ s. t. \\left\\{ \\begin{array}{l} l e n \\big (x _ {i} \\big) <   s - 5, i = 1, 2, \\dots , n \\\\ y _ {D} (x _ {i}) \\geq 0, i = 1, 2, \\dots , n \\\\ 5 + 1 4 0 \\cot \\theta \\geq 8 0 \\\\ z _ {D} (x _ {i}) \\leq h, i = 1, 2, \\dots , n - 1 \\end{array} \\right. \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            366,
+            233,
+            631,
+            363
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "s 43.80cm",
+        "bbox": [
+            136,
+            418,
+            253,
+            435
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c} s = 4 3. 8 0. \\\\ \\theta \\quad 1. 0 6 0 5 (\\quad) \\\\ L \\quad 1 5 8. 5 6 \\mathrm{cm}. \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            369,
+            381,
+            581,
+            435
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "6.2.2",
+        "bbox": [
+            112,
+            441,
+            173,
+            459
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c} d = \\frac {L}{2} - s - 2. 5 = 3 2. 9 8 \\\\ W = 8 0 \\quad w = 2. 5 \\quad (5 - 2) \\\\ r ^ {2} = \\left(\\frac {W}{2}\\right) ^ {2} + w ^ {2} = 1 6 0 6. 2 5 c m. \\\\ d = 3 2. 9 8 \\quad r ^ {2} = 1 6 0 6. 2 5 \\quad \\theta = 1. 0 6 0 5 \\quad (5 - 1 0) \\\\ l e n (i) = \\sqrt {2 2 1 5 . 8 3 - 6 . 2 5 i ^ {2} - 4 9 . 3 7 \\sqrt {1 6 0 6 . 2 5 - 6 . 2 5 i ^ {2}}} + \\sqrt {1 6 0 6 . 2 5 - 6 . 2 5 i ^ {2}} - 2 4. 6 5 \\\\ s = 5 8. 8 3 \\quad = s - l e n (i) \\\\ 3. \\\\ \\hline i & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 \\\\ \\hline & 4. 8 3 & 5. 1 9 & 5. 8 0 & 6. 6 6 & 7. 7 6 & 9. 1 3 & 1 0. 7 7 & 1 2. 6 9 \\\\ \\hline & 3 8. 9 7 & 3 8. 6 1 & 3 8. 0 0 & 3 7. 1 5 & 3 6. 0 4 & 3 4. 6 7 & 3 3. 0 3 & 3 1. 1 1 \\\\ \\hline \\\\ \\hline i & 9 & 1 0 & 1 1 & 1 2 & 1 3 & 1 4 & 1 5 & 1 6 \\\\ \\hline & 1 4. 9 1 & 1 7. 4 3 & 2 0. 2 9 & 2 3. 5 2 & 2 7. 1 6 & 3 1. 3 0 & 3 6. 1 6 & - \\\\ \\hline & 2 8. 9 0 & 2 6. 3 7 & 2 3. 5 1 & 2 0. 2 8 & 1 6. 6 4 & 1 2. 5 1 & 7. 6 4 & - \\end{array}\\tag{1}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            173,
+            498,
+            816,
+            824
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(2)",
+        "bbox": [
+            157,
+            839,
+            189,
+            857
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{r l} r ^ {2} = 1 6 0 6. 2 5 \\quad w = 2. 5 & (5 - 9) \\\\ \\frac {l}{2} = \\sqrt {r ^ {2} - \\left(w i\\right) ^ {2}} = \\sqrt {1 6 0 6 . 2 5 - 6 . 2 5 i ^ {2}}. \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            176,
+            856,
+            675,
+            913
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "page_number",
+        "text": "12",
+        "bbox": [
+            490,
+            919,
+            509,
+            931
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/1303f079492e303bc94d2b0dab584e28c67834737c633f738284879549cc5d7f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>i</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td></tr><tr><td></td><td>80</td><td>79.52</td><td>78.74</td><td>77.62</td><td>76.16</td><td>74.34</td><td>72.12</td><td>69.46</td></tr><tr><td></td><td>39.28</td><td>39.52</td><td>39.91</td><td>40.47</td><td>41.2</td><td>42.11</td><td>43.22</td><td>44.55</td></tr><tr><td>i</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td></tr><tr><td></td><td>66.34</td><td>62.64</td><td>58.3</td><td>53.16</td><td>46.9</td><td>39.06</td><td>28.28</td><td>5</td></tr><tr><td></td><td>46.11</td><td>47.96</td><td>50.13</td><td>52.7</td><td>55.83</td><td>59.75</td><td>65.14</td><td>76.78</td></tr></table>",
+        "bbox": [
+            179,
+            86,
+            808,
+            275
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/33519dca5b4be44a857b8ac300bb8bcad38c5bf1a415a75fed81549283485750.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            134,
+            314,
+            858,
+            903
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "page_number",
+        "text": "13",
+        "bbox": [
+            489,
+            918,
+            509,
+            931
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "$f(x)$",
+        "bbox": [
+            178,
+            157,
+            223,
+            175
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c c c c c} {f (x)} & {\\sqrt {r ^ {2} - x ^ {2}}} \\\\ & {\\text {体}} \\\\ & {\\sqrt {r ^ {2} - x ^ {2}} (\\quad f (v) \\quad \\sqrt {r ^ {2} - v ^ {2}})} \\end{array} . \\tag {5-6} \\tag {5 - 7}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            220,
+            103,
+            700,
+            176
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array}{l} x = v, \\\\ y = f (v) + \\frac {\\left(d \\cos \\theta + w - f (v)\\right) \\cdot \\left(u - f (v)\\right)}{\\sqrt {d ^ {2} + w ^ {2} + f ^ {2} (v) - 2 (d \\cos \\theta + w) f (v) + 2 d w \\cos \\theta}}, \\\\ z = \\frac {d \\sin \\theta \\big (u - f (v) \\big)}{\\sqrt {d ^ {2} + w ^ {2} + f ^ {2} (v) - 2 (d \\cos \\theta + w) f (v) + 2 d w \\cos \\theta}}, \\\\ (u, v \\quad .) \\end{array} \\right.\\tag{7-1}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            272,
+            198,
+            786,
+            336
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\nz = \\frac {d (y - f (x)) \\sin \\theta}{d \\cos \\theta + w - f (x)}   d\\tag{7-2}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            426,
+            378,
+            610,
+            438
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "$\\theta$",
+        "bbox": [
+            176,
+            422,
+            196,
+            438
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "w",
+        "bbox": [
+            114,
+            446,
+            136,
+            458
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n(x, y) = (x, g (x)) \\quad (x \\quad) \\quad u = g (x)\n$$",
+        "text_format": "latex",
+        "bbox": [
+            216,
+            483,
+            640,
+            503
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array}{l} x = v, \\\\ y = f (v) + \\frac {\\left(d \\cos \\theta + w - \\sqrt {r ^ {2} - v ^ {2}}\\right) \\cdot \\left(g (v) - f (v)\\right)}{\\sqrt {d ^ {2} + w ^ {2} + f ^ {2} (v) - 2 (d \\cos \\theta + w) f (v) + 2 d w \\cos \\theta}}, \\\\ z = \\frac {d \\sin \\theta \\big (g (v) - f (v) \\big)}{\\sqrt {d ^ {2} + w ^ {2} + f ^ {2} (v) - 2 (d \\cos \\theta + w) f (v) + 2 d w \\cos \\theta}}, \\\\ (v \\quad ,) \\end{array} \\right.\\tag{7-3}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            278,
+            526,
+            786,
+            672
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array}{l} d (y - f (x)) \\sin \\theta = z (d \\cos \\theta + w - f (x)) \\\\ d (g (x) - f (x)) \\sin \\theta = z \\sqrt {d ^ {2} + w ^ {2} + f ^ {2} (x) - 2 (d \\cos \\theta + w) f (x) + 2 d w \\cos \\theta} \\end{array} \\right.\\tag{7-4}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            233,
+            695,
+            821,
+            747
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\nl e n (x _ {i}) = \\sqrt {d ^ {2} + w ^ {2} + f ^ {2} (x _ {i}) - 2 (d \\cos \\theta + w) f (x _ {i}) + 2 d w \\cos \\theta} + f (x _ {i}) - d - w\\tag{7-5}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            218,
+            773,
+            821,
+            796
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "h",
+        "bbox": [
+            218,
+            855,
+            238,
+            870
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c} y = f (x) \\\\ 2 \\end{array}\\tag{\\(y = g(x)\\}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            381,
+            833,
+            458,
+            870
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "aside_text",
+        "text": "7.2",
+        "bbox": [
+            115,
+            809,
+            157,
+            828
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "page_number",
+        "text": "14",
+        "bbox": [
+            490,
+            919,
+            510,
+            931
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{l} \\min h / \\sin \\theta \\\\ \\min \\sum_ {i = 1} ^ {n} \\operatorname{len} \\left(x _ {i}\\right) \\\\ s. t. \\left\\{ \\begin{array}{l} \\operatorname{len} \\left(x _ {i}\\right) <   s - \\lambda , i = 1, 2, \\dots , n \\\\ y _ {D} \\left(x _ {i}\\right) \\geq 0, i = 1, 2, \\dots , n \\\\ 2 (w + h \\cot \\theta) \\geq a W \\\\ z _ {D} \\left(x _ {i}\\right) \\leq h, i = 1, 2, \\dots , n - 1 \\end{array} \\right. \\\\ s \\quad (\\quad) \\quad \\theta \\\\ a \\quad \\lambda \\quad \\text {小}. s \\quad \\theta \\\\ \\operatorname{len} \\left(x _ {i}\\right) = \\sqrt {d ^ {2} + w ^ {2} + f ^ {2} \\left(x _ {i}\\right) - 2 (d \\cos \\theta + w) f \\left(x _ {i}\\right) + 2 d \\cos \\theta \\cdot w} + f \\left(x _ {i}\\right) - d - w \\\\ y _ {D} \\left(x _ {i}\\right) = f \\left(x _ {i}\\right) + \\frac {(d \\cos \\theta + w - f \\left(x _ {i}\\right)) (d + w - f \\left(x _ {i}\\right))}{\\sqrt {d ^ {2} + w ^ {2} + f ^ {2} \\left(x _ {i}\\right) - 2 (d \\cos \\theta + w) f \\left(x _ {i}\\right) + 2 d w \\cdot \\cos \\theta}} \\\\ z _ {D} \\left(x _ {i}\\right) = \\frac {d \\sin \\theta (g (x _ {i}) - f (x _ {i}))}{\\sqrt {d ^ {2} + w ^ {2} + f ^ {2} (x _ {i}) - 2 (d \\cos \\theta + w) f (x _ {i}) + 2 d w \\cos \\theta}} \\\\ x _ {i} = w i \\quad d = \\frac {h}{\\sin \\theta} - s. \\end{array}\\tag{7-6}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            157,
+            84,
+            850,
+            440
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "7.3.1",
+        "bbox": [
+            115,
+            494,
+            161,
+            511
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/7004720cd052d80d8a2604512265022dba83d9fe817fe3b50c6f8401809d439e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            302,
+            513,
+            752,
+            682
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(7-2).",
+        "bbox": [
+            784,
+            514,
+            880,
+            533
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(1)",
+        "bbox": [
+            154,
+            706,
+            184,
+            723
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "6.2.1",
+        "bbox": [
+            115,
+            742,
+            159,
+            758
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c c c c c} h = 5 7 & w = 2. 5 & W = 6 0. & \\lambda = 5 & a = 1 \\\\ & (\\quad 5) \\\\ & & \\theta = 1. 0 4 7 2 & s = 3 2. \\end{array}\\tag{7-6}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            236,
+            722,
+            719,
+            777
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c} d = \\frac {h}{\\sin \\theta} - s = 3 6. 3 1 8 \\quad w = 2. 5 \\quad \\theta = 1. 0 4 7 2 \\\\ l e n \\left(x _ {i}\\right) = \\sqrt {d ^ {2} + w ^ {2} + f ^ {2} \\left(x _ {i}\\right) - 2 \\left(d \\cos \\theta + w\\right) f \\left(x _ {i}\\right) + 2 d \\cos \\theta \\cdot w} + f \\left(x _ {i}\\right) - d - w \\\\ 5. \\end{array}\\tag{2}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            152,
+            813,
+            842,
+            896
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "aside_text",
+        "text": "7.3",
+        "bbox": [
+            114,
+            448,
+            152,
+            464
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "page_number",
+        "text": "15",
+        "bbox": [
+            490,
+            919,
+            507,
+            931
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/e94c393ed38586fcbc11f5c2bf0f6f75704cb09b9b07e184ab8703a3649317a2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td></td><td colspan=\"7\">5</td><td colspan=\"4\">( cm )</td><td></td></tr><tr><td>i</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td></tr><tr><td></td><td>137.07</td><td>137.30</td><td>137.74</td><td>138.38</td><td>139.20</td><td>140.19</td><td>141.31</td><td>142.53</td><td>143.81</td><td>145.07</td><td>146.28</td><td>147.36</td></tr><tr><td></td><td>29.50</td><td>29.23</td><td>28.71</td><td>27.93</td><td>26.89</td><td>25.58</td><td>23.98</td><td>22.10</td><td>19.94</td><td>17.49</td><td>14.76</td><td>11.766</td></tr><tr><td></td><td>2.50</td><td>2.77</td><td>3.297</td><td>4.07</td><td>5.11</td><td>6.42</td><td>8.02</td><td>9.90</td><td>12.061</td><td>14.511</td><td>17.244</td><td>20.24</td></tr><tr><td></td><td>60</td><td>55</td><td>50</td><td>45</td><td>40</td><td>35</td><td>30</td><td>25</td><td>20</td><td>15</td><td>10</td><td>5</td></tr><tr><td></td><td>44.57</td><td>46.95</td><td>49.24</td><td>51.44</td><td>53.56</td><td>55.59</td><td>57.53</td><td>59.38</td><td>61.14</td><td>62.80</td><td>64.36</td><td>65.82</td></tr></table>",
+        "bbox": [
+            132,
+            119,
+            863,
+            365
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "$\\theta = 0, 0.1496, 0.2992, 0.4488, 0.5984, 0.7480, 0.8976, 1.0472$ 7-3 7-4. (",
+        "bbox": [
+            216,
+            438,
+            818,
+            476
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/d8514e26160145b88baba8ca6947b55e6463b9beebdea3d875df6ec5df2dd1ad.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            124,
+            492,
+            816,
+            887
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "page_number",
+        "text": "16",
+        "bbox": [
+            490,
+            919,
+            509,
+            931
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "7.3.2 8字",
+        "text_level": 2,
+        "bbox": [
+            115,
+            118,
+            216,
+            136
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "70cm",
+        "bbox": [
+            159,
+            156,
+            211,
+            173
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "8 字 (7-5)",
+        "bbox": [
+            319,
+            137,
+            470,
+            156
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/5a292950e4e9a89991e9127943ebb79b1cb5a0ff6ec70235b6d0a3081fb591e1.jpg",
+        "image_caption": [
+            "60cm"
+        ],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            342,
+            188,
+            655,
+            357
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "table",
+        "img_path": "images/c98d3e519e51ff294c6a8629953516bad2e7af1d215ddf49c07cb3d6458d131f.jpg",
+        "table_caption": [
+            "6."
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>i</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr><tr><td></td><td>149.2</td><td>149.1</td><td>148.9</td><td>148.5</td><td>147.9</td><td>147.1</td><td>146.2</td><td>145.1</td><td>143.8</td></tr><tr><td></td><td>30.28</td><td>26.02</td><td>22.69</td><td>19.94</td><td>17.64</td><td>15.72</td><td>14.14</td><td>12.87</td><td>11.90</td></tr><tr><td></td><td>9.72</td><td>13.98</td><td>17.31</td><td>20.06</td><td>22.36</td><td>24.28</td><td>25.86</td><td>27.13</td><td>28.10</td></tr><tr><td></td><td>106.03</td><td>114.54</td><td>121.20</td><td>126.70</td><td>131.31</td><td>135.15</td><td>138.31</td><td>140.84</td><td>142.77</td></tr><tr><td></td><td>106.03</td><td>114.54</td><td>121.20</td><td>126.70</td><td>131.31</td><td>135.15</td><td>138.31</td><td>140.84</td><td>59.4</td></tr><tr><td>i</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td></td></tr><tr><td></td><td>23.81</td><td>22.44</td><td>21.62</td><td>21.35</td><td>21.62</td><td>22.44</td><td>23.81</td><td>25.74</td><td></td></tr><tr><td></td><td>11.22</td><td>10.81</td><td>10.68</td><td>10.81</td><td>11.22</td><td>11.90</td><td>12.87</td><td>14.14</td><td></td></tr><tr><td></td><td>28.78</td><td>29.19</td><td>29.32</td><td>29.19</td><td>28.78</td><td>28.10</td><td>27.13</td><td>25.86</td><td></td></tr><tr><td></td><td>23.81</td><td>22.44</td><td>21.62</td><td>21.35</td><td>21.62</td><td>22.44</td><td>23.81</td><td>25.74</td><td></td></tr><tr><td></td><td>144.14</td><td>144.96</td><td>145.23</td><td>144.96</td><td>144.14</td><td>142.77</td><td>140.84</td><td>138.31</td><td></td></tr></table>",
+        "bbox": [
+            166,
+            422,
+            830,
+            824
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "7)",
+        "bbox": [
+            201,
+            861,
+            223,
+            878
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "header",
+        "text": "7-4",
+        "bbox": [
+            364,
+            85,
+            398,
+            100
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "page_number",
+        "text": "17",
+        "bbox": [
+            490,
+            918,
+            510,
+            931
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/dedd557f4108ed4e24c5c5bc9fda4a4c0e628b07a641f722e42070c25121d868.jpg",
+        "image_caption": [
+            "7-6 8字"
+        ],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            206,
+            87,
+            808,
+            308
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/b183fcb76aeec44698adb4d7813044f23dc719686c8d7d6563b8eab822cbc08c.jpg",
+        "image_caption": [
+            "7-7 8字"
+        ],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            319,
+            350,
+            484,
+            477
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/b51692e6693a1b3b2e6901f6023fbe25810475c3204e901e7f42a8a2127031a9.jpg",
+        "image_caption": [
+            "$\\theta(x_{i})$",
+            "$\\theta(x_{i})$",
+            "8.3",
+            "$f(x)$"
+        ],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            519,
+            337,
+            707,
+            483
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "page_number",
+        "text": "18",
+        "bbox": [
+            490,
+            919,
+            509,
+            931
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "$\\psi (x)$",
+        "bbox": [
+            433,
+            84,
+            484,
+            104
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "$f(x)$",
+        "bbox": [
+            137,
+            143,
+            184,
+            163
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "$\\psi (x)$",
+        "bbox": [
+            448,
+            123,
+            500,
+            143
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "$\\psi (x)$",
+        "bbox": [
+            588,
+            143,
+            638,
+            163
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "$\\psi (x)$",
+        "bbox": [
+            833,
+            123,
+            880,
+            142
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "( )",
+        "bbox": [
+            416,
+            218,
+            505,
+            241
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "2006.\n2007.",
+        "bbox": [
+            732,
+            219,
+            836,
+            256
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "page_number",
+        "text": "19",
+        "bbox": [
+            489,
+            918,
+            510,
+            931
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "code",
+        "sub_type": "code",
+        "code_caption": [],
+        "code_body": "```matlab\n1\n%canshu\nw=2.5;\nr=sqrt(100+1)*w;\nl=60-w;\nd=l/2;\nh=53-3;\ntheta=asin(h/l);\n%shengcheng canshu\nv=-25:25;\nu=25:60;\n[u,v]=meshgrid(u,v);\n%qumian canshu fangcheng\nx=v;\ny=sqrt(r^2-v.^2)+(d*cos(theta)+w-sqrt(r^2-v.^2)).\n*(u-sqrt(r^2-v.^2))./sqrt(d^2+w^2+r^2-v.^2-2*(d*cos(theta)+w)*sqrt(r^2-v.^2)+2*d*w*cos(theta));\nz=d*sin(theta)*(u-sqrt(r^2-v.^2))./sqrt(d^2+w^2+r^2-v.^2-2*(d*cos(theta)+w)*sqrt(r^2-v.^2)+2*d*w*cos(theta));\nz=-z;\n%cemian tuxiang\nfigure(1);\nmesh(x,y,z);\n%zhuojiao bianyuanxian\nu=60;\nv=-25:25;\nx=v;\ny=sqrt(r^2-v.^2)+(d*cos(theta)+w-sqrt(r^2-v.^2)).\n*(u-sqrt(r^2-v.^2))./sqrt(d^2+w^2+r^2-v.^2-2*(d*cos(theta)+w)*sqrt(r^2-v.^2)+2*d*w*cos(theta));\nz=d*sin(theta)*(u-sqrt(r^2-v.^2))./sqrt(d^2+w^2+r_²-v.^2-2*(d*cos(theta)+w)*sqrt(r^2-v.^2)+2*d*w*cos(theta));\nz=-z;\nfigure(2);\nplot3(x,y,z,'LineWidth',2);\ngrid on;\n2\n%canshu\nw=2.5;\nr=sqrt(100+1)*w;\nl=60-w;\nd=l/2;\nh=53-3;\ntheta=asin(h/l);\n%zhuobian dian zuobiao\nxc=-10:10;\nxc=xc*w;\nyc=sqrt(r^2-xc.^2);\nzc=zeros(1,21);\n```",
+        "bbox": [
+            110,
+            81,
+            880,
+            910
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "code",
+        "sub_type": "code",
+        "code_caption": [],
+        "code_body": "```txt\n3 ( 2)\nglobal w h a W r x lamda;\nw=2.5;h=70-3;a=1;W=80;lamda=1.5;r=sqrt(40*40+2.5*2.5);\nx=[2.5:2.5:40]';\nts0=[pi/4,h/2];\nlb=[0,0];\nub=[pi/2,h];\nts=fmincon(@objfun,ts0,[],[],[],[],lb,ub,@confun)\n```",
+        "bbox": [
+            114,
+            167,
+            480,
+            304
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "code",
+        "sub_type": "code",
+        "code_caption": [],
+        "code_body": "```matlab\nobjfun.m\nfunction f=objfun(ts)\nf=-sin(ts(1));\n%di er mubiao\n%l=w+h/sin(ts(1));\n%d=l-ts(2);\n%q=32.5-abs(x);\n%len=sqrt(d^2-+w^2+q^2-2*(d*cos(ts(1))+w)*q+\n2*d*w*cos(ts(1))+q-d-w\n%f=sum(len);\n\nconfun.m\nfunction [c,ceq]=confun(ts)\n%ts=[theta,s];\n\nglobal w h a W r x lamda;\nl=w+h/sin(ts(1));\nd=l-ts(2);\nq=sqrt(r^2-x.^2);\nlen=sqrt(d^2-+w^2+r^2-x.^2-2*(d*cos(ts(1))+w)*\nq+2*d*w*cos(ts(1))+q-d-w;\n\nc=[a*W-2*(w+h*cot(ts(1)));\n\n-(q+(d*cos(ts(1))+w-q).*(l-q)./sqrt(d^2-+w^2+r^2-\nx.^2-2*(d*cos(ts(1))+w)*q+2*d*w*cos(ts(1))));\n    len-ts(2)+lamda\n];\nceq=[];\n```",
+        "bbox": [
+            112,
+            318,
+            482,
+            741
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "code",
+        "sub_type": "code",
+        "code_caption": [],
+        "code_body": "```matlab\n4       2\n%canshu\nglobal w h a W r x lamda n;\nw=2.5;h=70-3;a=1;W=80;lamda=5;r=sqrt(40*40+\n2.5*2.5);\n\n%youhua qiujie\nx=[2.5:2.5:40]';\nts0=[pi/4,h/2];\nlb=[0,0];\n```",
+        "bbox": [
+            114,
+            763,
+            477,
+            912
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "code",
+        "sub_type": "code",
+        "code_caption": [],
+        "code_body": "```matlab\nub=[pi/2,h];\nts=fmincon(@objfun,ts0,[],[],[],[],lb,ub,@confun)\n\ntheta=ts(1);          %youhua jieguo\ns=ts(2);                  %youhua jieguo\nl=w+h/sin(theta);\nd=l-s;\nn=80/2.5+1;\n\n%zhuobian dian zuobiao\nxc=-40:2.5:40;\nyc=sqrt(r^2-xc.^2);\nzc=zeros(1,n);\n\n%gangjin dian zuobiao\nxg=-40:2.5:40;\nyg=d*cos(theta)*ones(1,n)+w;\nzg=d*sin(theta)*ones(1,n);\n\n%zhuobian dao gangjin de juli:\nfor i=1:n\n\ndis(i)=norm([xc(i),yc(i),zc(i)]-[xg(i),yg(i),zg(i)]);\nend\n\n%kaicang dao banbian de juli:\nfor i=1:n\n    margin(i)=l-yc(i)-dis(i);\nend\n\n%muban dingdian zuobiao\nfor i=1:n\n    k=(margin(i)+dis(i))/dis(i);\n    xd(i)=xc(i)+k*(xg(i)-xc(i));\n    yd(i)=yc(i)+k*(yg(i)-yc(i));\n    zd(i)=zc(i)+k*(zg(i)-zc(i));\nend\n\nfigure(1); hold on;\nplot3(xc,yc,zc,'*');\nplot3(xg,yg,zg,'r');\nfor i=1:n\n\nline([xc(i),xg(i),[yc(i),yg(i),[zc(i),zg(i)],'LineWidth',2);\n\nline([xd(i),xg(i),[yd(i),yg(i),[zd(i),zg(i)],'LineWidth',2);\nend\n\nfigure(1); hold on;\nplot3(xc,-yc,zc,'*');\nplot3(xg,-yg,zg,'r');\nfor i=1:n\n\nline([xc(i),xg(i),[-yc(i),-yg(i),[zc(i),zg(i)],'LineWidth',1,'Color',[.2 .2 .2]);\n```",
+        "bbox": [
+            510,
+            81,
+            880,
+            908
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "code",
+        "sub_type": "code",
+        "code_caption": [],
+        "code_body": "```matlab\nline([xd(i),xg(i)],[-yd(i),-yg(i)],[zd(i),zg(i)],'LineWidth',1,'Color',[.2 .2 .2]);\nend\n\nplot3(xc,yc,zc);plot3(xc,-yc,zc);\nline([xc(1),xc(1)],[yc(1),-yc(1)],[zc(1),zc(1)],'LineWidth',2);\nline([xc(n),xc(n)],[yc(n),-yc(n)],[zc(n),zc(n)],'LineWidth',2);\nview(3)\n\n[X,Y,Z]=sphere(30);\nX=l*X/2;Y=l*Y/2;Z=zeros(31);\nsurf(X,Y,Z);\ncolormap(spring);\nalpha(.5)\nshading interp; axis equal; axis off;\n```",
+        "bbox": [
+            112,
+            93,
+            480,
+            347
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "code",
+        "sub_type": "code",
+        "code_caption": [],
+        "code_body": "```matlab\nglobal w h a W x lamda;\nw=2.5;h=60-3;a=1;W=60;lamda=5;\nx=[2.5:2.5:30]';\n%8xing, gaiwei:\n%w=2.5;h=70-3;a=1;W=90;lamda=5;\n%x=[2.5:2.5:45]';\nts0=[pi/4,h/2];\nlb=[0,0];\nub=[pi/2,h];\nts=fmincon(@objfun,ts0,[],[],[],[],lb,ub,@confun)\n\nconfun.m:\nfunction [c,ceq]=confun(ts)\n%ts=[theta,s];\n\nglobal w h a W x lamda;\nl=w+h/sin(ts(1));\nd=l-ts(2);\nq=32.5-abs(x);          %8xing, gaiwei:\nq=sqrt(30^2-(x-15)^2);\nlen=sqrt(d^2-+w^2+q^2-2*(d*cos(ts(1))+w)*q+2*\nd*w*cos(ts(1))+q-d-w;\n\nc=[a*W-2*(w+h*cot(ts(1)));\n\n-(q+(d*cos(ts(1))+w-q).*(l-q)./sqrt(d^2-+w^2+r^2-\nx.^2-2*(d*cos(ts(1))+w)*q+2*d*w*cos(ts(1))));\n    len-ts(2)+lamda\n  ];\nceq=[];\n\nobjfun.m\nfunction f=objfun(ts)\nf=-sin(ts(1));\n%di er mubiao\n%l=w+h/sin(ts(1));\n```",
+        "bbox": [
+            112,
+            368,
+            482,
+            907
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "code",
+        "sub_type": "code",
+        "code_caption": [],
+        "code_body": "```matlab\n%d=1-ts(2);\n%q=32.5-abs(x);\n%len=sqrt(d^2-+w^2+q^2-2*(d*cos(ts(1))+w)*q+\n2*d*w*cos(ts(1))+q-d-w\n%f=sum(len);\n\n6\nclear;\n%canshu\nw=2.5;h=60-3;a=1;W=60; n=W/2.5+1;s=32;\nt=pi/3;\nl=w+h/sin(t);\nR=sqrt(l^2+30^2);\n\n%zhuobian dian zuobiao\nxc=-30:2.5:30;\nyc=32.5-abs(xc);\nzc=zeros(1,n);\n\nxd=xc;xg=xc;\nll=sqrt(R^2-xc.^2);\nd=l-s;\n\nfor m=1:8\n    tt=linspace(0,8,8);\n    theta=tt(m)*t/8;\n\n    %gangjin dian zuobiao\n    yg=d*cos(theta)*ones(1,n)+w;\n    zg=d*sin(theta)*ones(1,n);\n\n    %zhuobian dao gangjin de juli:\n    for i=1:n\n\ndis(i)=norm([xc(i),yc(i),zc(i)]-[xg(i),yg(i),zg(i)]);\n    end\n\n    %kaicang dao banbian de juli:\n    margin=ll-yc-dis;\n\n    %muban dingdian zuobiao\n    for i=1:n\n        k=(margin(i)+dis(i))/dis(i);\n        yd(i)=yc(i)+k*(yg(i)-yc(i));\n        zd(i)=zc(i)+k*(zg(i)-zc(i));\n    end\n\n    subplot(2,4,m)\n    figure(1); hold on;\n    plot3(xc,yc,zc,'*');\n    plot3(xg,yg,zg,'r');\n    for i=1:n\n\nline([xc(i),xg(i)],[yc(i),yg(i),[zc(i),zg(i)],'LineWidth',2);\n\nline([xd(i),xg(i)],[yd(i),yg(i),[zd(i),zg(i)],'LineWi\n```",
+        "bbox": [
+            512,
+            84,
+            878,
+            907
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "code",
+        "sub_type": "code",
+        "code_caption": [],
+        "code_body": "```matlab\ndth',2);\n    end\n\n    plot3(xc,-yc,zc,'*');\n    plot3(xg,-yg,zg,'r');\n    for i=1:n\n\nline([xc(i),xg(i)],[-yc(i),-yg(i)],[zc(i),zg(i)],'LineWidth',1,'Color',[.2 .2 .2]);\n\nline([xd(i),xg(i)],[-yd(i),-yg(i)],[zd(i),zg(i)],'LineWidth',1,'Color',[.2 .2 .2]);\n    end\n\n    plot3(xc,yc,zc);plot3(xc,-yc,zc);\n\nline([xc(1),xc(1)],[yc(1),-yc(1)],[zc(1),zc(1)],'LineWidth',2);\n\nline([xc(n),xc(n)],[yc(n),-yc(n)],[zc(n),zc(n)],'LineWidth',2);\n    view(3)\n\n    X=[0 0;-1 1;0 0];Y=[1 1;0 0;-1 -1];\n    X=32.5*X;Y=32.5*Y;Z=zeros(3,2);\n    surf(X,Y,Z);\n    colormap(spring);\n    alpha(.5)\n    shading interp; axis equal; axis off;\nend\nfigure(2);\nplot3(xd,yd,zd);plot3(xd,-yd,zd);\n\n7 8\nclear;\n%canshu\nw=2.5;h=70-3;W=90; n=W/2.5-1;s=40;\nt=pi*70/180;\n\n%zhuobian dian zuobiao\nxc=-42.5:2.5:42.5;\nyc=sqrt(30^2-(abs(xc)-15).^2);\nzc=zeros(1,n);\n\nl=yc(1)+h/sin(t);\nxd=xc;xg=xc;\nd=l-s;\n\nfor m=1:8\n    theta=m*t/8;\n\n    %gangjin dian zuobiao\n    yg=d*cos(theta)*ones(1,n)+w;\n    zg=d*sin(theta)*ones(1,n);\n\n    %zhuobian dao gangjin de juli:\n    for i=1:n\n```",
+        "bbox": [
+            112,
+            81,
+            480,
+            906
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "code",
+        "sub_type": "code",
+        "code_caption": [],
+        "code_body": "```matlab\ndis(i)=norm([xc(i),yc(i),zc(i)]-[xg(i),yg(i),zg(i)]);\n    end\n\n    %kaicang dao banbian de juli:\n    margin=l-yc-dis;\n\n    %muban dingdian zuobiao\n    for i=1:n\n        k=(margin(i)+dis(i))/dis(i);\n        yd(i)=yc(i)+k*(yg(i)-yc(i));\n        zd(i)=zc(i)+k*(zg(i)-zc(i));\n    end\n\n    subplot(2,4,m)\n    figure(1); hold on;\n    plot3(xc,yc,zc,'*');\n    plot3(xg,yg,zg,'r');\n    for i=1:n\n\n    line([xc(i),xg(i)],[yc(i),yg(i)],[zc(i),zg(i)],'LineWidth',2);\n\n    line([xd(i),xg(i)],[yd(i),yg(i)],[zd(i),zg(i)],'LineWidth',2);\n    end\n\n    plot3(xc,-yc,zc,'*');\n    plot3(xg,-yg,zg,'r');\n    for i=1:n\n\n    line([xc(i),xg(i)],[-yc(i),-yg(i)],[zc(i),zg(i)],'LineWidth',1,'Color',[.2 .2 .2]);\n\n    line([xd(i),xg(i)],[-yd(i),-yg(i)],[zd(i),zg(i)],'LineWidth',1,'Color',[.2 .2 .2]);\n    end\n\n    plot3(xc,yc,zc);plot3(xc,-yc,zc);\n\n    line([xc(1),xc(1)],[yc(1),-yc(1)],[zc(1),zc(1)],'LineWidth',2);\n\n    line([xc(n),xc(n)],[yc(n),-yc(n)],[zc(n),zc(n)],'LineWidth',2);\n    view(3)\n\n    [X,Y,Z]=sphere(30);\n    X=30*X;Y=30*Y;Z=zeros(31);\n    X=X+15;      surf(X,Y,Z);\n    X=X-30;      surf(X,Y,Z);\n    colormap(spring);\n    alpha(.5)\n    shading interp; axis equal; axis off;\nend\nfigure(2);\nplot3(xd,yd,zd);plot3(xd,-yd,zd);\n```",
+        "bbox": [
+            510,
+            96,
+            880,
+            908
+        ],
+        "page_idx": 24
+    }
+]
