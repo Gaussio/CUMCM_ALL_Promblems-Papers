@@ -1,0 +1,19 @@
+# 操作系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器 / 临时文件
+*.tmp
+*.bak
+*~
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# 本地临时目录
+_unused/
+_tmp/
