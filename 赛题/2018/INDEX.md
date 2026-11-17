@@ -9,7 +9,7 @@
 | C | `C/` | CUMCM-2018-Problem C-Chinese.docx、readme.txt |
 | D | `D/` | CUMCM-2018-Problem-D-Chinese-Appendix.xlsx、CUMCM-2018-problem-D-Chinese.docx |
 
-## 公共文件 / 共享附件
+## 文件
 
 - `format2018.doc`
 

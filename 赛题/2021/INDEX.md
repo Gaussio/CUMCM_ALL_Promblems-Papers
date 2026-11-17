@@ -10,7 +10,7 @@
 | D | `D/` | CUMCM2021-D.pdf |
 | E | `E/` | CUMCM2021-E.pdf、附件1.xlsx、附件2.xlsx、附件3.xlsx、附件4.xlsx |
 
-## 公共文件 / 共享附件
+## 文件
 
 - `format2021.doc`
 

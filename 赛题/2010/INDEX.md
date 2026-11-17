@@ -9,7 +9,7 @@
 | C | `C/` | cumcm2010C.doc |
 | D | `D/` | Design1.tif、Design2.tif、Design3.tif、Design4.tif、cumcm2010D.doc |
 
-## 公共文件 / 共享附件
+## 文件
 
 - `format2010.doc`
 

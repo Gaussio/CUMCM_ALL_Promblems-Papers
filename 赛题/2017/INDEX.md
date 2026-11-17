@@ -9,7 +9,7 @@
 | C | `C/` | CUMCM-2017-problem-C.docx、Data1.xls、Data2.xls、readme.txt |
 | D | `D/` | CUMCM-2017-appendix-D.xlsx、CUMCM-2017-problem-D.docx |
 
-## 公共文件 / 共享附件
+## 文件
 
 - `format2017.doc`
 - `format2017.pdf`

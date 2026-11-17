@@ -9,7 +9,7 @@
 | C | `C/` | Appendix-C1、Appendix-C2、cumcm2012C.doc、readme.doc |
 | D | `D/` | CUMCM_2012_D_Chinese.doc |
 
-## 公共文件 / 共享附件
+## 文件
 
 - `format2012.doc`
 

@@ -10,7 +10,7 @@
 | D | `D/` | CUMCM-2019-Problem-D-Chinese.docx、CUMCM-2019-Problem-D-Chinese.pdf、附件1.csv、附件2.csv、附件3.docx |
 | E | `E/` | CUMCM-2019-Problem-E-Chinese.docx、CUMCM-2019-Problem-E-Chinese.pdf、data |
 
-## 公共文件 / 共享附件
+## 文件
 
 - `format2019.doc`
 

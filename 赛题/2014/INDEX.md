@@ -9,7 +9,7 @@
 | C | `C/` | CUMCM2014C-Chinese.docx |
 | D | `D/` | CUMCM-2014D-Chinese.doc、附件1-药盒型号.xls、附件2-药品需求量.xls |
 
-## 公共文件 / 共享附件
+## 文件
 
 - `format2014.doc`
 - `全国大学生数学建模竞赛参赛规则.pdf`

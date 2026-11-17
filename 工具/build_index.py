@@ -23,7 +23,8 @@ ROOT = Path(__file__).resolve().parent.parent
 PAPERS = ROOT / "优秀论文"
 MD = ROOT / "优秀论文_MarkDown"
 PROBLEMS = ROOT / "赛题"
-YEARS = [str(y) for y in range(2010, 2026)]
+PAPER_YEARS = [str(y) for y in range(2010, 2026)]
+PROBLEM_YEARS = [str(y) for y in range(1992, 2027)]
 BOOKS = ["1992-2000优秀论文汇编", "2005-2011优秀论文评析A", "2005-2011优秀论文评析B"]
 
 
@@ -87,7 +88,7 @@ def rel(path: Path, start: Path) -> str:
 
 def paper_rows() -> list[dict]:
     rows: list[dict] = []
-    for year in YEARS:
+    for year in PAPER_YEARS:
         pdir = PAPERS / year
         mdir = MD / year
         ids: set[str] = set()
@@ -154,7 +155,7 @@ def write_paper_indexes(rows: list[dict]) -> None:
     by_year: dict[str, list[dict]] = {}
     for row in rows:
         by_year.setdefault(row["year"], []).append(row)
-    for year in YEARS:
+    for year in PAPER_YEARS:
         items = by_year.get(year, [])
         lines = [f"# {year} 年优秀论文", "", f"共 {len(items)} 篇。", ""]
         lines += [
@@ -173,26 +174,27 @@ def write_paper_indexes(rows: list[dict]) -> None:
 
 
 def write_problem_indexes() -> None:
-    for year in YEARS:
+    for year in PROBLEM_YEARS:
         ydir = PROBLEMS / year
         if not ydir.is_dir():
             continue
         subdirs = sorted(p.name for p in ydir.iterdir() if p.is_dir())
+        problem_dirs = [n for n in subdirs if n in {"A", "B", "C", "D", "E"}]
+        other_dirs = [n for n in subdirs if n not in {"A", "B", "C", "D", "E"}]
         root_files = sorted(p.name for p in ydir.iterdir() if p.is_file() and p.name != "INDEX.md")
         lines = [f"# {year} 年赛题", ""]
-        if subdirs:
+        if problem_dirs:
             lines += ["## 题目目录", "", "| 题号 | 目录 | 文件 |", "| :--: | ---- | ---- |"]
-            for name in subdirs:
+            for name in problem_dirs:
                 files = sorted(p.name for p in (ydir / name).iterdir())
                 lines.append(f"| {name} | `{name}/` | {'、'.join(files) if files else '—'} |")
             lines.append("")
+        else:
+            lines += ["> 本年份题目为合并 PDF，覆盖当年全部题目。", ""]
         if root_files:
-            lines += ["## 公共文件 / 共享附件", ""]
-            if year in {"2022", "2023"}:
-                lines.append("> 注：本年份附件仍位于年份根目录，未按题号拆分；请按题目 PDF 中的附件编号对应。")
-                lines.append("")
-            lines += [f"- `{f}`" for f in root_files]
-            lines.append("")
+            lines += ["## 文件", ""] + [f"- `{f}`" for f in root_files] + [""]
+        if other_dirs:
+            lines += ["## 其他目录", ""] + [f"- `{d}/`" for d in other_dirs] + [""]
         lines += ["---", "", "[返回总索引](../../INDEX.md)"]
         (ydir / "INDEX.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
@@ -203,7 +205,6 @@ def write_root_index(rows: list[dict]) -> None:
     total_md = sum(1 for r in rows if r["md"])
     total_ids = len({r["id"] for r in rows})
     missing = [r for r in rows if not r["md"]]
-    no_pdf = [r for r in rows if not r["pdf"]]
     lines = [
         "# 资料总索引",
         "",
@@ -211,23 +212,32 @@ def write_root_index(rows: list[dict]) -> None:
         "",
         "## 总览",
         "",
-        f"- 覆盖年份：{YEARS[0]}–{YEARS[-1]}",
+        f"- 论文覆盖：{PAPER_YEARS[0]}–{PAPER_YEARS[-1]}",
         f"- 论文编号：{total_ids} 个",
         f"- PDF 原件：{total_pdf} 份",
         f"- doc/docx 原件：{total_doc} 份",
         f"- Markdown 论文：{total_md} 篇",
-        f"- 赛题：16 个年份",
+        f"- 赛题覆盖：{PROBLEM_YEARS[0]}–{PROBLEM_YEARS[-1]}（{len(PROBLEM_YEARS)} 个年份）",
         "",
-        "## 分年索引",
+        "## 赛题索引（1992–2026）",
         "",
-        "| 年份 | 赛题 | 优秀论文 | PDF | Markdown |",
-        "| :--: | ---- | -------- | --: | -------: |",
     ]
-    for year in YEARS:
+    years = [int(y) for y in PROBLEM_YEARS]
+    for start in range(years[0], years[-1] + 1, 10):
+        chunk = [y for y in years if start <= y < start + 10]
+        if chunk:
+            lines.append(" · ".join(f"[{y}](赛题/{y}/INDEX.md)" for y in chunk))
+    lines += [
+        "",
+        "## 论文分年索引（2010–2025）",
+        "",
+        "| 年份 | 优秀论文 | PDF | Markdown |",
+        "| :--: | -------- | --: | -------: |",
+    ]
+    for year in PAPER_YEARS:
         items = [r for r in rows if r["year"] == year]
         lines.append(
-            f"| {year} | [赛题](赛题/{year}/INDEX.md) | "
-            f"[论文](优秀论文_MarkDown/{year}/INDEX.md) | "
+            f"| {year} | [论文](优秀论文_MarkDown/{year}/INDEX.md) | "
             f"{sum(1 for r in items if r['pdf'])} | {sum(1 for r in items if r['md'])} |"
         )
     lines += [
@@ -248,14 +258,14 @@ def write_root_index(rows: list[dict]) -> None:
     for r in missing:
         lines.append(f"  - `{r['year']}/{r['id']}`")
     lines += [
-        "- **讲评缺失**：2010–2017 年整段缺失；2018 年仅 A 题；2021 年无资料；2023 年缺“参赛和评阅情况”。",
+        "- **讲评缺失**：1992–2017 年整段缺失；2018 年仅 A 题；2021 年无资料；2023 年缺“参赛和评阅情况”。",
         "- **2025 年论文仅 7 篇**，数量明显少于其他年份。",
         "",
         "## 其他文件",
         "",
         "- [metadata.csv](metadata.csv)：全部论文的结构化元数据",
         "- [DUPLICATES.md](DUPLICATES.md)：重复论文与多格式说明",
-        "- [orphan-images.txt](orphan-images.txt)：P0 清理的未引用图片清单",
+        "- [orphan-images.txt](orphan-images.txt)：未被 Markdown 引用的图片清单",
         "",
     ]
     (ROOT / "INDEX.md").write_text("\n".join(lines), encoding="utf-8")

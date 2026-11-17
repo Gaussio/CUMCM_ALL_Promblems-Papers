@@ -9,7 +9,7 @@
 | C | `C/` | CUMCM2013C.doc、附件1.xls |
 | D | `D/` | CUMCM2013D.doc、readme.doc |
 
-## 公共文件 / 共享附件
+## 文件
 
 - `format2013.doc`
 - `全国大学生数学建模竞赛参赛规则2013.pdf`
