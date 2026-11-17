@@ -39,6 +39,7 @@
 ├── metadata.csv                   # 结构化元数据（UTF-8 with BOM）
 ├── DUPLICATES.md                  # 重复论文与多格式说明
 ├── orphan-images.txt              # 已清理的未引用图片清单
+├── pdf与markdown对比图.png        # PDF 原件与 Markdown 版对照图
 ├── LICENSE
 └── README.md
 ```
@@ -73,6 +74,10 @@
 - 已修复 12 篇论文中 463 个 `U+FFFD` 乱码字符；
 - 2013-B-814、2014-B-16046004 因原转换字体乱码，已使用 MinerU OCR 重新转换；
 - 2014-B-16046004 的转换中间产物与 `hybrid_auto` 版本已删除。
+
+![PDF 原件与 Markdown 版对比](pdf与markdown对比图.png)
+
+*左：`2025-B-060.pdf`（Okular）；右：`2025-B-060.md`（Typora）。公式、表格与图片可直接检索、复制。*
 
 ### 4. 数模讲评（`数模讲评：中国大学生在线网/`）
 
